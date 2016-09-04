@@ -1,0 +1,444 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/typings/index.d.ts" timestamp="1472718974054">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/jshint.rc" timestamp="1472714295435">
+        <mark key="'" line="14" column="23" />
+        <mark key="[" line="41" column="19" />
+        <mark key="]" line="41" column="22" />
+        <mark key="^" line="41" column="22" />
+        <mark key="." line="41" column="22" />
+      </file>
+      <file name="/fragment.js" timestamp="1472819182046">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/mainNav/directive.ts" timestamp="1472740493043">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1472812059791">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/config/webpack.development.js" timestamp="1472736515051">
+        <mark key="[" line="7" column="45" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/routes.config.ts" timestamp="1472800540354">
+        <mark key="'" line="1" column="31" />
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/mainNav/config.ts" timestamp="1472740172751">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/tsconfig.json" timestamp="1472736845954">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="14" column="2" />
+      </file>
+      <file name="K:/abx/abx-vms-app/src/components/vault_management_view/template.html" timestamp="1472648746960">
+        <mark key="[" line="3" column="65" />
+        <mark key="]" line="3" column="84" />
+        <mark key="^" line="3" column="64" />
+        <mark key="." line="3" column="84" />
+      </file>
+      <file name="K:/abx/abx-vms-app/src/components/add_manifest/template.html" timestamp="1472648541857">
+        <mark key="[" line="9" column="68" />
+        <mark key="]" line="9" column="57" />
+        <mark key="^" line="9" column="57" />
+        <mark key="." line="9" column="57" />
+      </file>
+      <file name="K:/DeliberatePractice/ts-tenpin/package.json" timestamp="1472821069650">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/config/helpers.js" timestamp="1472714453657">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1472821822480">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="K:/abx/abx-vms-api/test/specs/services/abx_data/lib/find_depositors.spec.ts" timestamp="1472812131369">
+        <mark key="'" line="19" column="9" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/webpackRequire.ts" timestamp="1472735085424">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="64" />
+        <mark key="." line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/routes/home.config.ts" timestamp="1472734334623">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+      </file>
+      <file name="/AMD JavaScript File.txt.ft" timestamp="1472649008770">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="K:/DeliberatePractice/ts-tenpin/test/tenpin.spec.ts" timestamp="1472824363083">
+        <mark key="'" line="60" column="6" />
+        <mark key="[" line="171" column="50" />
+        <mark key="]" line="174" column="19" />
+        <mark key="." line="174" column="19" />
+        <mark key="^" line="174" column="19" />
+      </file>
+      <file name="K:/abx/abx-vms-app/js/src/components/add_manifest/template.html" timestamp="1472648496939">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="57" />
+        <mark key="^" line="9" column="57" />
+        <mark key="." line="9" column="57" />
+      </file>
+      <file name="K:/abx/abx-vms-app/src/components/main_nav/template.html" timestamp="1472719426726">
+        <mark key="'" line="19" column="47" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="27" column="5" />
+        <mark key="." line="13" column="47" />
+        <mark key="^" line="19" column="46" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/app.ts" timestamp="1472740099310">
+        <mark key="[" line="33" column="55" />
+        <mark key="]" line="18" column="30" />
+        <mark key="." line="18" column="30" />
+        <mark key="^" line="18" column="30" />
+      </file>
+      <file name="K:/abx/abx-vms-app/src/components/vault_details_modal/template.html" timestamp="1472651830327">
+        <mark key="'" line="8" column="37" />
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="5" column="58" />
+        <mark key="." line="5" column="58" />
+        <mark key="^" line="5" column="42" />
+      </file>
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1472821819051">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/.jshintrc" timestamp="1472712244988">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/tslint.json" timestamp="1472715069812">
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="15" />
+        <mark key="." line="31" column="15" />
+        <mark key="^" line="31" column="15" />
+      </file>
+      <file name="K:/playground/angular-babel/webpack.config.js" timestamp="1472559266062">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/routes/routes.config.ts" timestamp="1472737122371">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/config/webpack.common.js" timestamp="1472812784672">
+        <mark key="[" line="59" column="19" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="10" column="22" />
+      </file>
+      <file name="K:/abx/abx-vms-app/js/src/components/shared_column_defs.js" timestamp="1472648477579">
+        <mark key="[" line="34" column="43" />
+        <mark key="]" line="34" column="62" />
+        <mark key="^" line="34" column="40" />
+        <mark key="." line="34" column="62" />
+      </file>
+      <file name="K:/abx/abx-vms-app/test/specs/test_helpers/create_window.ts" timestamp="1472652098269">
+        <mark key="[" line="63" column="11" />
+        <mark key="]" line="64" column="29" />
+        <mark key="." line="64" column="29" />
+        <mark key="^" line="64" column="29" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/home/template.html" timestamp="1472729917692">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/mainNav/template.html" timestamp="1472728891882">
+        <mark key="[" line="12" column="57" />
+        <mark key="]" line="12" column="52" />
+        <mark key="^" line="12" column="52" />
+        <mark key="." line="12" column="52" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/mainNav/template.html" timestamp="1472741300396">
+        <mark key="'" line="4" column="20" />
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="45" />
+        <mark key="." line="5" column="45" />
+        <mark key="^" line="5" column="45" />
+      </file>
+      <file name="K:/abx/abx-vms-app/src/components/shared_column_defs.ts" timestamp="1472648526394">
+        <mark key="[" line="40" column="37" />
+        <mark key="]" line="40" column="56" />
+        <mark key="." line="40" column="56" />
+        <mark key="^" line="40" column="36" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/home/directive.ts" timestamp="1472730426167">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="K:/playground/angular-babel/config/webpack.common.js" timestamp="1472561204897">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1472821807892">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/vendor.ts" timestamp="1472741004256">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/routes/home.route.ts" timestamp="1472741416556">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="5" column="26" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1472633205696">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/package.json" timestamp="1472715656032">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+        <mark key="^" line="24" column="26" />
+      </file>
+      <file name="K:/abx/abx-vms-app/test/specs/components/requires_permission/directive.spec.ts" timestamp="1472652139083">
+        <mark key="'" line="167" column="10" />
+        <mark key="[" line="170" column="15" />
+        <mark key="]" line="170" column="9" />
+        <mark key="." line="170" column="9" />
+        <mark key="^" line="170" column="9" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/ls.ts" timestamp="1472735423541">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+      </file>
+      <file name="/TypeScript File.txt.ft" timestamp="1472649010384">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="K:/abx/abx-vms-api/src/services/abx_data/lib/find_depositors.ts" timestamp="1472812045690">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="K:/abx/abx-vms-app/src/components/vault_contact_details_modal/template.html" timestamp="1472648561433">
+        <mark key="[" line="34" column="40" />
+        <mark key="]" line="34" column="59" />
+        <mark key="^" line="34" column="39" />
+        <mark key="." line="34" column="59" />
+      </file>
+      <file name="K:/DeliberatePractice/ts-tenpin/src/tenpin.ts" timestamp="1472824426542">
+        <mark key="'" line="2" column="15" />
+        <mark key="[" line="4" column="49" />
+        <mark key="]" line="5" column="52" />
+        <mark key="." line="5" column="52" />
+        <mark key="^" line="5" column="52" />
+      </file>
+      <file name="/a.regexp" timestamp="1472552329602">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/index.html" timestamp="1472729489142">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+      </file>
+      <file name="/JavaScript File.txt.ft" timestamp="1472821822962">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="K:/abx/abx-vms-app/src/routes.config.ts" timestamp="1472651329106">
+        <mark key="[" line="40" column="132" />
+        <mark key="]" line="40" column="102" />
+        <mark key="." line="40" column="102" />
+        <mark key="^" line="40" column="102" />
+      </file>
+      <file name="K:/DeliberatePractice/ts-tenpin/tsconfig.json" timestamp="1472818954726">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/mainNav/directive.ts" timestamp="1472728957947">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="1" column="15" />
+      </file>
+      <file name="K:/DeliberatePractice/ts-tenpin/tslint.json" timestamp="1472818698952">
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="15" />
+        <mark key="." line="31" column="15" />
+        <mark key="^" line="31" column="15" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/routes/index.ts" timestamp="1472740624929">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="20" column="55" filename="K:/abx/abx-vms-app/package.json" />
+      <jump line="2" column="0" filename="K:/playground/angular-babel/webpack.config.js" />
+      <jump line="51" column="15" filename="K:/abx/abx-vms-api/src/services/abx_data/lib/find_depositors.ts" />
+      <jump line="14" column="0" filename="K:/abx/abx-vms-api/src/services/abx_data/lib/find_depositors.ts" />
+      <jump line="7" column="9" filename="K:/abx/abx-vms-api/src/services/abx_data/lib/find_depositors.ts" />
+      <jump line="0" column="0" filename="K:/abx/abx-vms-app/src/global_styles.scss" />
+      <jump line="11" column="1" filename="K:/abx/abx-vms-app/src/global_styles.scss" />
+      <jump line="65" column="4" filename="K:/abx/abx-vms-app/src/global_styles.scss" />
+      <jump line="71" column="4" filename="K:/abx/abx-vms-app/src/global_styles.scss" />
+      <jump line="19" column="47" filename="K:/abx/abx-vms-app/src/components/main_nav/template.html" />
+      <jump line="7" column="37" filename="K:/abx/abx-vms-app/src/components/vault_details_modal/template.html" />
+      <jump line="74" column="32" filename="K:/abx/abx-vms-app/test/specs/components/requires_permission/directive.spec.ts" />
+      <jump line="97" column="42" filename="K:/abx/abx-vms-app/test/specs/components/requires_permission/directive.spec.ts" />
+      <jump line="7" column="13" filename="K:/abx/abx-vms-app/test/specs/components/requires_permission/directive.spec.ts" />
+      <jump line="147" column="12" filename="K:/abx/abx-vms-app/test/specs/components/requires_permission/directive.spec.ts" />
+      <jump line="1" column="2" filename="K:/abx/abx-vms-app/src/components/requires_permission/directive.ts" />
+      <jump line="167" column="10" filename="K:/abx/abx-vms-app/test/specs/components/requires_permission/directive.spec.ts" />
+      <jump line="14" column="23" filename="K:/Chillisoft/Workflow/source/workflow-webapp/jshint.rc" />
+      <jump line="34" column="4" filename="K:/abx/abx-vms-app/scripts/cross_build.js" />
+      <jump line="15" column="44" filename="K:/abx/abx-vms-app/scripts/cross_build.js" />
+      <jump line="13" column="49" filename="K:/abx/abx-vms-app/scripts/cross_build.js" />
+      <jump line="12" column="44" filename="K:/abx/abx-vms-app/scripts/cross_build.js" />
+      <jump line="11" column="45" filename="K:/abx/abx-vms-app/scripts/cross_build.js" />
+      <jump line="10" column="55" filename="K:/abx/abx-vms-app/scripts/cross_build.js" />
+      <jump line="72" column="22" filename="K:/abx/abx-vms-app/package.json" />
+      <jump line="0" column="12" filename="K:/Chillisoft/Workflow/source/workflow-webapp/js/src/routes.config.js" />
+      <jump line="1" column="20" filename="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/mainNav/template.html" />
+      <jump line="1" column="31" filename="K:/Chillisoft/Workflow/source/workflow-webapp/src/routes.config.ts" />
+      <jump line="15" column="4" filename="K:/Chillisoft/Workflow/source/workflow-webapp/src/app.ts" />
+      <jump line="17" column="6" filename="K:/Chillisoft/Workflow/source/workflow-webapp/src/app.ts" />
+      <jump line="34" column="2" filename="K:/Chillisoft/Workflow/source/workflow-webapp/src/app.ts" />
+      <jump line="19" column="9" filename="K:/abx/abx-vms-api/test/specs/services/abx_data/lib/find_depositors.spec.ts" />
+      <jump line="6" column="17" filename="K:/DeliberatePractice/ts-tenpin/test/tenpin.spec.ts" />
+      <jump line="32" column="11" filename="K:/DeliberatePractice/ts-tenpin/test/tenpin.spec.ts" />
+      <jump line="47" column="6" filename="K:/DeliberatePractice/ts-tenpin/test/tenpin.spec.ts" />
+      <jump line="2" column="15" filename="K:/DeliberatePractice/ts-tenpin/src/tenpin.ts" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIC53aXRoVHVybignWCcsICctJykK</text>
+      </register>
+      <register name="-" type="4">
+        <text>[</text>
+      </register>
+      <register name="/" type="4">
+        <text>'</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIC53aXRoVHVybignWCcsICctJykK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGl0KCdzaG91bGQgcmV0dXJuIDEyIHdoZW4gcGxheWVyIGdldHMgW05dIGFuZCBvbmUgc3BhcmUgYW5kIHRoZW4gb25seSBoaXRzIG9uZSBwaW4gZGlyZWN0bHkgYWZ0ZXIgdGhlIHNwYXJlJywgKCkgPT4gewogICAgICAvLyBBcnJhbmdlCiAgICAgIGNvbnN0CiAgICAgICAgZXhwZWN0ZWQgPSAxMiwKICAgICAgICByb2xscyA9IFJvbGxCdWlsZGVyLmNyZWF0ZSgpCiAgICAgICAgICAud2l0aFR1cm4oJzQnLCAnLycpCiAgICAgICAgICAud2l0aFR1cm4oJzEnLCAnLScpCiAgICAgICAgICAud2l0aEJsaW5kZWRQbGF5ZXIoKQogICAgICAgICAgLmJ1aWxkKCk7CiAgICAgIC8vIEFjdAogICAgICBjb25zdCByZXN1bHQgPSBzY29yZShyb2xscyk7CiAgICAgIC8vIEFzc2VydAogICAgICBleHBlY3QocmVzdWx0KS50by5lcXVhbChleHBlY3RlZCk7CiAgICB9KTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEVycm9yKCd3YXQnKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIC53aXRoUmVtYWluaW5nVHVybnMoJy0nLCAnLScpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBzd2l0Y2ggKG4pIHsKICAgIGNhc2UgJy8nOgogICAgICB0aHJvdyBuZXcgRXJyb3IoJ3dhdCcpOwogICAgY2FzZSAnWCc6CiAgICAgIHJldHVybiAxMDsKICAgIGNhc2UgJy0nOgogICAgICByZXR1cm4gMDsKICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZm9yIChsZXQgaSA9IDA7IGkgPCBob3dNYW55OyBpKyspIHsKICAgICAgICB0aGlzLgogICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB0aHJvdyBuZXcgRXJyb3IoJ25vdCB5ZXQgaW1wbGVtZW50ZWQnKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHsgc2NvcmUgfSBmcm9tICIuLi9zcmMvdGVucGluIjsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBpdCgnc2hvdWxkIHJldHVybiAwIHdoZW4gYWxsIG1pc3NlcycsICgpID0+IHsKICAgIC8vIEFycmFuZ2UKICAgIC8vIEFjdAogICAgLy8gQXNzZXJ0CiAgfSk7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zLycvIi9n</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>'</last-search>
+      <last-offset />
+      <last-pattern>'</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>angu</entry>
+        <entry encoding="base64">XDxmaW5kVW5pcXVlQWNjb3VudElkc0xpbmtlZFRvRGVwb3NpdFJlcXVlc3RzXD4=</entry>
+        <entry encoding="base64">XDxkZXBvc2l0b3JJZFRvQWNjb3VudFVVSURcPg==</entry>
+        <entry>find_deposit</entry>
+        <entry>grid</entry>
+        <entry>.*</entry>
+        <entry>vms-</entry>
+        <entry encoding="base64">XDx0b2tlblw+</entry>
+        <entry>contact</entry>
+        <entry>strict</entry>
+        <entry>node</entry>
+        <entry>path</entry>
+        <entry encoding="base64">XDxhcmdzXD4=</entry>
+        <entry>es6</entry>
+        <entry>&quot;</entry>
+        <entry encoding="base64">XDxlbnZpcm9ubWVudFw+</entry>
+        <entry>devt</entry>
+        <entry encoding="base64">XDxmaW5kRGVwb3NpdHNCeURlcG9zaXRvckFjY291bnRJZFw+</entry>
+        <entry>'</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
