@@ -18,7 +18,7 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1473168599516">
+      <file name="/a.dummy" timestamp="1473169418208">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/config/webpack.development.js" timestamp="1472736515051">
@@ -98,11 +98,11 @@
       <file name="K:/abx/abx-vms-api/test/specs/services/abx_data/lib/find_depositors.spec.ts" timestamp="1472812131369">
         <mark key="'" line="19" column="9" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/home/route.config.ts" timestamp="1473168129291">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="1" column="50" />
-        <mark key="." line="0" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/home/route.config.ts" timestamp="1473169403187">
+        <mark key="[" line="21" column="2" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="3" column="2" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/webpackRequire.ts" timestamp="1472735085424">
         <mark key="[" line="0" column="0" />
@@ -125,11 +125,11 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/app.ts" timestamp="1473168712156">
-        <mark key="[" line="2" column="45" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/app.ts" timestamp="1473169305940">
+        <mark key="[" line="30" column="38" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1472821819051">
         <mark key="[" line="0" column="0" />
@@ -194,11 +194,10 @@
       <file name="/fragment.ts" timestamp="1473076854379">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/home/directive.ts" timestamp="1473167647374">
-        <mark key="[" line="0" column="45" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
-        <mark key="^" line="2" column="9" />
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/home/directive.ts" timestamp="1473169366641">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/mainNavigation/directive.ts" timestamp="1473165935722">
         <mark key="]" line="13" column="16" />
@@ -282,7 +281,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="K:/abx/abx-vms-app/src/services/delete_withdrawal.service.ts" timestamp="1473168597931" />
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/mainNav/directive.ts" timestamp="1472728957947">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -341,7 +339,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnY3JlYXRlIG5ldyBOYXZpZ2F0aW9uUmVnaXN0cmFyJyk7Cg==</text>
+        <text encoding="base64">ICBuYXZpZ2F0aW9uLnJlZ2lzdGVyKCdIb21lJywgJ2FwcC5ob21lJyk7CiAgbmF2aWdhdGlvbi5yZWdpc3RlcignSG9tZTInLCAnYXBwLmhvbWUyJyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -349,35 +347,35 @@
       <register name="/" type="4">
         <text>service(</text>
       </register>
-      <register name="0" type="4">
-        <text>navigationRegistrar</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBuYXZpZ2F0aW9uLnJlZ2lzdGVyKCdIb21lJywgJ2FwcC5ob21lJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnY3JlYXRlIG5ldyBOYXZpZ2F0aW9uUmVnaXN0cmFyJyk7Cg==</text>
+        <text encoding="base64">ICBuYXZpZ2F0aW9uLnJlZ2lzdGVyKCdIb21lJywgJ2FwcC5ob21lJyk7CiAgbmF2aWdhdGlvbi5yZWdpc3RlcignSG9tZTInLCAnYXBwLmhvbWUyJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnY29uZmlndXJlIG5hdmlnYXRpb24gcm91dGVzJyk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnY3JlYXRlIG5ldyBOYXZpZ2F0aW9uUmVnaXN0cmFyJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVnaXN0ZXIgbmF2aWdhdGlvblJlZ2lzdHJhcicpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnY29uZmlndXJlIG5hdmlnYXRpb24gcm91dGVzJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVnaXN0ZXIgbmF2aWdhdGlvblJlZ2lzdHJhcicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gY29uc3Qgc3RhdGUgPSB7Ci8vICAgJ2FwcCc6IHsKLy8gICAgIGFic3RyYWN0OiB0cnVlLAovLyAgICAgdmlld3M6IHsKLy8gICAgICAgbmF2aWdhdGlvbjogewovLyAgICAgICAgIHRlbXBsYXRlOiAnPG5hdmlnYXRpb24+PC9uYXZpZ2F0aW9uPicKLy8gICAgICAgfQovLyAgICAgfQovLyAgIH0KLy8gfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gZXhwb3J0IGRlZmF1bHQKLy8gewovLyAgICdhcHAuaG9tZSc6IHsKLy8gICAgIHVybDogJy9ob21lJywKLy8gICAgIHZpZXdzOiB7Ci8vICAgICAgICdtYWluQ29udGVudEAnOiB7Ci8vICAgICAgICAgdGVtcGxhdGU6ICcoaG9tZSAxKTxob21lPjwvaG9tZT4nCi8vICAgICAgIH0KLy8gICAgIH0KLy8gICB9LAovLyAgICdhcHAuaG9tZTInOiB7Ci8vICAgICB1cmw6ICcvaG9tZTInLAovLyAgICAgdmlld3M6IHsKLy8gICAgICAgJ21haW5Db250ZW50QCc6IHsKLy8gICAgICAgICB0ZW1wbGF0ZTogJyhob21lIDIpPGhvbWU+PC9ob21lPicKLy8gICAgICAgfQovLyAgICAgfQovLyAgIH0KLy8gfTsKCg==</text>
+        <text encoding="base64">Ly8gY29uc3Qgc3RhdGUgPSB7Ci8vICAgJ2FwcCc6IHsKLy8gICAgIGFic3RyYWN0OiB0cnVlLAovLyAgICAgdmlld3M6IHsKLy8gICAgICAgbmF2aWdhdGlvbjogewovLyAgICAgICAgIHRlbXBsYXRlOiAnPG5hdmlnYXRpb24+PC9uYXZpZ2F0aW9uPicKLy8gICAgICAgfQovLyAgICAgfQovLyAgIH0KLy8gfTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgCg==</text>
+        <text encoding="base64">Ly8gZXhwb3J0IGRlZmF1bHQKLy8gewovLyAgICdhcHAuaG9tZSc6IHsKLy8gICAgIHVybDogJy9ob21lJywKLy8gICAgIHZpZXdzOiB7Ci8vICAgICAgICdtYWluQ29udGVudEAnOiB7Ci8vICAgICAgICAgdGVtcGxhdGU6ICcoaG9tZSAxKTxob21lPjwvaG9tZT4nCi8vICAgICAgIH0KLy8gICAgIH0KLy8gICB9LAovLyAgICdhcHAuaG9tZTInOiB7Ci8vICAgICB1cmw6ICcvaG9tZTInLAovLyAgICAgdmlld3M6IHsKLy8gICAgICAgJ21haW5Db250ZW50QCc6IHsKLy8gICAgICAgICB0ZW1wbGF0ZTogJyhob21lIDIpPGhvbWU+PC9ob21lPicKLy8gICAgICAgfQovLyAgICAgfQovLyAgIH0KLy8gfTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24oYXBwKSB7CiAgYXBwLgp9Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9n</text>
