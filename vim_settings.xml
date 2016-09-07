@@ -116,6 +116,11 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
+      <file name="K:/playground/array_slicer/slicer.spec.js" timestamp="1473236007085">
+        <mark key="[" line="24" column="57" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/routes/home.config.ts" timestamp="1472734334623">
         <mark key="[" line="5" column="23" />
         <mark key="]" line="12" column="15" />
@@ -283,6 +288,11 @@
       <file name="/fragment.js2" timestamp="1473076889321">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="K:/playground/array_slicer/package.json" timestamp="1473235522458">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+      </file>
       <file name="K:/DeliberatePractice/ts-tenpin/tsconfig.json" timestamp="1472818954726">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="13" />
@@ -352,10 +362,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>home2</text>
+        <text encoding="base64">ZWNobyBcIkVycm9yOiBubyB0ZXN0IHNwZWNpZmllZFwiICYmIGV4aXQgMSI=</text>
       </register>
       <register name="/" type="4">
         <text>service(</text>
@@ -364,31 +374,31 @@
         <text encoding="base64">ICBuYXZpZ2F0aW9uLnJlZ2lzdGVyKCdIb21lJywgJ2FwcC5ob21lJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZWdpc3RyYXIucmVnaXN0ZXIoJ0hvbWUnLCAnYXBwLmhvbWUnKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCByZWdpc3RyYXIgPSBuYXZpZ2F0aW9uUmVnaXN0cmFyUHJvdmlkZXIuJGdldDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Lgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5hdmlnYXRpb25SZWdpc3RyYXJQcm92aWRlcgo=</text>
+        <text encoding="base64">QSkKOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLm5hdmlnYXRpb25MaW5rcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAKICAgIDxtZC1uYXYtaXRlbSBkYXRhLW1kLW5hdi1jbGljaz0iZ290bygnYXBwLmhvbWUnKSIgbmFtZT0iYXBwLmhvbWUiPkhvbWU8L21kLW5hdi1pdGVtPgogICAgPG1kLW5hdi1pdGVtIGRhdGEtbWQtbmF2LWNsaWNrPSJnb3RvKCdhcHAuaG9tZTInKSIgbmFtZT0iYXBwLmhvbWUyIj5Ib21lMjwvbWQtbmF2LWl0ZW0+Cg==</text>
+        <text encoding="base64">ICByZWdpc3RyYXIucmVnaXN0ZXIoJ0hvbWUnLCAnYXBwLmhvbWUnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxtZC0K</text>
+        <text encoding="base64">ICBjb25zdCByZWdpc3RyYXIgPSBuYXZpZ2F0aW9uUmVnaXN0cmFyUHJvdmlkZXIuJGdldDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBuYXZpZ2F0aW9uLnJlZ2lzdGVyTmF2aWdhdGlvblJlZ2lzdHJhck9uKCdIb21lJywgJ2FwcC5ob21lJyk7CiAgLy8gbmF2aWdhdGlvbi5yZWdpc3Rlck5hdmlnYXRpb25SZWdpc3RyYXJPbignSG9tZTInLCAnYXBwLmhvbWUyJyk7Cg==</text>
+        <text encoding="base64">Lgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9n</text>
