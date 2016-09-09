@@ -24,7 +24,7 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1473171323103">
+      <file name="/a.dummy" timestamp="1473416707481">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/config/webpack.development.js" timestamp="1472736515051">
@@ -44,6 +44,13 @@
         <mark key="]" line="19" column="34" />
         <mark key="." line="19" column="34" />
         <mark key="^" line="19" column="34" />
+      </file>
+      <file name="K:/DeliberatePractice/angular2_todo/package.json" timestamp="1473417244895">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="11" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="10" column="11" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/tsconfig.json" timestamp="1472736845954">
         <mark key="[" line="3" column="17" />
@@ -74,6 +81,11 @@
         <mark key="^" line="3" column="64" />
         <mark key="." line="3" column="84" />
       </file>
+      <file name="K:/DeliberatePractice/angular2_todo/tsconfig.json" timestamp="1473417144474">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+      </file>
       <file name="K:/abx/abx-vms-app/src/components/add_manifest/template.html" timestamp="1472648541857">
         <mark key="[" line="9" column="68" />
         <mark key="]" line="9" column="57" />
@@ -100,9 +112,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="^" line="23" column="6" />
         <mark key="." line="24" column="0" />
-      </file>
-      <file name="K:/abx/abx-vms-api/test/specs/services/abx_data/lib/find_depositors.spec.ts" timestamp="1472812131369">
-        <mark key="'" line="19" column="9" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/home/route.config.ts" timestamp="1473173603344">
         <mark key="[" line="19" column="11" />
@@ -156,6 +165,17 @@
       <file name="K:/playground/angular-babel/webpack.config.js" timestamp="1472559266062">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="K:/DeliberatePractice/angular2_todo/config/webpack.development.js" timestamp="1473417125778">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="K:/DeliberatePractice/angular2_todo/src/app/app.component.ts" timestamp="1473416152984">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="6" column="43" />
+        <mark key="." line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/config/webpack.common.js" timestamp="1472812784672">
         <mark key="[" line="59" column="19" />
         <mark key="]" line="61" column="0" />
@@ -167,9 +187,6 @@
         <mark key="]" line="34" column="62" />
         <mark key="^" line="34" column="40" />
         <mark key="." line="34" column="62" />
-      </file>
-      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/typings/globals/angular/index.d.ts" timestamp="1473167553538">
-        <mark key="'" line="29" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/navigation/template.html" timestamp="1473173542161">
         <mark key="[" line="5" column="44" />
@@ -202,6 +219,11 @@
         <mark key="^" line="12" column="52" />
         <mark key="." line="12" column="52" />
       </file>
+      <file name="K:/DeliberatePractice/angular2_todo/src/index.html" timestamp="1473414406637">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="K:/abx/abx-vms-app/src/components/shared_column_defs.ts" timestamp="1472648526394">
         <mark key="[" line="40" column="37" />
         <mark key="]" line="40" column="56" />
@@ -217,10 +239,13 @@
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="22" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/mainNavigation/directive.ts" timestamp="1473165935722">
-        <mark key="]" line="13" column="16" />
-        <mark key="^" line="13" column="16" />
-        <mark key="." line="13" column="16" />
+      <file name="K:/DeliberatePractice/angular2_todo/config/webpack.common.js" timestamp="1473416839398">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="K:/DeliberatePractice/angular2_todo/src/app/app.module.ts" timestamp="1473415685341">
+        <mark key="[" line="3" column="20" />
       </file>
       <file name="K:/playground/angular-babel/config/webpack.common.js" timestamp="1472561204897">
         <mark key="[" line="2" column="8" />
@@ -359,55 +384,56 @@
       <jump line="2" column="15" filename="K:/DeliberatePractice/ts-tenpin/src/tenpin.ts" />
       <jump line="12" column="25" filename="K:/Chillisoft/Workflow/source/workflow-webapp/typings/globals/angular/index.d.ts" />
       <jump line="29" column="0" filename="K:/Chillisoft/Workflow/source/workflow-webapp/typings/globals/angular/index.d.ts" />
+      <jump line="0" column="0" filename="K:/DeliberatePractice/angular2_todo/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBkZXZTZXJ2ZXI6IHsKICAgIGNvbnRlbnRCYXNlOiAnLi9kaXN0JwogIH0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWNobyBcIkVycm9yOiBubyB0ZXN0IHNwZWNpZmllZFwiICYmIGV4aXQgMSI=</text>
+        <text>inline-source-map',</text>
       </register>
       <register name="/" type="4">
-        <text>service(</text>
+        <text>form</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBuYXZpZ2F0aW9uLnJlZ2lzdGVyKCdIb21lJywgJ2FwcC5ob21lJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBkZXZTZXJ2ZXI6IHsKICAgIGNvbnRlbnRCYXNlOiAnLi9kaXN0JwogIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIG5ldyB3ZWJwYWNrLm9wdGltaXplLlVnbGlmeUpzUGx1Z2luKCksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBkZXZ0b29sOiAnaW5saW5lLXNvdXJjZS1tYXAnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIHB1YmxpY1BhdGg6ICdodHRwOi8vbG9jYWxob3N0OjMwMDAvJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QSkKOwo=</text>
+        <text encoding="base64">ICBob3RVcGRhdGU6IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC9cLmNzcyQvLAogICAgICAgIGV4Y2x1ZGU6IGhlbHBlcnMucm9vdCgnc3JjJywgJ2FwcCcpLAogICAgICAgIGxvYWRlcjogRXh0cmFjdFRleHRQbHVnaW4uZXh0cmFjdCgnc3R5bGUnLCAnY3NzP3NvdXJjZU1hcCcpCiAgICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZWdpc3RyYXIucmVnaXN0ZXIoJ0hvbWUnLCAnYXBwLmhvbWUnKTsK</text>
+        <text encoding="base64">ICAgICAgdG9kb3M6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCByZWdpc3RyYXIgPSBuYXZpZ2F0aW9uUmVnaXN0cmFyUHJvdmlkZXIuJGdldDsK</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5hbGVydCh0aGlzLm5ld1RvZG9UZXh0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Lgo=</text>
+        <text encoding="base64">ICAgIHRoaXMubmV3VG9kb1RleHQgPSAnJzsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>service(</last-search>
+      <last-search>form</last-search>
       <last-offset />
-      <last-pattern>service(</last-pattern>
+      <last-pattern>form</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -415,7 +441,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZXBvc2l0b3JJZFRvQWNjb3VudFVVSURcPg==</entry>
         <entry>find_deposit</entry>
         <entry>grid</entry>
         <entry>.*</entry>
@@ -435,6 +460,7 @@
         <entry>module</entry>
         <entry encoding="base64">c2VydmljZTog</entry>
         <entry>service(</entry>
+        <entry>form</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
@@ -465,6 +491,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
