@@ -24,7 +24,7 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1473430352916">
+      <file name="/a.dummy" timestamp="1473664985052">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/config/webpack.development.js" timestamp="1472736515051">
@@ -55,6 +55,9 @@
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
         <mark key="^" line="14" column="2" />
+      </file>
+      <file name="K:/hackendot/source/app/scripts/005_RedirectHelper.js" timestamp="1473665108578">
+        <mark key="'" line="3" column="11" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/navigation/navigationRegistrar.service.ts" timestamp="1473168819392">
         <mark key="[" line="4" column="0" />
@@ -219,6 +222,7 @@
         <mark key="." line="28" column="58" />
         <mark key="^" line="28" column="58" />
       </file>
+      <file name="K:/hackendot/source/app/scripts/003_AtomLoader.js" timestamp="1473664984558" />
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/config/webpack.common.js" timestamp="1472812784672">
         <mark key="[" line="59" column="19" />
         <mark key="]" line="61" column="0" />
@@ -465,6 +469,7 @@
       <jump line="0" column="0" filename="K:/DeliberatePractice/angular2_todo/package.json" />
       <jump line="12" column="24" filename="K:/Chillisoft/Workflow/source/workflow-webapp/package.json" />
       <jump line="2" column="9" filename="K:/OpenSource/offline-sync/src/app.ts" />
+      <jump line="3" column="11" filename="K:/hackendot/source/app/scripts/005_RedirectHelper.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -474,7 +479,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWdpc3Rlck5hdmlnYXRpb25SZWdpc3RyYXJPblw+</text>
+        <text encoding="base64">XDxnZXRTb2NrZXRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICdAYW5ndWxhcjItbWF0ZXJpYWwvY29yZSc7Cg==</text>
@@ -511,9 +516,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWdpc3Rlck5hdmlnYXRpb25SZWdpc3RyYXJPblw+</last-search>
+      <last-search encoding="base64">XDxnZXRTb2NrZXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWdpc3Rlck5hdmlnYXRpb25SZWdpc3RyYXJPblw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRTb2NrZXRcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -521,7 +526,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.*</entry>
         <entry>vms-</entry>
         <entry encoding="base64">XDx0b2tlblw+</entry>
         <entry>contact</entry>
@@ -541,6 +545,7 @@
         <entry>form</entry>
         <entry>awes</entry>
         <entry encoding="base64">XDxyZWdpc3Rlck5hdmlnYXRpb25SZWdpc3RyYXJPblw+</entry>
+        <entry encoding="base64">XDxnZXRTb2NrZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
