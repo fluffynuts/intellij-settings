@@ -3,11 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/navigationRegistrar.ts" timestamp="1473173248955">
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/navigationRegistrar.ts" timestamp="1473761346013">
         <mark key="[" line="24" column="42" />
         <mark key="]" line="24" column="61" />
         <mark key="." line="24" column="61" />
         <mark key="^" line="24" column="61" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/login/login.service.ts" timestamp="1473762439562">
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1472819182046">
         <mark key="[" line="0" column="0" />
@@ -24,7 +29,7 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1473758230127">
+      <file name="/a.dummy" timestamp="1473763309542">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/config/webpack.development.js" timestamp="1473754746328">
@@ -81,18 +86,17 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="9" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/navigation/route.config.ts" timestamp="1473168881759">
-        <mark key="[" line="1" column="52" />
-        <mark key="]" line="1" column="59" />
-        <mark key="." line="1" column="59" />
-        <mark key="^" line="1" column="59" />
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/navigation/route.config.ts" timestamp="1473763146597">
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="6" column="44" />
+        <mark key="." line="6" column="44" />
+        <mark key="^" line="6" column="44" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/auth-test-ui/authTest.service.ts" timestamp="1473758560688">
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/auth-test-ui/authTest.service.ts" timestamp="1473759640913">
         <mark key="'" line="58" column="15" />
-        <mark key="[" line="66" column="59" />
-        <mark key="]" line="66" column="68" />
-        <mark key="." line="66" column="68" />
-        <mark key="^" line="66" column="68" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="K:/abx/abx-vms-app/src/components/vault_management_view/template.html" timestamp="1472648746960">
         <mark key="[" line="3" column="65" />
@@ -181,11 +185,11 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="19" column="21" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/factories/auth-interceptor.factory.ts" timestamp="1473758574385">
-        <mark key="[" line="6" column="44" />
-        <mark key="]" line="8" column="16" />
-        <mark key="." line="8" column="16" />
-        <mark key="^" line="8" column="16" />
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/factories/auth-interceptor.factory.ts" timestamp="1473763332807">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="23" />
+        <mark key="." line="19" column="23" />
+        <mark key="^" line="19" column="23" />
       </file>
       <file name="K:/abx/abx-vms-app/js/src/components/add_manifest/template.html" timestamp="1472648496939">
         <mark key="[" line="9" column="14" />
@@ -204,10 +208,10 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/app.ts" timestamp="1473755502098">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="30" />
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/app.ts" timestamp="1473762527404">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
         <mark key="^" line="4" column="30" />
       </file>
       <file name="K:/DeliberatePractice/angular2_todo/typings/index.d.ts" timestamp="1473424370759">
@@ -312,6 +316,11 @@
         <mark key="." line="40" column="56" />
         <mark key="^" line="40" column="36" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/login/login.service.ts" timestamp="1473763379395">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="39" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/fragment.ts" timestamp="1473076854379">
         <mark key="[" line="0" column="0" />
       </file>
@@ -320,6 +329,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="2" column="59" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="K:/abx/abx-vms-app/src/components/deposit_request_view/directive.ts" timestamp="1473763300171">
+        <mark key="'" line="5" column="3" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/home/directive.ts" timestamp="1473169793203">
         <mark key="[" line="0" column="33" />
@@ -394,11 +406,11 @@
       <file name="/a.regexp" timestamp="1473753678969">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/auth-test-ui/template.html" timestamp="1473757318453">
-        <mark key="[" line="15" column="66" />
-        <mark key="]" line="15" column="64" />
-        <mark key="." line="15" column="64" />
-        <mark key="^" line="15" column="64" />
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/auth-test-ui/template.html" timestamp="1473760273140">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="9" column="32" />
+        <mark key="^" line="9" column="32" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/index.html" timestamp="1473429771574">
         <mark key="[" line="0" column="0" />
@@ -451,11 +463,11 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/auth-test-ui/directive.ts" timestamp="1473756940520">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="6" column="24" />
-        <mark key="." line="3" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/auth-test-ui/directive.ts" timestamp="1473762317541">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="10" column="14" />
+        <mark key="^" line="10" column="14" />
+        <mark key="." line="10" column="14" />
       </file>
       <file name="K:/DeliberatePractice/ts-tenpin/tsconfig.json" timestamp="1472818954726">
         <mark key="[" line="7" column="13" />
@@ -537,55 +549,58 @@
       <jump line="0" column="7" filename="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/auth-test-ui/route.config.ts" />
       <jump line="54" column="19" filename="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/auth-test-ui/authTest.service.ts" />
       <jump line="48" column="15" filename="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/auth-test-ui/authTest.service.ts" />
+      <jump line="5" column="3" filename="K:/abx/abx-vms-app/src/components/deposit_request_view/directive.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>esponse</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnY3JlYXRpbmcgdXNlciBsb2dpbicpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>esponse</text>
+        <text>broadcast</text>
       </register>
       <register name="/" type="4">
-        <text>store</text>
+        <text encoding="base64">XDxyb290U2NvcGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8ZGl2IGxheW91dD0icm93Ij4K</text>
+        <text encoding="base64">ICAgICAgY29uZmlnLmhlYWRlcnMgPSBjb25maWcuaGVhZGVycyB8fCB7fTsKICAgICAgbGV0IHRva2VuID0gc3RvcmUuZ2V0KCd0b2tlbicpOwogICAgICBpZiAoIXRva2VuKSB7CiAgICAgICAgLy8gYXdhaXQgdXNlckxvZ2luLmxvZ2luKCk7CiAgICAgICAgdG9rZW4gPSBzdG9yZS5nZXQoJ3Rva2VuJyk7CiAgICAgIH0KICAgICAgaWYgKHRva2VuKSB7CiAgICAgICAgY29uZmlnLmhlYWRlcnNbJ0F1dGhvcml6YXRpb24nXSA9ICdCZWFyZXIgJyArIHN0b3JlLmdldCgndG9rZW4nKTsKICAgICAgfQogICAgICByZXR1cm4gY29uZmlnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnY3JlYXRpbmcgdXNlciBsb2dpbicpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBzCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc3RyaWN0OiAnRScsCg==</text>
+        <text encoding="base64">ICAgICAgbWFpbkNvbnRlbnQ6IHsKICAgICAgICB0ZW1wbGF0ZTogJzxtYWluLWNvbnRlbnQ+PC9tYWluLWNvbnRlbnQ+JwogICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUucmVzdWx0ID0gcmUK</text>
+        <text encoding="base64">ICAgICAgcmVzb2x2ZTogewogICAgICAgIGF1dGg6IFsndXNlckxvZ2luJywgZnVuY3Rpb24gKCkgeyAvKiBkbyBub3RoaW5nICovCiAgICAgICAgfV0KICAgICAgfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IElQcm92aWRlU2VydmljZSA9IGFuZ3VsYXIuYXV0by5JUHJvdmlkZVNlcnZpY2U7Cg==</text>
+      <register name="5" type="4">
+        <text>['userLogin', function () {
+        /* do nothing */
+      }]</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8ZGl2IGxheW91dD0icm93Ij4KICAgIDxkaXYgZmxleD5Vc2VybmFtZTo8L2Rpdj4KICAgIDxkaXYgZmxleD4KICAgICAgPG1kLWlucHV0LWNvbnRhaW5lcj4KICAgICAgICA8bWQtaW5wdXQKICAgICAgPC9tZC1pbnB1dC1jb250YWluZXI+CiAgICA8L2Rpdj4KICA8L2Rpdj4K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnbG9hZGluZzogJywgcGF0aCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgY29uZmlnLmhlYWRlcnNbJ0F1dGhvcml6YXRpb24nXSA9ICdCZWFyZXIgJyArIHN0b3JlLmdldCgndG9rZW4nKTsKICAgICAgcmV0dXJuIGNvbmZpZzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkd2luZG93LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRsb2NhdGlvbiwK</text>
+        <text encoding="base64">ICByZXR1cm4gewogIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>store</last-search>
+      <last-search encoding="base64">XDxyb290U2NvcGVcPg==</last-search>
       <last-offset />
-      <last-pattern>store</last-pattern>
+      <last-pattern encoding="base64">XDxyb290U2NvcGVcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -593,7 +608,6 @@
     </search>
     <history>
       <history-search>
-        <entry>strict</entry>
         <entry>node</entry>
         <entry>path</entry>
         <entry encoding="base64">XDxhcmdzXD4=</entry>
@@ -613,6 +627,7 @@
         <entry>progr</entry>
         <entry>ts-lo</entry>
         <entry>store</entry>
+        <entry encoding="base64">XDxyb290U2NvcGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
