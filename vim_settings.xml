@@ -464,6 +464,12 @@
         <mark key="^" line="41" column="17" />
         <mark key="." line="41" column="17" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/services/login/login-modal.html" timestamp="1473832963932">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="9" />
+        <mark key="^" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+      </file>
       <file name="/TypeScript File.txt.ft" timestamp="1472649010384">
         <mark key="[" line="0" column="0" />
       </file>
@@ -540,16 +546,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGh0dHAocmVqZWN0aW9uLmNvbmZpZyk7Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgbGF5b3V0PSJyb3ciPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>set</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9taXNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gdXJpZW5jb2RlKG9iajogYW55LCBrOiBzdHJpbmcpOiBzdHJpbmcgewogIHJldHVybiBbCiAgICBlbmNvZGV1cmljb21wb25lbnQoayksCiAgICBlbmNvZGV1cmljb21wb25lbnQob2JqW2tdKQogIF0uam9pbignPScpOwp9Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgbGF5b3V0PSJyb3ciPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gJGh0dHAocmVqZWN0aW9uLmNvbmZpZyk7Cg==</text>
