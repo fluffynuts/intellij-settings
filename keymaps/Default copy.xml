@@ -19,6 +19,12 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="shift f12" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
@@ -30,6 +36,7 @@
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
   <action id="Images.ShowThumbnails" />
+  <action id="JumpToLastWindow" />
   <action id="QuickChangeScheme" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
@@ -48,6 +55,7 @@
   </action>
   <action id="Replace" />
   <action id="ReplaceInPath" />
+  <action id="RestoreDefaultLayout" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
