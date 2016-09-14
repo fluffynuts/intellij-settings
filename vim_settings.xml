@@ -9,7 +9,7 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1473845663849">
+      <file name="/a.dummy" timestamp="1473866288905">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/config/webpack.development.js" timestamp="1473754746328">
@@ -80,10 +80,12 @@
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/header/template.html" timestamp="1473775183509">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/login/login.service.ts" timestamp="1473865853522">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/login/login.service.ts" timestamp="1473866330185">
+        <mark key="'" line="5" column="22" />
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="29" />
+        <mark key="." line="5" column="29" />
+        <mark key="^" line="5" column="29" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/navigation/navigationRegistrar.ts" timestamp="1473168483371">
         <mark key="[" line="24" column="0" />
@@ -395,11 +397,11 @@
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/login/user-auth.service.ts" timestamp="1473860879420">
-        <mark key="[" line="24" column="19" />
-        <mark key="]" line="25" column="29" />
-        <mark key="." line="25" column="29" />
-        <mark key="^" line="25" column="29" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/login/user-auth.service.ts" timestamp="1473866322786">
+        <mark key="[" line="37" column="19" />
+        <mark key="]" line="37" column="22" />
+        <mark key="." line="37" column="22" />
+        <mark key="^" line="37" column="22" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/webpackRequire.ts" timestamp="1472735085424">
         <mark key="[" line="0" column="0" />
@@ -645,16 +647,17 @@
       <jump line="25" column="14" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/index.ts" />
       <jump line="23" column="30" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/index.ts" />
       <jump line="30" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/index.ts" />
+      <jump line="5" column="22" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/login/login.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlc29sdmU6IHsKICAgICAgYmVmb3JlOiBbZnVuY3Rpb24gKCkgewogICAgICAgIGNvbnNvbGUubG9nKCdiZWZvcmUgaG9tZScpOwogICAgICB9XQogICAgfSwK</text>
+      <register name="&quot;" type="4">
+        <text>Login</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>Login</text>
       </register>
       <register name="/" type="4">
-        <text>debug</text>
+        <text>userLog</text>
       </register>
       <register name="0" type="4">
         <text>'099153c2625149bc8ecb3e85e03f0022'</text>
@@ -691,9 +694,9 @@
       </register>
     </registers>
     <search>
-      <last-search>debug</last-search>
+      <last-search>userLog</last-search>
       <last-offset />
-      <last-pattern>debug</last-pattern>
+      <last-pattern>userLog</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -701,8 +704,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcmdzXD4=</entry>
-        <entry>es6</entry>
         <entry>&quot;</entry>
         <entry encoding="base64">XDxlbnZpcm9ubWVudFw+</entry>
         <entry>devt</entry>
@@ -721,6 +722,8 @@
         <entry encoding="base64">XDxyb290U2NvcGVcPg==</entry>
         <entry encoding="base64">XDxwcm9taXNlXD4=</entry>
         <entry>debug</entry>
+        <entry encoding="base64">XDx1c2VyQXV0aFw+</entry>
+        <entry>userLog</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
