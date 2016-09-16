@@ -74,7 +74,7 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="16" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/app.ts" timestamp="1474004585921">
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/app.ts" timestamp="1474005177026">
         <mark key="[" line="5" column="65" />
         <mark key="]" line="5" column="96" />
         <mark key="." line="5" column="96" />
@@ -455,7 +455,7 @@
         <mark key="." line="19" column="2" />
         <mark key="^" line="19" column="2" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/utils/context.ts" timestamp="1473948180809">
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/utils/context.ts" timestamp="1474005146790">
         <mark key="[" line="9" column="38" />
       </file>
       <file name="K:/abx/abx-vms-app/src/components/add_manifest/template.html" timestamp="1472648541857">
@@ -587,6 +587,7 @@
         <mark key="." line="40" column="20" />
         <mark key="^" line="40" column="20" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/bootstrap/abstract-state-route.config.ts" timestamp="1474005249607" />
       <file name="K:/OpenSource/offline-sync/index.html" timestamp="1473428543117">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -723,7 +724,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/route-error-logging.service.ts" timestamp="1473929033194">
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/route-error-logging.service.ts" timestamp="1474005301813">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="39" />
         <mark key="^" line="0" column="39" />
