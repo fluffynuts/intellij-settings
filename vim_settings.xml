@@ -44,11 +44,11 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.spec.ts" timestamp="1474292340703">
-        <mark key="[" line="13" column="38" />
-        <mark key="]" line="14" column="58" />
-        <mark key="^" line="14" column="58" />
-        <mark key="." line="14" column="58" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.spec.ts" timestamp="1474365675237">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="14" column="10" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/tsconfig.json" timestamp="1472736845954">
         <mark key="[" line="3" column="17" />
@@ -767,7 +767,7 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" timestamp="1474362847596">
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" timestamp="1474365147433">
         <mark key="'" line="8" column="12" />
         <mark key="[" line="15" column="95" />
         <mark key="]" line="12" column="22" />
@@ -900,7 +900,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBmYXN0OiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KDEpLnRvLmVxdWFsKDIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>lazy</text>
@@ -912,31 +912,31 @@
         <text encoding="base64">ICAgICJwcmVhdXRvbGludC1vbmNlIjogIm5vZGUgLWUgXCJjb25zb2xlLmxvZygnQXV0by1saW50IHN0YXJ0ZWQgYXQ6ICcsIG5ldyBEYXRlKCkpO1wiIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmYXN0OiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KDEpLnRvLmVxdWFsKDIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJwcmVidWlsZCI6ICJydW4tcyB0ZXN0IiwKICAgICJidWlsZCI6ICJ3ZWJwYWNrIiwK</text>
+        <text encoding="base64">ICBmYXN0OiB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImNyb3NzLWVudiBTVVBQUkVTU19XRUJQQUNLX0NPTlRFWFRfV0FSTklORz0xIG1vY2hhIC0tcmVjdXJzaXZlIC0tcmVxdWlyZSB0b29saW5nL21vY2hhLWJvb3RzdHJhcCBzcmMvKiovaW50ZXJmYWNlcy50cyBzcmMvKiovKi5zcGVjLnRzIiwK</text>
+        <text encoding="base64">ICAgICJwcmVidWlsZCI6ICJydW4tcyB0ZXN0IiwKICAgICJidWlsZCI6ICJ3ZWJwYWNrIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z2xvYmFsLl9fU1VQUFJFU1NfCg==</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogImNyb3NzLWVudiBTVVBQUkVTU19XRUJQQUNLX0NPTlRFWFRfV0FSTklORz0xIG1vY2hhIC0tcmVjdXJzaXZlIC0tcmVxdWlyZSB0b29saW5nL21vY2hhLWJvb3RzdHJhcCBzcmMvKiovaW50ZXJmYWNlcy50cyBzcmMvKiovKi5zcGVjLnRzIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QKICB3ZWJwYWNrUmVxdWlyZSA9IChyZXF1aXJlIGFzIGFueSkgYXMgV2VicGFja1JlcXVpcmUsCiAgY29udGV4dCA9IHdlYnBhY2tSZXF1aXJlLmNvbnRleHQoJy4uLycsIHRydWUpOwo=</text>
+        <text encoding="base64">Z2xvYmFsLl9fU1VQUFJFU1NfCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dAo=</text>
+        <text encoding="base64">Y29uc3QKICB3ZWJwYWNrUmVxdWlyZSA9IChyZXF1aXJlIGFzIGFueSkgYXMgV2VicGFja1JlcXVpcmUsCiAgY29udGV4dCA9IHdlYnBhY2tSZXF1aXJlLmNvbnRleHQoJy4uLycsIHRydWUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmNvbnNvbGUubG9nKHJlcXVpcmUuY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29udGV4dAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2Zha2Utd2VicGFjaywgcmVxdWlyZS5jb250ZXh0OicsIHJlcXVpcmUuY29udGV4dCk7Cg==</text>
+        <text encoding="base64">CmNvbnNvbGUubG9nKHJlcXVpcmUuY29udGV4dCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2Zha2Utd2VicGFjaywgcmVxdWlyZS5jb250ZXh0OicsIHJlcXVpcmUuY29udGV4dCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
