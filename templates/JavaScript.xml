@@ -6,4 +6,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="withm" value="private _$thing$: $ThingType$;&#10;with$Thing$($thing$: $ThingType): $BuilderType$ {&#10;    this._$thing$ = $thing$;&#10;    return this;&#10;}" description="builder method" toReformat="false" toShortenFQNames="true">
+    <variable name="Thing" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ThingType" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="thing" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BuilderType" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
