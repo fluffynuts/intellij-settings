@@ -150,6 +150,12 @@
         <mark key="^" line="34" column="40" />
         <mark key="." line="34" column="62" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/shared/login/login.service.spec.ts" timestamp="1474962986350">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="12" column="13" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/interfaces.ts" timestamp="1473924543909">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="0" />
@@ -329,6 +335,9 @@
         <mark key="." line="0" column="52" />
         <mark key="^" line="2" column="44" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/utils/index.ts" timestamp="1474963028165">
+        <mark key="[" line="3" column="39" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/travel-arrangements-template.html" timestamp="1474535247648">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="20" />
@@ -364,11 +373,10 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/utils/env.ts" timestamp="1474962057059">
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-        <mark key="^" line="2" column="8" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/utils/env.ts" timestamp="1474962419633">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/webpackRequire.ts" timestamp="1472735085424">
         <mark key="[" line="0" column="0" />
@@ -512,11 +520,11 @@
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflow-card/directive.ts" timestamp="1474536766873">
         <mark key="[" line="7" column="23" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/utils/log.ts" timestamp="1474961841878">
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/utils/log.ts" timestamp="1474962404659">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="5" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="K:/DeliberatePractice/mars_rover/run-tests.js" timestamp="1474033831062">
         <mark key="[" line="3" column="24" />
@@ -583,11 +591,11 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-dashboard/directive.ts" timestamp="1474900598522">
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="21" column="15" />
-        <mark key="." line="21" column="15" />
-        <mark key="^" line="21" column="15" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-dashboard/directive.ts" timestamp="1474963609276">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="34" column="36" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/services/workflow-fetcher.service.ts" timestamp="1474547811518">
         <mark key="[" line="0" column="0" />
@@ -674,11 +682,10 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="14" column="2" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/webpack.common.js" timestamp="1474962053460">
-        <mark key="[" line="73" column="7" />
-        <mark key="]" line="73" column="5" />
-        <mark key="^" line="73" column="5" />
-        <mark key="." line="73" column="5" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/webpack.common.js" timestamp="1474962380881">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="K:/DeliberatePractice/mars_rover/spec/support/jasmine.json" timestamp="1474033384253">
         <mark key="[" line="1" column="16" />
@@ -797,11 +804,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-dashboard/route.config.ts" timestamp="1474892398353">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="30" />
-        <mark key="." line="18" column="30" />
-        <mark key="^" line="18" column="30" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-dashboard/route.config.ts" timestamp="1474962646602">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="20" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/token-repository/interfaces.ts" timestamp="1474450389968">
         <mark key="[" line="4" column="1" />
@@ -1030,6 +1037,12 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/utils/on-demand-wrapper.ts" timestamp="1474963204157">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="14" column="26" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/interfaces.ts" timestamp="1474550557003">
         <mark key="[" line="21" column="9" />
         <mark key="]" line="21" column="20" />
@@ -1061,11 +1074,11 @@
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1474527020360">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-dashboard/template.html" timestamp="1474961003381">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="41" />
-        <mark key="^" line="6" column="41" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-dashboard/template.html" timestamp="1474963405260">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="36" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflow-instances/route.config.ts" timestamp="1474891268362">
         <mark key="[" line="14" column="38" />
@@ -1314,11 +1327,11 @@
       <jump line="52" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>new OnDemandWrapper(</text>
       </register>
       <register name="/" type="4">
         <text>jttstep2</text>
@@ -1327,31 +1340,31 @@
         <text encoding="base64">ICAgICAgICBkYXRhOiB7CiAgICAgICAgICAnVHJhdmVsIG1ldGhvZCc6IHsgdHlwZTogJ3N0cmluZycsIHZhbHVlOiAnZmxpZ2h0JyB9LAogICAgICAgICAgJ0RlcGFydHVyZSBkYXRlJzogeyB0eXBlOiAnZGF0ZScsIHZhbHVlOiBkYXlzRnJvbU5vdyg0LCAyMCwgMjApIH0sCiAgICAgICAgICAnVHJhdmVsIFJlZmVyZW5jZSc6IHsgdHlwZTogJ3N0cmluZycsIHZhbHVlOiAnU0FBLTEyMycgfSwKICAgICAgICAgICdBY2NvbW9kYXRpb24nOiB7IHR5cGU6ICdzdGlybmcnLCB2YWx1ZTogJ1BsYXphIEhvdGVsJyB9LAogICAgICAgICAgJ0FjY29tb2RhdGlvbiBSZWZlcmVuY2UnOiB7IHR5cGU6ICdzdHJpbmcnLCB2YWx1ZTogJ1Jvb20gNDU2JyB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwbHVnaW5zOiBbCiAgICBuZXcgRXh0cmFjdFRleHRQbHVnaW4oJ1tuYW1lXS5jc3MnKQogIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwbHVnaW5zOiBbCiAgXSwK</text>
+        <text encoding="base64">ICAgICAgICBhY2MucHVzaChleGlzdGluZyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5ldyBFeHRyYWN0VGV4dFBsdWdpbignW25hbWVdLmNzcycpCg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICA8IS0tIFRPRE86IGdldCBjYXRlZ29yaWVzIC0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bW9kdWxlICIK</text>
+        <text encoding="base64">PC9tZC12aXJ0dWFsLXJlcGVhdC1jb250YWluZXI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXYgZGF0YS1uZy1yZXBlYXQ9ImNhdGVnb3J5Igo=</text>
+        <text encoding="base64">PG1kLXZpcnR1YWwtcmVwZWF0LWNvbnRhaW5lcj4K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">fTsKICAgICAg</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">OgogIHsKICAgIHR5cGU6ICdzdHJpbmcnLCB2YWx1ZQogIDoKICAgICdSb29tIDQ1NicKICB9Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIF9kYXRhOwogIGNvbnN0cnVjdG9yKGRhdGE6IFRbXSkgewogICAgdGhpcy5fZGF0YSA9IGRhdGE7CiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">OgogIHsKICAgIHR5cGU6ICdzdGlybmcnLCB2YWx1ZQogIDoKICAgICdQbGF6YSBIb3RlbCcKICB9CiwK</text>
+        <text encoding="base64">ICAgIHJldHVybiB1bmRlZmluZWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
