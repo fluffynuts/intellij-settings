@@ -156,11 +156,10 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/template.html" timestamp="1474973050619">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="10" column="22" />
-        <mark key="^" line="10" column="22" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/template.html" timestamp="1474974498264">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/interfaces.ts" timestamp="1473924543909">
         <mark key="[" line="0" column="0" />
@@ -839,11 +838,11 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/style.scss" timestamp="1474973094737">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/style.scss" timestamp="1474974483016">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/token-repository/interfaces.ts" timestamp="1474450389968">
         <mark key="[" line="4" column="1" />
@@ -1150,11 +1149,11 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/directive.ts" timestamp="1474968513184">
-        <mark key="[" line="3" column="46" />
-        <mark key="]" line="39" column="11" />
-        <mark key="." line="39" column="11" />
-        <mark key="^" line="39" column="11" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/directive.ts" timestamp="1474974440088">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+        <mark key="^" line="1" column="10" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/development/auth.ts" timestamp="1473933739482">
         <mark key="[" line="4" column="57" />
@@ -1388,10 +1387,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwvc2VjdGlvbj4KICAgIDxkaXYgZmxleD48L2Rpdj4KICAgIDxmb290ZXIgZmxleD0ibm9uZSIgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6IG9yYW5nZTsgY29sb3I6IHdoaXRlIj4KICAgICAgPGRpdj5mb290ZXIgaXRlbSE8L2Rpdj4KICAgIDwvZm9vdGVyPgogIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICByaWdodDogNTBweDsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9zZWN0aW9uPg==</text>
+        <text>absolute</text>
       </register>
       <register name="/" type="4">
         <text>go(</text>
@@ -1400,31 +1399,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvc2VjdGlvbj4KICAgIDxkaXYgZmxleD48L2Rpdj4KICAgIDxmb290ZXIgZmxleD0ibm9uZSIgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6IG9yYW5nZTsgY29sb3I6IHdoaXRlIj4KICAgICAgPGRpdj5mb290ZXIgaXRlbSE8L2Rpdj4KICAgIDwvZm9vdGVyPgogIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICByaWdodDogNTBweDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8ZGl2IGZsZXggbGF5b3V0PSJjb2x1bW4iPgogICAgPHNlY3Rpb24gZmxleD0ibm9uZSI+Cg==</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJmbG9hdGluZy1mYWIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PG1kLWZhYi10b29sYmFyIGRhdGEtbWQtb3Blbj0ic2hvd0ZhYiI+CiAgPG1kLWJ1dHRvbiBhcmlhLWxhYmVsPSJyZS1hc3NpZ24iIGNsYXNzPSJtZC1mYWIgbWQtcHJpbWFyeSI+UmUtYXNzaWduPC9tZC1idXR0b24+CjwvbWQtZmFiLXRvb2xiYXI+Cg==</text>
+        <text encoding="base64">ICAgIDwvc2VjdGlvbj4KICAgIDxkaXYgZmxleD48L2Rpdj4KICAgIDxmb290ZXIgZmxleD0ibm9uZSIgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6IG9yYW5nZTsgY29sb3I6IHdoaXRlIj4KICAgICAgPGRpdj5mb290ZXIgaXRlbSE8L2Rpdj4KICAgIDwvZm9vdGVyPgogIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJHN0YXRlUGFyYW1zLnR5cGUgPSAkc3RhdGVQYXJhbXMuCg==</text>
+        <text encoding="base64">ICA8ZGl2IGZsZXggbGF5b3V0PSJjb2x1bW4iPgogICAgPHNlY3Rpb24gZmxleD0ibm9uZSI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB3aWJibGVzCg==</text>
+        <text encoding="base64">PG1kLWZhYi10b29sYmFyIGRhdGEtbWQtb3Blbj0ic2hvd0ZhYiI+CiAgPG1kLWJ1dHRvbiBhcmlhLWxhYmVsPSJyZS1hc3NpZ24iIGNsYXNzPSJtZC1mYWIgbWQtcHJpbWFyeSI+UmUtYXNzaWduPC9tZC1idXR0b24+CjwvbWQtZmFiLXRvb2xiYXI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGZvb3Rlcj4KICBmb28gdG8gdGhlIGJhcgo8L2Zvb3Rlcj4K</text>
+        <text encoding="base64">ICAgICAgJHN0YXRlUGFyYW1zLnR5cGUgPSAkc3RhdGVQYXJhbXMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICB3aWJibGVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZ2V0IGlzQ29tcGxldGVkKCk6IGJvb2xlYW4gewogIH0KCg==</text>
+        <text encoding="base64">PGZvb3Rlcj4KICBmb28gdG8gdGhlIGJhcgo8L2Zvb3Rlcj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
