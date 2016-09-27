@@ -14,7 +14,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1474968787047">
+      <file name="/a.dummy" timestamp="1474983707709">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="K:/OpenSource/synchronous-promise/.gitignore" timestamp="1474463183052">
@@ -32,17 +32,24 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.spec.ts" timestamp="1474529652026">
+        <mark key="'" line="118" column="11" />
+        <mark key="[" line="67" column="76" />
+        <mark key="]" line="69" column="64" />
+        <mark key="." line="69" column="64" />
+        <mark key="^" line="69" column="64" />
+      </file>
       <file name="K:/OpenSource/synchronous-promise/arguments-to-array.js" timestamp="1474465806338">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="43" />
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="8" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/interfaces/services.ts" timestamp="1474965218702">
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/interfaces/services.ts" timestamp="1474982972718">
+        <mark key="[" line="9" column="62" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="9" column="32" />
+        <mark key="^" line="9" column="32" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/test-utils/create-auth-service.ts" timestamp="1474525719317">
         <mark key="[" line="4" column="33" />
@@ -150,16 +157,20 @@
         <mark key="^" line="34" column="40" />
         <mark key="." line="34" column="62" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/behaviors/on-key-press/on-key-pressed.directive.ts" timestamp="1474976501476">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/shared/login/login.service.spec.ts" timestamp="1474962986350">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="12" column="13" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/template.html" timestamp="1474974498264">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/template.html" timestamp="1474980161428">
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="21" column="41" />
+        <mark key="." line="21" column="41" />
+        <mark key="^" line="21" column="41" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/interfaces.ts" timestamp="1473924543909">
         <mark key="[" line="0" column="0" />
@@ -189,11 +200,11 @@
         <mark key="." line="40" column="56" />
         <mark key="^" line="40" column="36" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/implementations/workflow.ts" timestamp="1474967646335">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="44" column="12" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/implementations/workflow.ts" timestamp="1474983830010">
+        <mark key="'" line="62" column="2" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/factories/auth-interceptor.factory.ts" timestamp="1473865792151">
         <mark key="[" line="14" column="0" />
@@ -381,6 +392,13 @@
         <mark key="^" line="1" column="9" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/shared/footer-area/directive.ts" timestamp="1474968892038" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflow-step/template.html" timestamp="1474555827985">
+        <mark key="'" line="20" column="32" />
+        <mark key="[" line="40" column="5" />
+        <mark key="]" line="40" column="11" />
+        <mark key="." line="40" column="5" />
+        <mark key="^" line="40" column="5" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/development/index.ts" timestamp="1473842927798">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="21" />
@@ -422,11 +440,12 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/interfaces/data.ts" timestamp="1474967713846">
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="37" column="19" />
-        <mark key="." line="37" column="19" />
-        <mark key="^" line="37" column="19" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/interfaces/data.ts" timestamp="1474984031703">
+        <mark key="'" line="43" column="9" />
+        <mark key="[" line="42" column="25" />
+        <mark key="]" line="42" column="25" />
+        <mark key="." line="42" column="25" />
+        <mark key="^" line="42" column="25" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/typings.json" timestamp="1474450884149">
         <mark key="[" line="17" column="0" />
@@ -446,11 +465,12 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/workflow-reassignment-dialog/workflow-reassignment-dialog.service.ts" timestamp="1474552581444">
-        <mark key="[" line="29" column="26" />
-        <mark key="]" line="30" column="21" />
-        <mark key="." line="30" column="21" />
-        <mark key="^" line="30" column="21" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/workflow-reassignment-dialog/workflow-reassignment-dialog.service.ts" timestamp="1474983964217">
+        <mark key="'" line="6" column="20" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="3" column="15" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflow-card/driective.ts" timestamp="1474534904112">
         <mark key="[" line="8" column="0" />
@@ -491,6 +511,12 @@
         <mark key="]" line="5" column="12" />
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/bootstrap/abstract-state-route.config.ts" timestamp="1474975356902">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+        <mark key="." line="12" column="18" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/Workflow.ts" timestamp="1474544917218">
         <mark key="[" line="21" column="0" />
@@ -552,9 +578,6 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/typings/globals/angular-ui-router/index.d.ts" timestamp="1474966175858">
-        <mark key="'" line="108" column="48" />
-      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/form-url-encoder/interfaces.ts" timestamp="1473929693595">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="1" column="35" />
@@ -613,16 +636,6 @@
         <mark key="]" line="8" column="3" />
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
-      </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" timestamp="1474530415739">
-        <mark key="'" line="21" column="21" />
-      </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-dashboard/directive.ts" timestamp="1474967752925">
-        <mark key="i" line="22" column="71" />
-        <mark key="[" line="40" column="45" />
-        <mark key="]" line="40" column="45" />
-        <mark key="." line="40" column="45" />
-        <mark key="^" line="40" column="45" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/services/workflow-fetcher.service.ts" timestamp="1474547811518">
         <mark key="[" line="0" column="0" />
@@ -744,22 +757,22 @@
         <mark key="." line="51" column="31" />
         <mark key="^" line="51" column="31" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/workflow-reassignment-dialog/template.html" timestamp="1474552427839">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="13" column="20" />
-        <mark key="." line="13" column="20" />
-        <mark key="^" line="13" column="20" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/workflow-reassignment-dialog/template.html" timestamp="1474983242403">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/mocha-bootstrap/fake-webpack.js" timestamp="1474361007011">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/implementations/workflow-step.ts" timestamp="1474551759475">
-        <mark key="[" line="2" column="52" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/implementations/workflow-step.ts" timestamp="1474982454170">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="32" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/navigation/navigationRegistrar.ts" timestamp="1473168483371">
         <mark key="[" line="24" column="0" />
@@ -831,18 +844,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-dashboard/route.config.ts" timestamp="1474967089338">
-        <mark key="e" line="7" column="9" />
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-      </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/style.scss" timestamp="1474974483016">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="3" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/style.scss" timestamp="1474979716292">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="24" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/token-repository/interfaces.ts" timestamp="1474450389968">
         <mark key="[" line="4" column="1" />
@@ -1005,12 +1011,19 @@
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/shared/footer/directive.ts" timestamp="1474968817823">
         <mark key="[" line="7" column="18" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" timestamp="1474967591870">
-        <mark key="'" line="122" column="4" />
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="16" />
-        <mark key="." line="29" column="16" />
-        <mark key="^" line="29" column="16" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflow-step/directive.ts" timestamp="1474982997782">
+        <mark key="'" line="28" column="21" />
+        <mark key="[" line="27" column="73" />
+        <mark key="]" line="27" column="59" />
+        <mark key="." line="27" column="59" />
+        <mark key="^" line="27" column="59" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" timestamp="1474983848424">
+        <mark key="'" line="94" column="56" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="198" column="20" />
+        <mark key="." line="197" column="0" />
+        <mark key="^" line="128" column="59" />
       </file>
       <file name="K:/DeliberatePractice/angular2_todo/tsconfig.json" timestamp="1473424253648">
         <mark key="[" line="14" column="37" />
@@ -1089,11 +1102,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/interfaces.ts" timestamp="1474550557003">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="21" column="20" />
-        <mark key="." line="21" column="20" />
-        <mark key="^" line="21" column="20" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/interfaces.ts" timestamp="1474981147868">
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="24" column="39" />
+        <mark key="." line="24" column="39" />
+        <mark key="^" line="24" column="39" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/utils/navigation-registrar/interfaces.ts" timestamp="1474004534288">
         <mark key="[" line="5" column="0" />
@@ -1120,7 +1133,7 @@
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1474527020360">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-dashboard/template.html" timestamp="1474967763246">
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-dashboard/template.html" timestamp="1474979937546">
         <mark key="[" line="12" column="45" />
         <mark key="]" line="12" column="25" />
         <mark key="." line="12" column="25" />
@@ -1149,11 +1162,11 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/directive.ts" timestamp="1474974440088">
-        <mark key="[" line="1" column="31" />
-        <mark key="]" line="1" column="10" />
-        <mark key="." line="1" column="10" />
-        <mark key="^" line="1" column="10" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/directive.ts" timestamp="1474984280422">
+        <mark key="[" line="118" column="54" />
+        <mark key="]" line="118" column="46" />
+        <mark key="." line="118" column="46" />
+        <mark key="^" line="154" column="29" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/development/auth.ts" timestamp="1473933739482">
         <mark key="[" line="4" column="57" />
@@ -1276,6 +1289,13 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" timestamp="1474551197495">
+        <mark key="'" line="70" column="23" />
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="28" column="41" />
+        <mark key="." line="28" column="41" />
+        <mark key="^" line="28" column="41" />
+      </file>
       <file name="K:/OpenSource/synchronous-promise/package.json" timestamp="1474464584070">
         <mark key="[" line="11" column="41" />
         <mark key="]" line="11" column="28" />
@@ -1284,18 +1304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="3" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
-      <jump line="8" column="12" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
-      <jump line="71" column="38" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/auth-test-ui/authTest.service.ts" />
-      <jump line="16" column="20" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
-      <jump line="45" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
-      <jump line="24" column="45" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
-      <jump line="17" column="30" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/form-url-encoder/form-url-encoder.service.ts" />
-      <jump line="25" column="11" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
-      <jump line="17" column="31" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
-      <jump line="20" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
-      <jump line="27" column="22" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
-      <jump line="32" column="33" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
       <jump line="43" column="47" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
       <jump line="67" column="47" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
       <jump line="58" column="20" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.spec.ts" />
@@ -1379,74 +1387,79 @@
       <jump line="26" column="9" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
       <jump line="25" column="13" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
       <jump line="45" column="19" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
-      <jump line="94" column="9" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
       <jump line="64" column="6" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
       <jump line="174" column="4" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
       <jump line="118" column="4" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
       <jump line="108" column="48" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/typings/globals/angular-ui-router/index.d.ts" />
+      <jump line="22" column="31" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/interfaces.ts" />
+      <jump line="100" column="48" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/directive.ts" />
+      <jump line="26" column="30" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflow-step/directive.ts" />
+      <jump line="28" column="21" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflow-step/directive.ts" />
+      <jump line="129" column="43" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
+      <jump line="5" column="20" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
+      <jump line="108" column="26" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
+      <jump line="112" column="35" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
+      <jump line="125" column="24" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
+      <jump line="94" column="56" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
+      <jump line="62" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/implementations/workflow.ts" />
+      <jump line="6" column="20" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/workflow-reassignment-dialog/workflow-reassignment-dialog.service.ts" />
+      <jump line="43" column="9" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/interfaces/data.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICByaWdodDogNTBweDsK</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBnZXRTZWxlY3RlZCgkc2NvcGU6IElXb3JrZmxvd3NMaXN0U2NvcGUsIGNvbnRleHQ6IHN0cmluZyk6IFByb21pc2U8SVNlbGVjdGFibGVXb3JrZmxvd1tdPiB7CiAgICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICBjb25zdCBzZWxlY3RlZCA9ICRzY29wZS5pbnN0YW5jZXMuZmlsdGVyKGkgPT4gaS5zZWxlY3RlZCk7CiAgICAgIGlmIChzZWxlY3RlZC5sZW5ndGgpIHsKICAgICAgICByZXNvbHZlKHNlbGVjdGVkKTsKICAgICAgfSBlbHNlIHsKICAgICAgICBtZERpYWxvZy5zaG93KAogICAgICAgICAgbWREaWFsb2cuYWxlcnQoKQogICAgICAgICAgICAuY2xpY2tPdXRzaWRlVG9DbG9zZSh0cnVlKQogICAgICAgICAgICAudGl0bGUoJ05vdGhpbmcgc2VsZWN0ZWQnKQogICAgICAgICAgICAudGV4dENvbnRlbnQoYFBsZWFzZSBzZWxlY3Qgb25lIG9yIG1vcmUgd29ya2Zsb3cgaW5zdGFuY2VzIHRvICR7Y29udGV4dH1gKQogICAgICAgICAgICAub2soJ09rJykKICAgICAgICAgICAgLmFyaWFMYWJlbCgnTm8gd29ya2Zsb3cgaW5zdGFuY2VzIHNlbGVjdGVkJykKICAgICAgICApOwogICAgICB9CiAgICB9KTsKICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>absolute</text>
+        <text>function reassignToMutator(</text>
       </register>
       <register name="/" type="4">
-        <text>go(</text>
+        <text>debugger</text>
       </register>
-      <register name="0" type="4">
-        <text />
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJlYXNzaWduVG9NdXRhdG9yLAogICAgYXNzaWduZWVNdXRhdG9yLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByaWdodDogNTBweDsK</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBnZXRTZWxlY3RlZCgkc2NvcGU6IElXb3JrZmxvd3NMaXN0U2NvcGUsIGNvbnRleHQ6IHN0cmluZyk6IFByb21pc2U8SVNlbGVjdGFibGVXb3JrZmxvd1tdPiB7CiAgICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICBjb25zdCBzZWxlY3RlZCA9ICRzY29wZS5pbnN0YW5jZXMuZmlsdGVyKGkgPT4gaS5zZWxlY3RlZCk7CiAgICAgIGlmIChzZWxlY3RlZC5sZW5ndGgpIHsKICAgICAgICByZXNvbHZlKHNlbGVjdGVkKTsKICAgICAgfSBlbHNlIHsKICAgICAgICBtZERpYWxvZy5zaG93KAogICAgICAgICAgbWREaWFsb2cuYWxlcnQoKQogICAgICAgICAgICAuY2xpY2tPdXRzaWRlVG9DbG9zZSh0cnVlKQogICAgICAgICAgICAudGl0bGUoJ05vdGhpbmcgc2VsZWN0ZWQnKQogICAgICAgICAgICAudGV4dENvbnRlbnQoYFBsZWFzZSBzZWxlY3Qgb25lIG9yIG1vcmUgd29ya2Zsb3cgaW5zdGFuY2VzIHRvICR7Y29udGV4dH1gKQogICAgICAgICAgICAub2soJ09rJykKICAgICAgICAgICAgLmFyaWFMYWJlbCgnTm8gd29ya2Zsb3cgaW5zdGFuY2VzIHNlbGVjdGVkJykKICAgICAgICApOwogICAgICB9CiAgICB9KTsKICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJmbG9hdGluZy1mYWIiCg==</text>
+        <text encoding="base64">ICAgICQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvc2VjdGlvbj4KICAgIDxkaXYgZmxleD48L2Rpdj4KICAgIDxmb290ZXIgZmxleD0ibm9uZSIgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6IG9yYW5nZTsgY29sb3I6IHdoaXRlIj4KICAgICAgPGRpdj5mb290ZXIgaXRlbSE8L2Rpdj4KICAgIDwvZm9vdGVyPgogIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8ZGl2IGZsZXggbGF5b3V0PSJjb2x1bW4iPgogICAgPHNlY3Rpb24gZmxleD0ibm9uZSI+Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PG1kLWZhYi10b29sYmFyIGRhdGEtbWQtb3Blbj0ic2hvd0ZhYiI+CiAgPG1kLWJ1dHRvbiBhcmlhLWxhYmVsPSJyZS1hc3NpZ24iIGNsYXNzPSJtZC1mYWIgbWQtcHJpbWFyeSI+UmUtYXNzaWduPC9tZC1idXR0b24+CjwvbWQtZmFiLXRvb2xiYXI+Cg==</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJHN0YXRlUGFyYW1zLnR5cGUgPSAkc3RhdGVQYXJhbXMuCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtdXRhdGUgYXNzaWduZWUnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB3aWJibGVzCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdnZXQgd29ya2Zsb3cgY3VycmVudCBhc3NpZ25lZScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGZvb3Rlcj4KICBmb28gdG8gdGhlIGJhcgo8L2Zvb3Rlcj4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>redo</text>
+        <text encoding="base64">JzwsJz5zL0lNZERpYWxvZ0ZsdWVudFN5bnRheC9JTWREaWFsb2dDb25maWcvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>go(</last-search>
+      <last-search>debugger</last-search>
       <last-offset />
-      <last-pattern>go(</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern>debugger</last-pattern>
+      <last-replace>IMdDialogConfig</last-replace>
+      <last-substitute>IMdDialogFluentSyntax</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>webp</entry>
-        <entry>temp</entry>
-        <entry>canM</entry>
-        <entry>item</entry>
-        <entry>step</entry>
-        <entry>rea</entry>
-        <entry>initi</entry>
         <entry>metal</entry>
         <entry encoding="base64">XDxyYW5kb21JbnRcPg==</entry>
         <entry>daysFrom</entry>
@@ -1460,12 +1473,20 @@
         <entry encoding="base64">XDxqdHRTdGVwMk11dGF0b3JcPg==</entry>
         <entry encoding="base64">XDxkYXRlTXV0YXRvclw+</entry>
         <entry>go(</entry>
+        <entry>IMdDialogFluentSyntax</entry>
+        <entry>prom</entry>
+        <entry>pro</entry>
+        <entry encoding="base64">XDxyYW5kb21Gcm9tXD4=</entry>
+        <entry>completing</entry>
+        <entry>current</entry>
+        <entry>debugger</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>redo</entry>
+        <entry encoding="base64">JzwsJz5zL0lNZERpYWxvZ0ZsdWVudFN5bnRheC9JTWREaWFsb2dDb25maWcvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
