@@ -45,6 +45,12 @@
         <mark key="." line="69" column="64" />
         <mark key="^" line="69" column="64" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/.babelrc" timestamp="1475050361329">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="K:/OpenSource/synchronous-promise/arguments-to-array.js" timestamp="1474465806338">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="43" />
@@ -671,6 +677,12 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" timestamp="1475049132914">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="21" column="0" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/services/workflow-fetcher.service.ts" timestamp="1474547811518">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -762,9 +774,9 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="14" column="2" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/webpack.common.js" timestamp="1474973154744">
-        <mark key="[" line="35" column="60" />
-        <mark key="]" line="71" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/webpack.common.js" timestamp="1475049059335">
+        <mark key="[" line="45" column="9" />
+        <mark key="]" line="49" column="6" />
         <mark key="." line="71" column="0" />
       </file>
       <file name="K:/DeliberatePractice/mars_rover/spec/support/jasmine.json" timestamp="1474033384253">
@@ -1214,10 +1226,16 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="14" column="38" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/webpack.production.js" timestamp="1475047341430">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/utils/environment.ts" timestamp="1475050891966">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/webpack.production.js" timestamp="1475050590031">
+        <mark key="[" line="4" column="48" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
       </file>
       <file name="K:/OpenSource/offline-sync/index.html" timestamp="1473428543117">
         <mark key="[" line="0" column="0" />
@@ -1326,6 +1344,12 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/vendor.ts" timestamp="1475050906685">
+        <mark key="[" line="6" column="47" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="K:/DeliberatePractice/mars_rover/src/rvg.ts" timestamp="1474266078765">
         <mark key="[" line="14" column="28" />
         <mark key="]" line="14" column="31" />
@@ -1382,9 +1406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="9" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
-      <jump line="51" column="28" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
-      <jump line="52" column="5" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
       <jump line="70" column="23" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
       <jump line="1306" column="8" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.es6.d.ts" />
       <jump line="19" column="28" filename="K:/OpenSource/synchronous-promise/index.js" />
@@ -1482,55 +1503,62 @@
       <jump line="10" column="14" filename="K:/playground/angular2/wikisearch/package.json" />
       <jump line="52" column="5" filename="K:/playground/angular2/wikisearch/package.json" />
       <jump line="14" column="38" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/workflow-reassignment-dialog/workflow-reassignment-dialog.service.ts" />
+      <jump line="0" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
+      <jump line="20" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
+      <jump line="69" column="5" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ExtractTextPlugin.extract('style', 'css?sourceMap')</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>platfo</text>
+        <text>typings</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlYXNzaWduVG9NdXRhdG9yLAogICAgYXNzaWduZWVNdXRhdG9yLAo=</text>
+      <register name="0" type="4">
+        <text>{
+        test: /\.ts$/,
+        exclude: /(node_modules|bower_components|specs)/,
+        loader: 'awesome-typescript'
+      }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ2FuZ3VsYXIK</text>
+        <text encoding="base64">ICBkZXZ0b29sOiAnaW5saW5lLXNvdXJjZS1tYXAnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iLi4vdHlwaW5ncy9pbmRleC5kLnRzIiAvPgo=</text>
+        <text encoding="base64">ICBsb2FkZXJzOiB7WwogIHsKICAgICAgICB0ZXN0OiAvXC50cyQvLAogICAgICAgIGV4Y2x1ZGU6IC8obm9kZV9tb2R1bGVzfGJvd2VyX2NvbXBvbmVudHN8c3BlY3MpLywKICAgICAgICBsb2FkZXI6ICdhd2Vzb21lLXR5cGVzY3JpcHQnCiAgICAgIH1dLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcm9ncmVzczogKCkgPT4gYm9vbGVhbjsKICByZWdyZXNzOiAoKSA9PiBib29sZWFuOwo=</text>
+        <text encoding="base64">ICAgICJ0eXBpbmdzIjogIl4xLjMuMyIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjYW5Qcm9ncmVzczogYm9vbGVhbjsKICBjYW5SZWdyZXNzOiBib29sZWFuOwo=</text>
+        <text encoding="base64">ICAgICJwb3N0aW5zdGFsbCI6ICJ0eXBpbmdzIGluc3RhbGwiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgcHJvZ3Jlc3MoKTogYm9vbGVhbiB7CiAgICByZXR1cm4gdHJ1ZTsKICB9CgogIHB1YmxpYyByZWdyZXNzKCk6IGJvb2xlYW4gewogICAgcmV0dXJuIHRydWU7CiAgfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZ2V0IGNhblByb2dyZXNzKCk6IGJvb2xlYW4gewogICAgcmV0dXJuIHRydWU7CiAgfQoK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZ2V0IGNhblJlZ3Jlc3MoKTogYm9vbGVhbiB7CiAgICByZXR1cm4gdHJ1ZTsKICB9Cgo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ2FuZ3VsYXIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iLi4vdHlwaW5ncy9pbmRleC5kLnRzIiAvPgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBwcm9ncmVzczogKCkgPT4gYm9vbGVhbjsKICByZWdyZXNzOiAoKSA9PiBib29sZWFuOwo=</text>
+      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0lNZERpYWxvZ0ZsdWVudFN5bnRheC9JTWREaWFsb2dDb25maWcvZw==</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>platfo</last-search>
+      <last-search>typings</last-search>
       <last-offset />
-      <last-pattern>platfo</last-pattern>
+      <last-pattern>typings</last-pattern>
       <last-replace>IMdDialogConfig</last-replace>
       <last-substitute>IMdDialogFluentSyntax</last-substitute>
       <last-dir>1</last-dir>
@@ -1538,7 +1566,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmF2ZWxNZXRob2RzXD4=</entry>
         <entry>true,</entry>
         <entry>jttstep2</entry>
         <entry>past</entry>
@@ -1558,6 +1585,7 @@
         <entry>webp</entry>
         <entry>dev</entry>
         <entry>platfo</entry>
+        <entry>typings</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
@@ -1565,6 +1593,7 @@
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>redo</entry>
         <entry encoding="base64">JzwsJz5zL0lNZERpYWxvZ0ZsdWVudFN5bnRheC9JTWREaWFsb2dDb25maWcvZw==</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
