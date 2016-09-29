@@ -20,7 +20,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1475075068210">
+      <file name="/a.dummy" timestamp="1475137032103">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="K:/OpenSource/synchronous-promise/.gitignore" timestamp="1474463183052">
@@ -579,11 +579,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflow-settings/template.html" timestamp="1475075572931">
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="14" column="11" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflow-settings/template.html" timestamp="1475137238763">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="36" column="33" />
       </file>
       <file name="K:/abx/abx-vms-app/test/specs/test_helpers/create_window.ts" timestamp="1472652098269">
         <mark key="[" line="63" column="11" />
@@ -1549,10 +1549,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAsCiAgcGx1Z2luczogWwogICAgbmV3IHdlYnBhY2sub3B0aW1pemUuVWdsaWZ5SnNQbHVnaW4oKQogIF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHt7b3B0aW9ufX0K</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>travel request</text>
@@ -1561,31 +1561,31 @@
         <text encoding="base64">ICB3ZWJwYWNrID0gcmVxdWlyZSgnd2VicGFjaycpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAsCiAgcGx1Z2luczogWwogICAgbmV3IHdlYnBhY2sub3B0aW1pemUuVWdsaWZ5SnNQbHVnaW4oKQogIF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHt7b3B0aW9ufX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQVVQgU09NRSBDT05URU5UIEhFUkUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGFyaWEtbGFiZWw9Int7IG9wdGlvbiB9fSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAsCiAgcGx1Z2luczogWwogICAgbmV3IHdlYnBhY2sub3B0aW1pemUuVWdsaWZ5SnNQbHVnaW4oKQogIF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlV29ya2Zsb3dTZXR0aW5nc1JlcG9zaQo=</text>
+        <text encoding="base64">ICAgICAgICBQVVQgU09NRSBDT05URU5UIEhFUkUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwbGFjZW1lbnRzOiBJCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlV29ya2Zsb3dTZXR0aW5nc1JlcG9zaQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgTmF2aWdhdGlvblBsYWNlbWVudHMgPSB7CiAgZmFyTGVmdDogMSwKICBsZWZ0OiAyLAogIGNlbnRlcjogMywKICByaWdodDogNCwKICBmYXJSaWdodDogNQp9Cgo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
