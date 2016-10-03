@@ -20,7 +20,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1475483679783">
+      <file name="/a.dummy" timestamp="1475492594183">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="K:/OpenSource/synchronous-promise/.gitignore" timestamp="1474463183052">
@@ -252,6 +252,13 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="3" column="32" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.AdminApp/config/webpack.test.js" timestamp="1475492097472">
+        <mark key="'" line="74" column="17" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="214" column="8" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/webpack.config.js" timestamp="1473949075417">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="18" />
@@ -302,7 +309,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.AdminApp/package.json" timestamp="1475490946833">
+      <file name="K:/Chillisoft/Workflow/source/Workflow.AdminApp/package.json" timestamp="1475491669058">
         <mark key="'" line="53" column="30" />
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="27" />
@@ -634,6 +641,7 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="1" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.AdminApp/config/html-elements-plugin/index.js" timestamp="1475492593575" />
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflow-card/directive.ts" timestamp="1474536766873">
         <mark key="[" line="7" column="23" />
       </file>
@@ -725,6 +733,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="59" column="8" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.AdminApp/src/index.html" timestamp="1475492316527">
+        <mark key="'" line="4" column="3" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/services/workflow-fetcher.service.ts" timestamp="1474547811518">
         <mark key="[" line="0" column="0" />
@@ -898,6 +912,12 @@
         <mark key="]" line="2" column="34" />
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.AdminApp/config/webpack.common.js" timestamp="1475492502023">
+        <mark key="'" line="255" column="49" />
+        <mark key="[" line="265" column="0" />
+        <mark key="]" line="265" column="0" />
+        <mark key="." line="265" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/app.ts" timestamp="1473778776530">
         <mark key="[" line="36" column="0" />
@@ -1177,6 +1197,11 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.AdminApp/config/webpack.prod.js" timestamp="1475491866123">
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="." line="200" column="0" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" timestamp="1475483603901">
         <mark key="'" line="162" column="19" />
         <mark key="[" line="214" column="29" />
@@ -1394,6 +1419,12 @@
         <mark key="]" line="406" column="0" />
         <mark key="." line="406" column="0" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.AdminApp/config/webpack.dev.js" timestamp="1475492530755">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/hook-css-requires.js" timestamp="1474360096961">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1532,16 +1563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="4" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
-      <jump line="108" column="48" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/typings/globals/angular-ui-router/index.d.ts" />
-      <jump line="22" column="31" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/interfaces.ts" />
-      <jump line="100" column="48" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/directive.ts" />
-      <jump line="26" column="30" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflow-step/directive.ts" />
-      <jump line="28" column="21" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflow-step/directive.ts" />
-      <jump line="129" column="43" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
-      <jump line="5" column="20" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
-      <jump line="108" column="26" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
-      <jump line="112" column="35" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
       <jump line="125" column="24" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
       <jump line="94" column="56" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
       <jump line="62" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/implementations/workflow.ts" />
@@ -1632,55 +1653,65 @@
       <jump line="40" column="19" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/package.json" />
       <jump line="150" column="5" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/package.json" />
       <jump line="53" column="30" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/package.json" />
+      <jump line="16" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/config/webpack.test.js" />
+      <jump line="70" column="45" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/config/webpack.test.js" />
+      <jump line="74" column="17" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/config/webpack.test.js" />
+      <jump line="128" column="13" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/config/webpack.dev.js" />
+      <jump line="0" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/config/webpack.dev.js" />
+      <jump line="37" column="12" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/config/webpack.common.js" />
+      <jump line="0" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/src/index.html" />
+      <jump line="3" column="3" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/src/index.html" />
+      <jump line="4" column="3" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/src/index.html" />
+      <jump line="255" column="49" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/config/webpack.common.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>angular2-webpack-starter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvKioKICAgKiBNZXJnZWQgbWV0YWRhdGEgZnJvbSB3ZWJwYWNrLmNvbW1vbi5qcyBmb3IgaW5kZXguaHRtbAogICAqCiAgICogU2VlOiAoY3VzdG9tIGF0dHJpYnV0ZSkKICAgKi8KICBtZXRhZGF0YTogTUVUQURBVEEsCgo=</text>
       </register>
       <register name="-" type="4">
         <text>angular2-webpack-starter</text>
       </register>
       <register name="/" type="4">
-        <text>webpack-de</text>
+        <text>html</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN1cGVyKGF4aXNMYWJlbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAia2V5d29yZHMiOiBbCiAgICAiYW5ndWxhcjIiLAogICAgIndlYnBhY2siLAogICAgInR5cGVzY3JpcHQiCiAgXSwK</text>
+        <text encoding="base64">ICAvKioKICAgKiBNZXJnZWQgbWV0YWRhdGEgZnJvbSB3ZWJwYWNrLmNvbW1vbi5qcyBmb3IgaW5kZXguaHRtbAogICAqCiAgICogU2VlOiAoY3VzdG9tIGF0dHJpYnV0ZSkKICAgKi8KICBtZXRhZGF0YTogTUVUQURBVEEsCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiZGVzY3JpcHRpb24iOiAiQW4gQW5ndWxhciAyIFdlYnBhY2sgU3RhcnRlciBraXQgZmVhdHVyaW5nIEFuZ3VsYXIgMiAoUm91dGVyLCBIdHRwLCBGb3JtcywgU2VydmljZXMsIFRlc3RzLCBFMkUsIENvdmVyYWdlKSwgS2FybWEsIFByb3RyYWN0b3IsIEphc21pbmUsIElzdGFuYnVsLCBUeXBlU2NyaXB0LCBhbmQgV2VicGFjayBieSBBbmd1bGFyQ2xhc3MiLAo=</text>
+        <text encoding="base64">ICAvKgogICAqIEluY2x1ZGUgcG9seWZpbGxzIG9yIG1vY2tzIGZvciB2YXJpb3VzIG5vZGUgc3R1ZmYKICAgKiBEZXNjcmlwdGlvbjogTm9kZSBjb25maWd1cmF0aW9uCiAgICoKICAgKiBTZWU6IGh0dHBzOi8vd2VicGFjay5naXRodWIuaW8vZG9jcy9jb25maWd1cmF0aW9uLmh0bWwjbm9kZQogICAqLwogIG5vZGU6IHsKICAgIGdsb2JhbDogJ3dpbmRvdycsCiAgICBjcnlwdG86ICdlbXB0eScsCiAgICBwcm9jZXNzOiB0cnVlLAogICAgbW9kdWxlOiBmYWxzZSwKICAgIGNsZWFySW1tZWRpYXRlOiBmYWxzZSwKICAgIHNldEltbWVkaWF0ZTogZmFsc2UKICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiYXV0aG9yIjogIlBhdHJpY2sgU3RhcGxldG9uIDxwYXRyaWNrQGFuZ3VsYXJjbGFzcy5jb20+IiwKICAiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9naXRodWIuY29tL2FuZ3VsYXJjbGFzcy9hbmd1bGFyMi13ZWJwYWNrLXN0YXJ0ZXIiLAogICJsaWNlbnNlIjogIk1JVCIsCg==</text>
+        <text encoding="base64">ICA8IS0tIEdvb2dsZSBBbmFseXRpY3M6IGNoYW5nZSBVQS03MTA3MzE3NS0xIHRvIGJlIHlvdXIgc2l0ZSdzIElEIC0tPgogIDxzY3JpcHQ+CiAgICAoZnVuY3Rpb24oaSxzLG8sZyxyLGEsbSl7aVsnR29vZ2xlQW5hbHl0aWNzT2JqZWN0J109cjtpW3JdPWlbcl18fGZ1bmN0aW9uKCl7CiAgICAoaVtyXS5xPWlbcl0ucXx8W10pLnB1c2goYXJndW1lbnRzKX0saVtyXS5sPTEqbmV3IERhdGUoKTthPXMuY3JlYXRlRWxlbWVudChvKSwKICAgIG09cy5nZXRFbGVtZW50c0J5VGFnTmFtZShvKVswXTthLmFzeW5jPTE7YS5zcmM9ZzttLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGEsbSkKICAgIH0pKHdpbmRvdyxkb2N1bWVudCwnc2NyaXB0JywnLy93d3cuZ29vZ2xlLWFuYWx5dGljcy5jb20vYW5hbHl0aWNzLmpzJywnZ2EnKTsKCiAgICBnYSgnY3JlYXRlJywgJ1VBLTcxMDczMTc1LTEnLCAnYXV0bycpOwogICAgZ2EoJ3NlbmQnLCAncGFnZXZpZXcnKTsKICA8L3NjcmlwdD4KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiYnVncyI6IHsKICAgICJ1cmwiOiAiaHR0cHM6Ly9naXRodWIuY29tL2FuZ3VsYXJjbGFzcy9hbmd1bGFyMi13ZWJwYWNrLXN0YXJ0ZXIvaXNzdWVzIgogIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImh0dHBzOi8vZ2l0aHViLmNvbS9hbmd1bGFyY2xhc3MvYW5ndWxhcjItd2VicGFjay1zdGFydGVyLmdpdCIKICB9LAo=</text>
+        <text encoding="base64">ICAgICAgLyoqCiAgICAgICAqIFR5cGVzY3JpcHQgbG9hZGVyIHN1cHBvcnQgZm9yIC50cyBhbmQgQW5ndWxhciAyIGFzeW5jIHJvdXRlcyB2aWEgLmFzeW5jLnRzCiAgICAgICAqCiAgICAgICAqIFNlZTogaHR0cHM6Ly9naXRodWIuY29tL3MtcGFuZmVyb3YvYXdlc29tZS10eXBlc2NyaXB0LWxvYWRlcgogICAgICAgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJnaXRodWItZGVwbG95OmRldiI6ICJ3ZWJwYWNrIC0tY29uZmlnIGNvbmZpZy93ZWJwYWNrLmdpdGh1Yi1kZXBsb3kuanMgLS1wcm9ncmVzcyAtLXByb2ZpbGUgLS1naXRodWItZGV2IiwKICAgICJnaXRodWItZGVwbG95OnByb2QiOiAid2VicGFjayAtLWNvbmZpZyBjb25maWcvd2VicGFjay5naXRodWItZGVwbG95LmpzIC0tcHJvZ3Jlc3MgLS1wcm9maWxlIC0tZ2l0aHViLXByb2QiLAogICAgImdpdGh1Yi1kZXBsb3kiOiAibnBtIHJ1biBnaXRodWItZGVwbG95OmRldiIsCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQW4gYXJyYXkgb2YgYXBwbGllZCBwcmUgYW5kIHBvc3QgbG9hZGVycy4KICAgICAqCiAgICAgKiBTZWU6IGh0dHA6Ly93ZWJwYWNrLmdpdGh1Yi5pby9kb2NzL2NvbmZpZ3VyYXRpb24uaHRtbCNtb2R1bGUtcHJlbG9hZGVycy1tb2R1bGUtcG9zdGxvYWRlcnMKICAgICAqLwogICAgcHJlTG9hZGVyczogWwoKICAgICAgLyoqCiAgICAgICAqIFRzbGludCBsb2FkZXIgc3VwcG9ydCBmb3IgKi50cyBmaWxlcwogICAgICAgKgogICAgICAgKiBTZWU6IGh0dHBzOi8vZ2l0aHViLmNvbS93YnVjaHdhbHRlci90c2xpbnQtbG9hZGVyCiAgICAgICAqLwogICAgICB7CiAgICAgICAgdGVzdDogL1wudHMkLywKICAgICAgICBsb2FkZXI6ICd0c2xpbnQtbG9hZGVyJywKICAgICAgICBleGNsdWRlOiBbaGVscGVycy5yb290KCdub2RlX21vZHVsZXMnKV0KICAgICAgfSwKCiAgICAgIC8qKgogICAgICAgKiBTb3VyY2UgbWFwIGxvYWRlciBzdXBwb3J0IGZvciAqLmpzIGZpbGVzCiAgICAgICAqIEV4dHJhY3RzIFNvdXJjZU1hcHMgZm9yIHNvdXJjZSBmaWxlcyB0aGF0IGFzIGFkZGVkIGFzIHNvdXJjZU1hcHBpbmdVUkwgY29tbWVudC4KICAgICAgICoKICAgICAgICogU2VlOiBodHRwczovL2dpdGh1Yi5jb20vd2VicGFjay9zb3VyY2UtbWFwLWxvYWRlcgogICAgICAgKi8KICAgICAgewogICAgICAgIHRlc3Q6IC9cLmpzJC8sCiAgICAgICAgbG9hZGVyOiAnc291cmNlLW1hcC1sb2FkZXInLAogICAgICAgIGV4Y2x1ZGU6IFsKICAgICAgICAgIC8vIHRoZXNlIHBhY2thZ2VzIGhhdmUgcHJvYmxlbXMgd2l0aCB0aGVpciBzb3VyY2VtYXBzCiAgICAgICAgICBoZWxwZXJzLnJvb3QoJ25vZGVfbW9kdWxlcy9yeGpzJyksCiAgICAgICAgICBoZWxwZXJzLnJvb3QoJ25vZGVfbW9kdWxlcy9AYW5ndWxhcicpCiAgICAgICAgXQogICAgICB9CgogICAgXSwKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBQYXJhbGxlbFVnbGlmeVBsdWdpbiA9IHJlcXVpcmUoJ3dlYnBhY2stcGFyYWxsZWwtdWdsaWZ5LXBsdWdpbicpLAo=</text>
+        <text encoding="base64">ICAvKioKICAgKiBTd2l0Y2ggbG9hZGVycyB0byBkZWJ1ZyBtb2RlLgogICAqCiAgICogU2VlOiBodHRwOi8vd2VicGFjay5naXRodWIuaW8vZG9jcy9jb25maWd1cmF0aW9uLmh0bWwjZGVidWcKICAgKi8KICBkZWJ1ZzogdHJ1ZSwKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLm9wdGltaXplLlVnbGlmeUpzUGx1Z2luKHt9KQo=</text>
+        <text encoding="base64">ICAvKioKICAgKiBTdGF0aWMgYW5hbHlzaXMgbGludGVyIGZvciBUeXBlU2NyaXB0IGFkdmFuY2VkIG9wdGlvbnMgY29uZmlndXJhdGlvbgogICAqIERlc2NyaXB0aW9uOiBBbiBleHRlbnNpYmxlIGxpbnRlciBmb3IgdGhlIFR5cGVTY3JpcHQgbGFuZ3VhZ2UuCiAgICoKICAgKiBTZWU6IGh0dHBzOi8vZ2l0aHViLmNvbS93YnVjaHdhbHRlci90c2xpbnQtbG9hZGVyCiAgICovCiAgdHNsaW50OiB7CiAgICBlbWl0RXJyb3JzOiB0cnVlLAogICAgZmFpbE9uSGludDogdHJ1ZSwKICAgIHJlc291cmNlUGF0aDogJ3NyYycKICB9LAoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc291cmNlTWFwOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAvKioKICAgKiBTdGF0aWMgYW5hbHlzaXMgbGludGVyIGZvciBUeXBlU2NyaXB0IGFkdmFuY2VkIG9wdGlvbnMgY29uZmlndXJhdGlvbgogICAqIERlc2NyaXB0aW9uOiBBbiBleHRlbnNpYmxlIGxpbnRlciBmb3IgdGhlIFR5cGVTY3JpcHQgbGFuZ3VhZ2UuCiAgICoKICAgKiBTZWU6IGh0dHBzOi8vZ2l0aHViLmNvbS93YnVjaHdhbHRlci90c2xpbnQtbG9hZGVyCiAgICovCiAgdHNsaW50OiB7CiAgICBlbWl0RXJyb3JzOiBmYWxzZSwKICAgIGZhaWxPbkhpbnQ6IGZhbHNlLAogICAgcmVzb3VyY2VQYXRoOiAnc3JjJwogIH0sCgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>webpack-de</last-search>
+      <last-search>html</last-search>
       <last-offset />
-      <last-pattern>webpack-de</last-pattern>
+      <last-pattern>html</last-pattern>
       <last-replace>IMdDialogConfig</last-replace>
       <last-substitute>IMdDialogFluentSyntax</last-substitute>
       <last-dir>1</last-dir>
@@ -1688,12 +1719,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGROZXdDb250YWluZXJcPg==</entry>
-        <entry encoding="base64">XDxmaW5kT3JBZGRDb250YWluZXJcPg==</entry>
-        <entry encoding="base64">XDxDaGFydE9wdGlvbnNcPg==</entry>
-        <entry>x:</entry>
-        <entry encoding="base64">XDxDb29yZGluYXRlXD4=</entry>
-        <entry>tick</entry>
         <entry>eval</entry>
         <entry>jsdo</entry>
         <entry>reass</entry>
@@ -1708,6 +1733,12 @@
         <entry>material</entry>
         <entry>webpack</entry>
         <entry>webpack-de</entry>
+        <entry>tslin</entry>
+        <entry>debug:</entry>
+        <entry>preloa</entry>
+        <entry encoding="base64">XDxNRVRBREFUQVw+</entry>
+        <entry>meta</entry>
+        <entry>html</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
