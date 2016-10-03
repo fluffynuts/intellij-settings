@@ -588,6 +588,12 @@
         <mark key="." line="11" column="50" />
         <mark key="^" line="11" column="50" />
       </file>
+      <file name="K:/PeanutButter/gulp-tasks/spec/bootstrap.js" timestamp="1475477743705">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="K:/abx/abx-vms-app/test/specs/test_helpers/create_window.ts" timestamp="1472652098269">
         <mark key="[" line="63" column="11" />
         <mark key="]" line="64" column="29" />
@@ -901,6 +907,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="4" column="30" />
+      </file>
+      <file name="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" timestamp="1475478137429">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="26" />
       </file>
       <file name="K:/DeliberatePractice/angular2_todo/src/app/app.component.ts" timestamp="1473427329835">
         <mark key="[" line="35" column="17" />
@@ -1302,6 +1314,12 @@
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
       </file>
+      <file name="K:/PeanutButter/gulp-tasks/modules/nunit-downloader.js" timestamp="1475478062188">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="3" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflow-instances/route.config.ts" timestamp="1474891268362">
         <mark key="[" line="14" column="38" />
         <mark key="]" line="14" column="38" />
@@ -1418,6 +1436,12 @@
         <mark key="]" line="53" column="39" />
         <mark key="^" line="30" column="46" />
         <mark key="." line="53" column="39" />
+      </file>
+      <file name="K:/PeanutButter/gulp-tasks/package.json" timestamp="1475477899231">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/conf.service.ts" timestamp="1474896908176">
         <mark key="[" line="0" column="31" />
@@ -1613,53 +1637,53 @@
       <jump line="112" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflow-metrics/directive.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8ZGl2Cg==</text>
+      <register name="&quot;" type="4">
+        <text>require</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>require</text>
       </register>
       <register name="/" type="4">
-        <text>eval</text>
+        <text>jsdo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN1cGVyKGF4aXNMYWJlbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8ZGl2Cg==</text>
+        <text encoding="base64">TlVuaXREb3dubG9hZGVyLnRlc3QgPSBmdW5jdGlvbiAoKSB7CiAgdmFyIGRvd25sb2FkZXIgPSBuZXcgTlVuaXREb3dubG9hZGVyKCk7CiAgZG93bmxvYWRlci5kb3dubG9hZExhdGVzdFRvKCdLOi9udW5pdCcpOwp9OwoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZXZhbCgnd2luZG93LmNoYXJ0cyA9ICRzY29wZS5jaGFydHM7Jyk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIEFycmFuZ2UKICAgIC8vIEFjdAogICAgLy8gQXNzZXJ0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKCk7Cg==</text>
+        <text encoding="base64">ICBpdCgnd2lsbCcsKCkgPT57CiAgLy8gQXJyYW5nZQogIC8vIEFjdAogIC8vIEFzc2VydAp9CikKOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vc3VwZXIoKWQ7Cg==</text>
+        <text encoding="base64">cmVxdWlyZSgnc2lub24nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBheGlzTGFiZWw6IHN0cmluZzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYXhpc0xhYmVsID0gYXhpc0xhYmVsOwo=</text>
+        <text encoding="base64">ICA8ZGl2Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYXhpc0xhYmVsID0gYXhpc0xhYmVsOwo=</text>
+        <text encoding="base64">ICAgICAgZXZhbCgnd2luZG93LmNoYXJ0cyA9ICRzY29wZS5jaGFydHM7Jyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYXhpc0xhYmVsID0gJwo=</text>
+        <text encoding="base64">ICAgIHN1cGVyKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYXhpc0xhYgo=</text>
+        <text encoding="base64">ICAgIC8vc3VwZXIoKWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>eval</last-search>
+      <last-search>jsdo</last-search>
       <last-offset />
-      <last-pattern>eval</last-pattern>
+      <last-pattern>jsdo</last-pattern>
       <last-replace>IMdDialogConfig</last-replace>
       <last-substitute>IMdDialogFluentSyntax</last-substitute>
       <last-dir>1</last-dir>
@@ -1667,7 +1691,6 @@
     </search>
     <history>
       <history-search>
-        <entry>halt</entry>
         <entry encoding="base64">XDxIQUxURURcPg==</entry>
         <entry>aws</entry>
         <entry>awe</entry>
@@ -1687,6 +1710,7 @@
         <entry encoding="base64">XDxDb29yZGluYXRlXD4=</entry>
         <entry>tick</entry>
         <entry>eval</entry>
+        <entry>jsdo</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
