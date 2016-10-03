@@ -302,12 +302,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.AdminApp/package.json" timestamp="1475487826839">
-        <mark key="'" line="17" column="49" />
-        <mark key="[" line="37" column="89" />
-        <mark key="]" line="37" column="79" />
-        <mark key="." line="37" column="79" />
-        <mark key="^" line="37" column="79" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.AdminApp/package.json" timestamp="1475490946833">
+        <mark key="'" line="53" column="30" />
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="1" column="27" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/auth-test-ui/template.html" timestamp="1473760273140">
         <mark key="[" line="14" column="24" />
@@ -899,7 +899,6 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.AdminApp/config/webpack.common.js" timestamp="1475487459382" />
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/app.ts" timestamp="1473778776530">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -1533,10 +1532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="13" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
-      <jump line="45" column="19" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
-      <jump line="64" column="6" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
-      <jump line="174" column="4" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
       <jump line="118" column="4" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
       <jump line="108" column="48" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/typings/globals/angular-ui-router/index.d.ts" />
       <jump line="22" column="31" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/interfaces.ts" />
@@ -1633,55 +1628,59 @@
       <jump line="25" column="22" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
       <jump line="0" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/webpack.development.js" />
       <jump line="17" column="49" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/package.json" />
+      <jump line="31" column="32" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/package.json" />
+      <jump line="40" column="19" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/package.json" />
+      <jump line="150" column="5" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/package.json" />
+      <jump line="53" column="30" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJnaXRodWItZGVwbG95OmRldiI6ICJ3ZWJwYWNrIC0tY29uZmlnIGNvbmZpZy93ZWJwYWNrLmdpdGh1Yi1kZXBsb3kuanMgLS1wcm9ncmVzcyAtLXByb2ZpbGUgLS1naXRodWItZGV2IiwKICAgICJnaXRodWItZGVwbG95OnByb2QiOiAid2VicGFjayAtLWNvbmZpZyBjb25maWcvd2VicGFjay5naXRodWItZGVwbG95LmpzIC0tcHJvZ3Jlc3MgLS1wcm9maWxlIC0tZ2l0aHViLXByb2QiLAogICAgImdpdGh1Yi1kZXBsb3kiOiAibnBtIHJ1biBnaXRodWItZGVwbG95OmRldiIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>angular2-webpack-starter</text>
       </register>
       <register name="-" type="4">
-        <text>ParallelUglifyPlugin({})</text>
+        <text>angular2-webpack-starter</text>
       </register>
       <register name="/" type="4">
-        <text>webpack</text>
+        <text>webpack-de</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN1cGVyKGF4aXNMYWJlbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJnaXRodWItZGVwbG95OmRldiI6ICJ3ZWJwYWNrIC0tY29uZmlnIGNvbmZpZy93ZWJwYWNrLmdpdGh1Yi1kZXBsb3kuanMgLS1wcm9ncmVzcyAtLXByb2ZpbGUgLS1naXRodWItZGV2IiwKICAgICJnaXRodWItZGVwbG95OnByb2QiOiAid2VicGFjayAtLWNvbmZpZyBjb25maWcvd2VicGFjay5naXRodWItZGVwbG95LmpzIC0tcHJvZ3Jlc3MgLS1wcm9maWxlIC0tZ2l0aHViLXByb2QiLAogICAgImdpdGh1Yi1kZXBsb3kiOiAibnBtIHJ1biBnaXRodWItZGVwbG95OmRldiIsCg==</text>
+        <text encoding="base64">ICAia2V5d29yZHMiOiBbCiAgICAiYW5ndWxhcjIiLAogICAgIndlYnBhY2siLAogICAgInR5cGVzY3JpcHQiCiAgXSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBQYXJhbGxlbFVnbGlmeVBsdWdpbiA9IHJlcXVpcmUoJ3dlYnBhY2stcGFyYWxsZWwtdWdsaWZ5LXBsdWdpbicpLAo=</text>
+        <text encoding="base64">ICAiZGVzY3JpcHRpb24iOiAiQW4gQW5ndWxhciAyIFdlYnBhY2sgU3RhcnRlciBraXQgZmVhdHVyaW5nIEFuZ3VsYXIgMiAoUm91dGVyLCBIdHRwLCBGb3JtcywgU2VydmljZXMsIFRlc3RzLCBFMkUsIENvdmVyYWdlKSwgS2FybWEsIFByb3RyYWN0b3IsIEphc21pbmUsIElzdGFuYnVsLCBUeXBlU2NyaXB0LCBhbmQgV2VicGFjayBieSBBbmd1bGFyQ2xhc3MiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLm9wdGltaXplLlVnbGlmeUpzUGx1Z2luKHt9KQo=</text>
+        <text encoding="base64">ICAiYXV0aG9yIjogIlBhdHJpY2sgU3RhcGxldG9uIDxwYXRyaWNrQGFuZ3VsYXJjbGFzcy5jb20+IiwKICAiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9naXRodWIuY29tL2FuZ3VsYXJjbGFzcy9hbmd1bGFyMi13ZWJwYWNrLXN0YXJ0ZXIiLAogICJsaWNlbnNlIjogIk1JVCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc291cmNlTWFwOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAiYnVncyI6IHsKICAgICJ1cmwiOiAiaHR0cHM6Ly9naXRodWIuY29tL2FuZ3VsYXJjbGFzcy9hbmd1bGFyMi13ZWJwYWNrLXN0YXJ0ZXIvaXNzdWVzIgogIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImh0dHBzOi8vZ2l0aHViLmNvbS9hbmd1bGFyY2xhc3MvYW5ndWxhcjItd2VicGFjay1zdGFydGVyLmdpdCIKICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBlbnRyaWVzID0gewogICAgdmVuZG9yOiBbJy4vc3JjL3ZlbmRvci50cyddLAogIH07CnJ1bnRpbWVEZXBlbmRlbmNpZXMuZm9yRWFjaChkZXAgPT4gewogIGVudHJpZXNbZGVwXSA9IGRlcDsKfSk7CgplbnRyaWVzWydhcHAnXSA9ICcuL3NyYy9hcHAudHMnOwo=</text>
+        <text encoding="base64">ICAgICJnaXRodWItZGVwbG95OmRldiI6ICJ3ZWJwYWNrIC0tY29uZmlnIGNvbmZpZy93ZWJwYWNrLmdpdGh1Yi1kZXBsb3kuanMgLS1wcm9ncmVzcyAtLXByb2ZpbGUgLS1naXRodWItZGV2IiwKICAgICJnaXRodWItZGVwbG95OnByb2QiOiAid2VicGFjayAtLWNvbmZpZyBjb25maWcvd2VicGFjay5naXRodWItZGVwbG95LmpzIC0tcHJvZ3Jlc3MgLS1wcm9maWxlIC0tZ2l0aHViLXByb2QiLAogICAgImdpdGh1Yi1kZXBsb3kiOiAibnBtIHJ1biBnaXRodWItZGVwbG95OmRldiIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBlbnRyeTogZW50cmllcywK</text>
+        <text encoding="base64">ICBQYXJhbGxlbFVnbGlmeVBsdWdpbiA9IHJlcXVpcmUoJ3dlYnBhY2stcGFyYWxsZWwtdWdsaWZ5LXBsdWdpbicpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFwcDogJy4vc3JjL2FwcC50cycK</text>
+        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLm9wdGltaXplLlVnbGlmeUpzUGx1Z2luKHt9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBFeHRyYWN0VGV4dFBsdWdpbiA9IHJlcXVpcmUoJ2V4dHJhY3QtdGV4dC13ZWJwYWNrLXBsdWdpbicpLAo=</text>
+        <text encoding="base64">ICAgICAgc291cmNlTWFwOiBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>webpack</last-search>
+      <last-search>webpack-de</last-search>
       <last-offset />
-      <last-pattern>webpack</last-pattern>
+      <last-pattern>webpack-de</last-pattern>
       <last-replace>IMdDialogConfig</last-replace>
       <last-substitute>IMdDialogFluentSyntax</last-substitute>
       <last-dir>1</last-dir>
@@ -1689,7 +1688,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJTWFyZ2luc1w+</entry>
         <entry encoding="base64">XDxhZGROZXdDb250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxmaW5kT3JBZGRDb250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxDaGFydE9wdGlvbnNcPg==</entry>
@@ -1709,6 +1707,7 @@
         <entry>opt</entry>
         <entry>material</entry>
         <entry>webpack</entry>
+        <entry>webpack-de</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
