@@ -20,7 +20,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1475499133252">
+      <file name="/a.dummy" timestamp="1475505421739">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="K:/OpenSource/synchronous-promise/.gitignore" timestamp="1474463183052">
@@ -174,10 +174,22 @@
         <mark key="." line="31" column="15" />
         <mark key="^" line="31" column="15" />
       </file>
+      <file name="K:/DeliberatePractice/angular2_todo/src/app/components/todo/component.spec.ts" timestamp="1475504302529">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/test-utils/index.ts" timestamp="1474527760271">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="K:/DeliberatePractice/angular2_todo/src/app/components/todo/template.html" timestamp="1475504799890">
+        <mark key="[" line="5" column="47" />
+        <mark key="]" line="6" column="39" />
+        <mark key="^" line="6" column="39" />
+        <mark key="." line="6" column="39" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/bearer-token-provider.factory.ts" timestamp="1473935514053">
         <mark key="[" line="0" column="44" />
@@ -240,11 +252,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="K:/DeliberatePractice/angular2_todo/config/webpack.common.js" timestamp="1473426216763">
-        <mark key="[" line="22" column="21" />
-        <mark key="]" line="22" column="20" />
-        <mark key="." line="22" column="20" />
-        <mark key="^" line="22" column="20" />
+      <file name="K:/DeliberatePractice/angular2_todo/config/webpack.common.js" timestamp="1475504084785">
+        <mark key="[" line="30" column="40" />
+        <mark key="]" line="30" column="34" />
+        <mark key="." line="30" column="34" />
+        <mark key="^" line="30" column="34" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/footer/directive.ts" timestamp="1473775446883">
         <mark key="[" line="4" column="3" />
@@ -656,6 +668,11 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
+      <file name="K:/DeliberatePractice/angular2_todo/src/main.ts" timestamp="1475502636515">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/form-url-encoder/interfaces.ts" timestamp="1473929693595">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="1" column="35" />
@@ -824,8 +841,8 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="5" column="31" />
       </file>
-      <file name="K:/DeliberatePractice/angular2_todo/package.json" timestamp="1475499387187">
-        <mark key="'" line="0" column="0" />
+      <file name="K:/DeliberatePractice/angular2_todo/package.json" timestamp="1475503092870">
+        <mark key="'" line="36" column="21" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -1358,6 +1375,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="17" column="31" />
       </file>
+      <file name="K:/DeliberatePractice/angular2_todo/src/app/app.scss" timestamp="1475505051722">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/utils/environment.ts" timestamp="1475050891966">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1429,6 +1451,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="K:/DeliberatePractice/angular2_todo/src/index.html" timestamp="1475505809892">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/hook-css-requires.js" timestamp="1474360096961">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1452,11 +1479,11 @@
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="22" />
       </file>
-      <file name="K:/DeliberatePractice/angular2_todo/src/app/app.module.ts" timestamp="1475499465569">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="4" column="50" />
-        <mark key="." line="4" column="50" />
-        <mark key="^" line="4" column="50" />
+      <file name="K:/DeliberatePractice/angular2_todo/src/app/app.module.ts" timestamp="1475504253717">
+        <mark key="[" line="3" column="44" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="12" />
+        <mark key="^" line="3" column="12" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/Workflow.ts" timestamp="1474545017528">
         <mark key="[" line="3" column="0" />
@@ -1517,6 +1544,12 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
+      <file name="K:/DeliberatePractice/angular2_todo/src/app/components/todo/component.ts" timestamp="1475504377880">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="12" column="26" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/shared/navigation/directive.ts" timestamp="1475159488364">
         <mark key="[" line="15" column="26" />
         <mark key="]" line="15" column="81" />
@@ -1567,7 +1600,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="56" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
       <jump line="62" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/implementations/workflow.ts" />
       <jump line="6" column="20" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/workflow-reassignment-dialog/workflow-reassignment-dialog.service.ts" />
       <jump line="43" column="9" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/interfaces/data.ts" />
@@ -1667,55 +1699,59 @@
       <jump line="4" column="3" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/src/index.html" />
       <jump line="255" column="49" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/config/webpack.common.js" />
       <jump line="0" column="0" filename="K:/DeliberatePractice/angular2_todo/package.json" />
+      <jump line="36" column="21" filename="K:/DeliberatePractice/angular2_todo/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcm92aWRlcnM6IFtNYXRlcmlhbE1vZHVsZS5mb3JSb290KCldLAo=</text>
+        <text encoding="base64">ICA8bmF2aQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PjwvaW5wdXQ+</text>
+        <text>prebuilt/purple-green.scss';</text>
       </register>
       <register name="/" type="4">
-        <text>materi</text>
+        <text>reac</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN1cGVyKGF4aXNMYWJlbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcm92aWRlcnM6IFtNYXRlcmlhbE1vZHVsZS5mb3JSb290KCldLAo=</text>
+        <text encoding="base64">ICA8bmF2aQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWRMaXN0TW9kdWxlLCBNZExpc3RJdGVtIH0gZnJvbSAnQGFuZ3VsYXIyLW1hdGVyaWFsL2xpc3QnOwo=</text>
+        <text encoding="base64">ICA8dG9kby1hcHA+TG9hZGluZy4uLjwvdG9kby1hcHA+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJAYW5ndWxhcjItbWF0ZXJpYWwvYnV0dG9uIjogIl4yLjAuMC1hbHBoYS44LTEiLAogICAgIkBhbmd1bGFyMi1tYXRlcmlhbC9jaGVja2JveCI6ICJeMi4wLjAtYWxwaGEuOC0xIiwKICAgICJAYW5ndWxhcjItbWF0ZXJpYWwvY29yZSI6ICJeMi4wLjAtYWxwaGEuOC0xIiwKICAgICJAYW5ndWxhcjItbWF0ZXJpYWwvaW5wdXQiOiAiXjIuMC4wLWFscGhhLjgtMSIsCiAgICAiQGFuZ3VsYXIyLW1hdGVyaWFsL2xpc3QiOiAiXjIuMC4wLWFscGhhLjgtMSIsCg==</text>
+        <text encoding="base64">ICA8bmF2aWdhdGlvbj48L25hdmlnYXRpb24+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcm92aWRlcnM6IFtNZEJ1dHRvbiwgTWRJbnB1dCwgTWRMaXN0LCBdLAo=</text>
+        <text encoding="base64">ICA8bmF2aWdhdGlvbj48L25hdmlnYXRpb24+CiAgPHRvZG8tYXBwPkxvYWRpbmcuLi48L3RvZG8tYXBwPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWRCdXR0b24gfSBmcm9tICdAYW5ndWxhcjItbWF0ZXJpYWwvYnV0dG9uJzsKaW1wb3J0IHsgTWRJbnB1dCB9IGZyb20gJ0Bhbmd1bGFyMi1tYXRlcmlhbC9pbnB1dCc7CmltcG9ydCB7IE1kTGlzdCwgTWRMaXN0SXRlbSB9IGZyb20gJ0Bhbmd1bGFyMi1tYXRlcmlhbC9saXN0JzsKaW1wb3J0IHsgTWRDaGVja2JveCB9IGZyb20gJ0Bhbmd1bGFyMi1tYXRlcmlhbC9jaGVja2JveCc7Cg==</text>
+        <text encoding="base64">ICA8bWFpbi1jb250ZW50Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE1kTGlzdE1vZHVsZS5mb3JSb290KCksCg==</text>
+        <text encoding="base64">Lm1kLWNoZWNrYm94Lm1kLWNoZWNrYm94LWZvY3VzZWQgewp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE1kTGlzdEl0ZW0uZm9yUgo=</text>
+        <text encoding="base64">Lgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBGb3JtCg==</text>
+      <register name="8" type="8">
+        <text>//
+//
+//
+//</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Rm9ybURpCiAgRk9STV9ESVJFQ1RJVkVTLAogIFJFQUNUSVZFX0ZPUk1fRElSRUNUSVZFUywK</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>materi</last-search>
+      <last-search>reac</last-search>
       <last-offset />
-      <last-pattern>materi</last-pattern>
+      <last-pattern>reac</last-pattern>
       <last-replace>IMdDialogConfig</last-replace>
       <last-substitute>IMdDialogFluentSyntax</last-substitute>
       <last-dir>1</last-dir>
@@ -1723,7 +1759,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jsdo</entry>
         <entry>reass</entry>
         <entry encoding="base64">XDxyZWFzc2lnblNlbGVjdGVkXD4=</entry>
         <entry>daysFromNow</entry>
@@ -1743,6 +1778,7 @@
         <entry>meta</entry>
         <entry>html</entry>
         <entry>materi</entry>
+        <entry>reac</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
