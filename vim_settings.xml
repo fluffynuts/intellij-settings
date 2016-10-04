@@ -948,11 +948,12 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" timestamp="1475570827381">
-        <mark key="[" line="128" column="15" />
-        <mark key="]" line="124" column="43" />
-        <mark key="^" line="124" column="43" />
-        <mark key="." line="124" column="43" />
+      <file name="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" timestamp="1475572152317">
+        <mark key="'" line="13" column="13" />
+        <mark key="[" line="146" column="17" />
+        <mark key="]" line="148" column="20" />
+        <mark key="." line="148" column="20" />
+        <mark key="^" line="148" column="20" />
       </file>
       <file name="K:/DeliberatePractice/angular2_todo/src/app/app.component.ts" timestamp="1475499445082">
         <mark key="[" line="12" column="0" />
@@ -1358,12 +1359,12 @@
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="K:/PeanutButter/gulp-tasks/modules/nunit-downloader.js" timestamp="1475570545672">
+      <file name="K:/PeanutButter/gulp-tasks/modules/nunit-downloader.js" timestamp="1475571493701">
         <mark key="'" line="23" column="32" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="27" />
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="39" />
+        <mark key="." line="28" column="39" />
+        <mark key="^" line="28" column="39" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflow-instances/route.config.ts" timestamp="1474891268362">
         <mark key="[" line="14" column="38" />
@@ -1603,10 +1604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="5" filename="K:/playground/angular2/wikisearch/package.json" />
-      <jump line="14" column="38" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/workflow-reassignment-dialog/workflow-reassignment-dialog.service.ts" />
-      <jump line="0" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
-      <jump line="20" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
       <jump line="69" column="5" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
       <jump line="95" column="19" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/directive.ts" />
       <jump line="110" column="30" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/directive.ts" />
@@ -1703,13 +1700,17 @@
       <jump line="12" column="17" filename="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" />
       <jump line="104" column="18" filename="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" />
       <jump line="24" column="32" filename="K:/PeanutButter/gulp-tasks/modules/nunit-downloader.js" />
+      <jump line="134" column="32" filename="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" />
+      <jump line="137" column="0" filename="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" />
+      <jump line="124" column="20" filename="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" />
+      <jump line="13" column="13" filename="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzZG9tLmVudihib2R5LCBmdW5jdGlvbihlcnIsIHdpbmRvdykgewogICAgICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>folder</text>
       </register>
       <register name="-" type="4">
-        <text>eql('https://github.com/nunit/nunit/releases/1.2.3/Nunit-1.2.3.zip');</text>
+        <text>folder</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
@@ -1718,31 +1719,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICBleHBlY3QocHJveGllcy5yZXF1ZXN0LnNlY29uZENhbGwuYXJnc1swXSkudG8uZXFsKCdodHRwczovL2dpdGh1Yi5jb20vbnVuaXQvbnVuaXQvcmVsZWFzZXMvMS4yLjMvTnVuaXQtMS4yLjMuemlwJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzZG9tLmVudihib2R5LCBmdW5jdGlvbihlcnIsIHdpbmRvdykgewogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgdGVzdEZvbGRlciA9ICd0ZXN0LWRsLW91dHB1dCc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChmcy5leGlzdHNTeW5jKHRlc3RGb2xkZXIpKSB7CiAgICAgICAgICAgICAgICAgIGZzLnJtZGlyKCkKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnZG9pbmcgZG9uZScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0IHppcDogJywgbGF0ZXN0WmlwTGluayk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzZG9tLmVudihib2R5LCBmdW5jdGlvbihlcnIsIHdpbmRvdykgewogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwcm94aWVzLnJlcXVlc3QuY2FsbENvdW50KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGpzZG9tLmVudikudG8uaGF2ZS5iZWVuLmNhbGxlZE9uY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnZG9pbmcgZG9uZScpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coanNkb20uZW52LmZpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0IHppcDogJywgbGF0ZXN0WmlwTGluayk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwcm94aWVzLnJlcXVlc3QuY2FsbENvdW50KCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coanNkb20uZW52KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGpzZG9tLmVudikudG8uaGF2ZS5iZWVuLmNhbGxlZE9uY2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
