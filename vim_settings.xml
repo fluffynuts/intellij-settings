@@ -948,11 +948,11 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" timestamp="1475478137429">
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="26" />
-        <mark key="^" line="2" column="26" />
+      <file name="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" timestamp="1475570827381">
+        <mark key="[" line="128" column="15" />
+        <mark key="]" line="124" column="43" />
+        <mark key="^" line="124" column="43" />
+        <mark key="." line="124" column="43" />
       </file>
       <file name="K:/DeliberatePractice/angular2_todo/src/app/app.component.ts" timestamp="1475499445082">
         <mark key="[" line="12" column="0" />
@@ -1358,11 +1358,12 @@
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="K:/PeanutButter/gulp-tasks/modules/nunit-downloader.js" timestamp="1475478062188">
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="1" column="3" />
-        <mark key="^" line="1" column="3" />
-        <mark key="." line="1" column="3" />
+      <file name="K:/PeanutButter/gulp-tasks/modules/nunit-downloader.js" timestamp="1475570545672">
+        <mark key="'" line="23" column="32" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="27" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflow-instances/route.config.ts" timestamp="1474891268362">
         <mark key="[" line="14" column="38" />
@@ -1602,12 +1603,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/implementations/workflow.ts" />
-      <jump line="6" column="20" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/workflow-reassignment-dialog/workflow-reassignment-dialog.service.ts" />
-      <jump line="43" column="9" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/interfaces/data.ts" />
-      <jump line="13" column="27" filename="K:/playground/angular2/wikisearch/config/webpack.common.js" />
-      <jump line="8" column="20" filename="K:/playground/angular2/wikisearch/package.json" />
-      <jump line="10" column="14" filename="K:/playground/angular2/wikisearch/package.json" />
       <jump line="52" column="5" filename="K:/playground/angular2/wikisearch/package.json" />
       <jump line="14" column="38" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/workflow-reassignment-dialog/workflow-reassignment-dialog.service.ts" />
       <jump line="0" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
@@ -1702,55 +1697,61 @@
       <jump line="255" column="49" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/config/webpack.common.js" />
       <jump line="0" column="0" filename="K:/DeliberatePractice/angular2_todo/package.json" />
       <jump line="36" column="21" filename="K:/DeliberatePractice/angular2_todo/package.json" />
+      <jump line="10" column="8" filename="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" />
+      <jump line="114" column="11" filename="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" />
+      <jump line="2" column="2" filename="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" />
+      <jump line="12" column="17" filename="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" />
+      <jump line="104" column="18" filename="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" />
+      <jump line="24" column="32" filename="K:/PeanutButter/gulp-tasks/modules/nunit-downloader.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIKICAgICAgICAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgZm9ybUNvbnRyb2xOYW1lPSJuZXdUb2RvVGV4dCIKICAgICAgICAgICAgICAgKGtleXVwLmVudGVyKT0iYWRkVG9kbygpIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzZG9tLmVudihib2R5LCBmdW5jdGlvbihlcnIsIHdpbmRvdykgewogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>__input&quot; type=&quot;&quot;</text>
+        <text>eql('https://github.com/nunit/nunit/releases/1.2.3/Nunit-1.2.3.zip');</text>
       </register>
       <register name="/" type="4">
-        <text>reac</text>
+        <text>sort</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKGF4aXNMYWJlbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBleHBlY3QocHJveGllcy5yZXF1ZXN0LnNlY29uZENhbGwuYXJnc1swXSkudG8uZXFsKCdodHRwczovL2dpdGh1Yi5jb20vbnVuaXQvbnVuaXQvcmVsZWFzZXMvMS4yLjMvTnVuaXQtMS4yLjMuemlwJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIKICAgICAgICAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgZm9ybUNvbnRyb2xOYW1lPSJuZXdUb2RvVGV4dCIKICAgICAgICAgICAgICAgKGtleXVwLmVudGVyKT0iYWRkVG9kbygpIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzZG9tLmVudihib2R5LCBmdW5jdGlvbihlcnIsIHdpbmRvdykgewogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGZvcm1Db250cm9sTmFtZT0ibmV3VG9kb1RleHQiCiAgICAgICAgICAgICAgICAgICAoa2V5dXAuZW50ZXIpPSJhZGRUb2RvKCkiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHR5cGU9InRleHQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnZG9pbmcgZG9uZScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIKICAgICAgICAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgZm9ybUNvbnRyb2xOYW1lPSJuZXdUb2RvVGV4dCIKICAgICAgICAgICAgICAgKGtleXVwLmVudGVyKT0iYWRkVG9kbygpIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0IHppcDogJywgbGF0ZXN0WmlwTGluayk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVxdWlyZSgnbWF0ZXJpYWwtZGVzaWduLWxpdGUvbWF0ZXJpYWwnKTsKcmVxdWlyZSgnbWF0ZXJpYWwtZGVzaWduLWxpdGUvbWF0ZXJpYWwuY3NzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwcm94aWVzLnJlcXVlc3QuY2FsbENvdW50KCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gbWQtcmFpc2VkLWJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4KICAgIDxtZC1jaGVja2JveD5jbGljayBtZSE8L21kLWNoZWNrYm94Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGpzZG9tLmVudikudG8uaGF2ZS5iZWVuLmNhbGxlZE9uY2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi9hcHAuc2NzcycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coanNkb20uZW52LmZpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICdAYW5ndWxhci9tYXRlcmlhbCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTWF0ZXJpYWxNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9tYXRlcmlhbCc7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coanNkb20uZW52KTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>reac</last-search>
+      <last-search>sort</last-search>
       <last-offset />
-      <last-pattern>reac</last-pattern>
+      <last-pattern>sort</last-pattern>
       <last-replace>IMdDialogConfig</last-replace>
       <last-substitute>IMdDialogFluentSyntax</last-substitute>
       <last-dir>1</last-dir>
@@ -1758,10 +1759,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reass</entry>
-        <entry encoding="base64">XDxyZWFzc2lnblNlbGVjdGVkXD4=</entry>
-        <entry>daysFromNow</entry>
-        <entry encoding="base64">XDxkYXlzRnJvbU5vd1w+</entry>
         <entry>in state</entry>
         <entry>faker</entry>
         <entry>ug</entry>
@@ -1778,6 +1775,10 @@
         <entry>html</entry>
         <entry>materi</entry>
         <entry>reac</entry>
+        <entry encoding="base64">XDxqc2RvbVw+</entry>
+        <entry>reset</entry>
+        <entry encoding="base64">XDxyZXNldFw+</entry>
+        <entry>sort</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
