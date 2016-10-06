@@ -751,12 +751,6 @@
         <mark key="^" line="59" column="8" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.AdminApp/src/index.html" timestamp="1475492316527">
-        <mark key="'" line="4" column="3" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/services/workflow-fetcher.service.ts" timestamp="1474547811518">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -841,12 +835,6 @@
         <mark key="]" line="5" column="31" />
         <mark key="^" line="5" column="31" />
         <mark key="." line="5" column="31" />
-      </file>
-      <file name="K:/DeliberatePractice/angular2_todo/package.json" timestamp="1475503092870">
-        <mark key="'" line="36" column="21" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/tsconfig.json" timestamp="1472736845954">
         <mark key="[" line="3" column="17" />
@@ -936,17 +924,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/auth-test-ui/directive.ts" timestamp="1473942021561">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="2" column="34" />
-        <mark key="^" line="2" column="34" />
-      </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.AdminApp/config/webpack.common.js" timestamp="1475492502023">
-        <mark key="'" line="255" column="49" />
-        <mark key="[" line="265" column="0" />
-        <mark key="]" line="265" column="0" />
-        <mark key="." line="265" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/auth-test-ui/directive.ts" timestamp="1475733595404">
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+        <mark key="^" line="15" column="31" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/app.ts" timestamp="1473778776530">
         <mark key="[" line="36" column="0" />
@@ -1457,12 +1439,6 @@
         <mark key="]" line="406" column="0" />
         <mark key="." line="406" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.AdminApp/config/webpack.dev.js" timestamp="1475492530755">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="K:/DeliberatePractice/angular2_todo/src/index.html" timestamp="1475562900343">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="9" column="0" />
@@ -1579,11 +1555,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/auth-test-ui/template.html" timestamp="1473941844019">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="14" />
-        <mark key="." line="4" column="14" />
-        <mark key="^" line="4" column="14" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/auth-test-ui/template.html" timestamp="1475733615452">
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="5" column="57" />
+        <mark key="." line="5" column="57" />
+        <mark key="^" line="5" column="52" />
       </file>
       <file name="K:/OpenSource/synchronous-promise/index.js" timestamp="1474466173641">
         <mark key="'" line="73" column="0" />
@@ -1598,12 +1574,12 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" timestamp="1475731510699">
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" timestamp="1475733580267">
         <mark key="'" line="71" column="23" />
-        <mark key="[" line="67" column="70" />
-        <mark key="]" line="68" column="14" />
-        <mark key="." line="68" column="14" />
-        <mark key="^" line="68" column="14" />
+        <mark key="[" line="74" column="28" />
+        <mark key="]" line="75" column="38" />
+        <mark key="." line="75" column="38" />
+        <mark key="^" line="75" column="38" />
       </file>
       <file name="K:/OpenSource/synchronous-promise/package.json" timestamp="1474464584070">
         <mark key="[" line="11" column="41" />
@@ -1715,17 +1691,17 @@
       <jump line="53" column="10" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/user-authenticator.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>Log out</text>
       </register>
       <register name="-" type="4">
-        <text>61487</text>
+        <text>Log out</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWF1dGhlbnRpY2F0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBleHBlY3QocHJveGllcy5yZXF1ZXN0LnNlY29uZENhbGwuYXJnc1swXSkudG8uZXFsKCdodHRwczovL2dpdGh1Yi5jb20vbnVuaXQvbnVuaXQvcmVsZWFzZXMvMS4yLjMvTnVuaXQtMS4yLjMuemlwJyk7Cg==</text>
+        <text encoding="base64">ICAgIDxtZC1idXR0b24gY2xhc3M9Im1kLXJhaXNlZCBtZC13YXJuIiBkYXRhLW5nLWNsaWNrPSJjbGVhcigpIj5Mb2cgb3V0PC9tZC1idXR0b24+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
