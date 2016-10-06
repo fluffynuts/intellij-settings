@@ -20,7 +20,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1475673566952">
+      <file name="/a.dummy" timestamp="1475731395197">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="K:/OpenSource/synchronous-promise/.gitignore" timestamp="1474463183052">
@@ -1042,6 +1042,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/user-authenticator.service.ts" timestamp="1475731394326">
+        <mark key="'" line="53" column="10" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/development/api.ts" timestamp="1475672255350">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="20" />
@@ -1595,12 +1598,12 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" timestamp="1474551197495">
-        <mark key="'" line="70" column="23" />
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="28" column="41" />
-        <mark key="." line="28" column="41" />
-        <mark key="^" line="28" column="41" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" timestamp="1475731510699">
+        <mark key="'" line="71" column="23" />
+        <mark key="[" line="67" column="70" />
+        <mark key="]" line="68" column="14" />
+        <mark key="." line="68" column="14" />
+        <mark key="^" line="68" column="14" />
       </file>
       <file name="K:/OpenSource/synchronous-promise/package.json" timestamp="1474464584070">
         <mark key="[" line="11" column="41" />
@@ -1610,7 +1613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="5" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
       <jump line="95" column="19" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/directive.ts" />
       <jump line="110" column="30" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/directive.ts" />
       <jump line="134" column="3" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/directive.ts" />
@@ -1710,63 +1712,63 @@
       <jump line="137" column="0" filename="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" />
       <jump line="124" column="20" filename="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" />
       <jump line="13" column="13" filename="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" />
+      <jump line="53" column="10" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/user-authenticator.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>61487</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>61487</text>
       </register>
       <register name="/" type="4">
-        <text>sort</text>
+        <text encoding="base64">XDxyZWF1dGhlbnRpY2F0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBleHBlY3QocHJveGllcy5yZXF1ZXN0LnNlY29uZENhbGwuYXJnc1swXSkudG8uZXFsKCdodHRwczovL2dpdGh1Yi5jb20vbnVuaXQvbnVuaXQvcmVsZWFzZXMvMS4yLjMvTnVuaXQtMS4yLjMuemlwJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgdGVzdEZvbGRlciA9ICd0ZXN0LWRsLW91dHB1dCc7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChmcy5leGlzdHNTeW5jKHRlc3RGb2xkZXIpKSB7CiAgICAgICAgICAgICAgICAgIGZzLnJtZGlyKCkKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgdGVzdEZvbGRlciA9ICd0ZXN0LWRsLW91dHB1dCc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChmcy5leGlzdHNTeW5jKHRlc3RGb2xkZXIpKSB7CiAgICAgICAgICAgICAgICAgIGZzLnJtZGlyKCkKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzZG9tLmVudihib2R5LCBmdW5jdGlvbihlcnIsIHdpbmRvdykgewogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzZG9tLmVudihib2R5LCBmdW5jdGlvbihlcnIsIHdpbmRvdykgewogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnZG9pbmcgZG9uZScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0IHppcDogJywgbGF0ZXN0WmlwTGluayk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnZG9pbmcgZG9uZScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwcm94aWVzLnJlcXVlc3QuY2FsbENvdW50KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0IHppcDogJywgbGF0ZXN0WmlwTGluayk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGpzZG9tLmVudikudG8uaGF2ZS5iZWVuLmNhbGxlZE9uY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwcm94aWVzLnJlcXVlc3QuY2FsbENvdW50KCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>sort</last-search>
+      <last-search encoding="base64">XDxyZWF1dGhlbnRpY2F0ZVw+</last-search>
       <last-offset />
-      <last-pattern>sort</last-pattern>
+      <last-pattern encoding="base64">XDxyZWF1dGhlbnRpY2F0ZVw+</last-pattern>
       <last-replace>IMdDialogConfig</last-replace>
       <last-substitute>IMdDialogFluentSyntax</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>in state</entry>
         <entry>faker</entry>
         <entry>ug</entry>
         <entry>ugl</entry>
@@ -1786,6 +1788,7 @@
         <entry>reset</entry>
         <entry encoding="base64">XDxyZXNldFw+</entry>
         <entry>sort</entry>
+        <entry encoding="base64">XDxyZWF1dGhlbnRpY2F0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
