@@ -915,11 +915,12 @@
         <mark key="^" line="23" column="6" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/auth-test-ui/authTest.service.ts" timestamp="1475673565801">
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="14" />
-        <mark key="^" line="16" column="14" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/auth-test-ui/authTest.service.ts" timestamp="1477556725167">
+        <mark key="'" line="26" column="2" />
+        <mark key="[" line="72" column="112" />
+        <mark key="]" line="72" column="89" />
+        <mark key="." line="72" column="89" />
+        <mark key="^" line="72" column="89" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflow-instances/template.html" timestamp="1475143459880">
         <mark key="[" line="22" column="50" />
@@ -1597,7 +1598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="41" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/directive.ts" />
       <jump line="113" column="23" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/node_modules/@types/angular-material/index.d.ts" />
       <jump line="112" column="57" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/node_modules/@types/angular-material/index.d.ts" />
       <jump line="56" column="24" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/node_modules/@types/angular-material/index.d.ts" />
@@ -1697,16 +1697,17 @@
       <jump line="8" column="16" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/app.ts" />
       <jump line="33" column="9" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/webpack.common.js" />
       <jump line="19" column="23" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
+      <jump line="26" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/auth-test-ui/authTest.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
-        <text>login-m</text>
+        <text encoding="base64">XDxhcGlUZXN0UGF0aFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxtZC1idXR0b24gY2xhc3M9Im1kLXJhaXNlZCBtZC13YXJuIiBkYXRhLW5nLWNsaWNrPSJjbGVhcigpIj5Mb2cgb3V0PC9tZC1idXR0b24+Cg==</text>
@@ -1743,9 +1744,9 @@
       </register>
     </registers>
     <search>
-      <last-search>login-m</last-search>
+      <last-search encoding="base64">XDxhcGlUZXN0UGF0aFw+</last-search>
       <last-offset />
-      <last-pattern>login-m</last-pattern>
+      <last-pattern encoding="base64">XDxhcGlUZXN0UGF0aFw+</last-pattern>
       <last-replace>IMdDialogConfig</last-replace>
       <last-substitute>IMdDialogFluentSyntax</last-substitute>
       <last-dir>1</last-dir>
@@ -1753,7 +1754,6 @@
     </search>
     <history>
       <history-search>
-        <entry>opt</entry>
         <entry>material</entry>
         <entry>webpack</entry>
         <entry>webpack-de</entry>
@@ -1773,6 +1773,7 @@
         <entry encoding="base64">XDxnZXREZWZhdWx0RnVuY3Rpb25cPg==</entry>
         <entry>ts</entry>
         <entry>login-m</entry>
+        <entry encoding="base64">XDxhcGlUZXN0UGF0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
