@@ -20,7 +20,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1477907375799">
+      <file name="/a.dummy" timestamp="1477909920796">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="K:/OpenSource/synchronous-promise/.gitignore" timestamp="1474463183052">
@@ -305,11 +305,11 @@
       <file name="/HTML File.txt.ft" timestamp="1474527001776">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/current-workflows/template.html" timestamp="1477644765397">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="42" />
-        <mark key="^" line="3" column="42" />
-        <mark key="." line="3" column="42" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/current-workflows/template.html" timestamp="1477910353422">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="39" />
+        <mark key="^" line="4" column="39" />
+        <mark key="." line="4" column="39" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/routes/home.route.ts" timestamp="1473070342259">
         <mark key="[" line="10" column="11" />
@@ -879,6 +879,12 @@
         <mark key="." line="31" column="15" />
         <mark key="^" line="31" column="15" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-request-overview/template.html" timestamp="1477910339585">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/navigation/navigationRegistration.ts" timestamp="1473167475912">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
@@ -1010,6 +1016,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="4" column="30" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-request-overview/directive.ts" timestamp="1477910373645">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
       </file>
       <file name="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" timestamp="1475572152317">
         <mark key="'" line="13" column="13" />
@@ -1219,6 +1231,12 @@
         <mark key="[" line="71" column="17" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-request-overview/interfaces.ts" timestamp="1477910512916">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="7" column="22" />
       </file>
       <file name="K:/abx/abx-vms-app/src/routes.config.ts" timestamp="1473755420512">
         <mark key="[" line="40" column="132" />
@@ -1780,11 +1798,11 @@
       <jump line="11" column="136" filename="K:/abx/abx-vms-app/js/src/services/nested_uigrid_exporter_service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Tasks</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Tasks</text>
+        <text encoding="base64">SUVudW1lcmFibGU8SUNvbW1lbnQ+IENvbW1lbnRzIHsgZ2V0OyBzZXQ7IH0=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2aWNlXD4=</text>
@@ -1793,31 +1811,31 @@
         <text encoding="base64">ICAgICAgY29uc3QgbGlzdFJlc3VsdCA9IGF3YWl0IGtpY2tvZmZXb3JrZmxvd3MubGlzdCgpOwogICAgICAkc2NvcGUuc3RhcnRUYXNrcyA9IGxpc3RSZXN1bHQuZGF0YTsKICAgICAgJHNjb3BlLiRhcHBseSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB7Y3VycmVudCB3b3JrZmxvd3MgZ28gaGVyZX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcG9wdWxhdGVUYXNrc09uKCRzY29wZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhc3luYyBmdW5jdGlvbiBwb3B1bGF0ZVRhc2tzT24oJHNjb3BlOiBJU3RhcnRXb3JrZmxvd1Njb3BlKSB7CiAgICBjb25zdCByZXN1bHQgPSBhd2FpdCB3b3JrZmxvd3MubGlzdFRhc2tzKCk7CiAgICAkc2NvcGUudGFza3MgPSByZXN1bHQuZGF0YTsKICAgICRzY29wZS4kYXBwbHkoKTsKICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgdmFyIGZvbyA9ICRzY29wZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVybCA9IHRoaXMuX2NvbmYuYXBpLmJ1aWxkVXJsKCd3b3JrZmxvdy9saXN0Rmxvd3MnKTsKICAgIHJldHVybiBhd2FpdAogICAgICB0aGlzLl9odHRwLmdldCh1cmwpOwo=</text>
+        <text encoding="base64">ICAgICAge3sgdGFzay5UYXNrLklkIH19CiAgICAgIDxkaXYgZGF0YS1uZy1yZXBlYXQ9ImFjdGl2aXR5IGluIHRhc2suQWN0aXZpdGllcyI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gewogICAgbGlzdDogYXN5bmMoKSA9PiB7CiAgICAgIGNvbnN0IHVybCA9IGNvbmYuYXBpLmJ1aWxkVXJsKCd3b3JrZmxvdy9saXN0Jyk7CiAgICAgIHJldHVybiBhd2FpdCAkaHR0cC5nZXQodXJsKTsKICAgIH0sCiAgICBzdGFydDogYXN5bmMoZmxvdzogc3RyaW5nLCBhY3Rpdml0eTogc3RyaW5nKSA9PiB7CgogICAgfQogIH0gYXMgSVdvcmtmbG93c1NlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7eyBhY3Rpdml0eS5JZGVudGlmaWVyIH19Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICB7Y3VycmVudCB3b3JrZmxvd3MgZ28gaGVyZX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLmVycm9yID0gJyc7Cg==</text>
+        <text encoding="base64">ICAgICAgcG9wdWxhdGVUYXNrc09uKCRzY29wZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICBhc3luYyBmdW5jdGlvbiBwb3B1bGF0ZVRhc2tzT24oJHNjb3BlOiBJU3RhcnRXb3JrZmxvd1Njb3BlKSB7CiAgICBjb25zdCByZXN1bHQgPSBhd2FpdCB3b3JrZmxvd3MubGlzdFRhc2tzKCk7CiAgICAkc2NvcGUudGFza3MgPSByZXN1bHQuZGF0YTsKICAgICRzY29wZS4kYXBwbHkoKTsKICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
