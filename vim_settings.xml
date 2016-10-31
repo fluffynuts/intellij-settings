@@ -20,7 +20,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1477643685378">
+      <file name="/a.dummy" timestamp="1477907375799">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="K:/OpenSource/synchronous-promise/.gitignore" timestamp="1474463183052">
@@ -416,11 +416,17 @@
         <mark key="." line="31" column="15" />
         <mark key="^" line="31" column="15" />
       </file>
+      <file name="K:/abx/abx-vms-app/src/components/deposit_view/directive.ts" timestamp="1477907231534">
+        <mark key="'" line="3" column="9" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/test-utils/create-md-dialog.ts" timestamp="1475072374625">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="8" column="24" />
+      </file>
+      <file name="K:/abx/abx-vms-app/js/src/services/nested_uigrid_exporter_service.js" timestamp="1477907416122">
+        <mark key="'" line="11" column="136" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/conf.service.ts" timestamp="1473924405104">
         <mark key="[" line="2" column="0" />
@@ -1672,9 +1678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="24" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/node_modules/@types/angular-material/index.d.ts" />
-      <jump line="64" column="19" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/node_modules/@types/angular-material/index.d.ts" />
-      <jump line="68" column="12" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/node_modules/@types/angular-material/index.d.ts" />
       <jump line="120" column="15" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
       <jump line="29" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
       <jump line="13" column="20" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/implementations/workflow-settings.ts" />
@@ -1772,6 +1775,9 @@
       <jump line="26" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/auth-test-ui/authTest.service.ts" />
       <jump line="66" column="54" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
       <jump line="33" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/user-authenticator.service.ts" />
+      <jump line="3" column="9" filename="K:/abx/abx-vms-app/src/components/deposit_view/directive.ts" />
+      <jump line="12" column="42" filename="K:/abx/abx-vms-app/js/src/services/nested_uigrid_exporter_service.js" />
+      <jump line="11" column="136" filename="K:/abx/abx-vms-app/js/src/services/nested_uigrid_exporter_service.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1781,7 +1787,7 @@
         <text>Tasks</text>
       </register>
       <register name="/" type="4">
-        <text>debugg</text>
+        <text encoding="base64">XDxzZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgbGlzdFJlc3VsdCA9IGF3YWl0IGtpY2tvZmZXb3JrZmxvd3MubGlzdCgpOwogICAgICAkc2NvcGUuc3RhcnRUYXNrcyA9IGxpc3RSZXN1bHQuZGF0YTsKICAgICAgJHNjb3BlLiRhcHBseSgpOwo=</text>
@@ -1818,19 +1824,16 @@
       </register>
     </registers>
     <search>
-      <last-search>debugg</last-search>
+      <last-search encoding="base64">XDxzZXJ2aWNlXD4=</last-search>
       <last-offset />
-      <last-pattern>debugg</last-pattern>
+      <last-pattern encoding="base64">XDxzZXJ2aWNlXD4=</last-pattern>
       <last-replace>IMdDialogConfig</last-replace>
       <last-substitute>IMdDialogFluentSyntax</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tslin</entry>
-        <entry>debug:</entry>
-        <entry>preloa</entry>
         <entry encoding="base64">XDxNRVRBREFUQVw+</entry>
         <entry>meta</entry>
         <entry>html</entry>
@@ -1848,6 +1851,9 @@
         <entry>rea</entry>
         <entry>debugger</entry>
         <entry>debugg</entry>
+        <entry encoding="base64">XDxwZGZTZXR0aW5nc1w+</entry>
+        <entry encoding="base64">XDxkb2NEZWZpbml0aW9uXD4=</entry>
+        <entry encoding="base64">XDxzZXJ2aWNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
