@@ -317,11 +317,11 @@
       <file name="/HTML File.txt.ft" timestamp="1474527001776">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/current-workflows/template.html" timestamp="1477920569229">
-        <mark key="[" line="6" column="82" />
-        <mark key="]" line="6" column="48" />
-        <mark key="^" line="6" column="48" />
-        <mark key="." line="6" column="48" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/current-workflows/template.html" timestamp="1478005332804">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="38" />
+        <mark key="." line="6" column="38" />
+        <mark key="^" line="6" column="38" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/routes/home.route.ts" timestamp="1473070342259">
         <mark key="[" line="10" column="11" />
@@ -1847,7 +1847,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlOiAnPGRpdj5zdGF0ZTE8L2Rpdj4nLAo=</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PGRpdj5tb28hPC9kaXY+Jw==</text>
@@ -1859,31 +1859,31 @@
         <text encoding="base64">ICAgIHRlbXBsYXRlOiAnPGRpdj5zdGF0ZTIgKHt7IGlkIH19KTwvZGl2PicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlOiAnPGRpdj5zdGF0ZTE8L2Rpdj4nLAo=</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBldmFsKCd3aW5kb3cuJHN0YXRlID0gJHN0YXRlJyk7Cg==</text>
+        <text encoding="base64">ICAgIHRlbXBsYXRlOiAnPGRpdj5zdGF0ZTE8L2Rpdj4nLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHVybDogJy9zdWJzdGF0ZXMuc3RhdGUxJywKICAgIHZpZXdzOiB7CiAgICAgICdtYWluQ29udGVudEAnOiB7CiAgICAgICAgdGVtcGxhdGU6ICc8c3RhdGUxPjwvc3RhdGUxPicKICAgICAgfQogICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlOiAnPHN0YXRlMT48L3N0YXRlMT4nCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICA8bWQtYnV0dG9uIGRhdGEtbmctY2xpY2s9ImdvdG8oJ3N0YXRlMSciCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBldmFsKCd3aW5kb3cuJHN0YXRlID0gJHN0YXRlJyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHVybDogJy9zdWJzdGF0ZXMuc3RhdGUxJywKICAgIHZpZXdzOiB7CiAgICAgICdtYWluQ29udGVudEAnOiB7CiAgICAgICAgdGVtcGxhdGU6ICc8c3RhdGUxPjwvc3RhdGUxPicKICAgICAgfQogICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRlbXBsYXRlOiAnPHN0YXRlMT48L3N0YXRlMT4nCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZpZXdzOiB7CiAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICA8bWQtYnV0dG9uIGRhdGEtbmctY2xpY2s9ImdvdG8oJ3N0YXRlMSciCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzovJzovZw==</text>
