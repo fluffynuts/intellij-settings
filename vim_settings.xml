@@ -892,11 +892,10 @@
         <mark key="." line="31" column="15" />
         <mark key="^" line="31" column="15" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-request-overview/template.html" timestamp="1477926216188">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="10" column="11" />
-        <mark key="." line="10" column="11" />
-        <mark key="^" line="10" column="11" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-request-overview/template.html" timestamp="1477986222739">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/navigation/navigationRegistration.ts" timestamp="1473167475912">
         <mark key="[" line="0" column="0" />
@@ -1030,11 +1029,10 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-request-overview/directive.ts" timestamp="1477926338004">
-        <mark key="[" line="15" column="47" />
-        <mark key="]" line="16" column="59" />
-        <mark key="." line="16" column="59" />
-        <mark key="^" line="16" column="59" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-request-overview/directive.ts" timestamp="1477986131196">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="K:/PeanutButter/gulp-tasks/spec/nunit-downloader.spec.js" timestamp="1475572152317">
         <mark key="'" line="13" column="13" />
@@ -1816,11 +1814,11 @@
       <jump line="12" column="25" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-request-overview/template.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IG5nLWNsaWNrPSIkbWRPcGVuTWVudSgkZXZlbnQpIj4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8bWQtaWNvbiBtZC1tZW51LWFsaWduLXRhcmdldCBtZC1zdmctaWNvbj0iY2FsbDpuby1zaW0iPjwvbWQtaWNvbj4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5nLWNsaWNrPSIkbWRPcGVuTWVudSgkZXZlbnQpIj4=</text>
+        <text>ctrl.announceClick($index)</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
@@ -1829,31 +1827,31 @@
         <text encoding="base64">ICBwcmltYXJ5QWN0aXZpdGllczogSUxhYmVsbGVkQWN0aXZpdHlXaXRoU2lnbmlmaWNhbmNlW107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG1kLWljb24gbWQtbWVudS1vcmlnaW4gbWQtc3ZnLWljb249ImNhbGw6YnVzaW5lc3MiPjwvbWQtaWNvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8bWQtaWNvbiBtZC1tZW51LWFsaWduLXRhcmdldCBtZC1zdmctaWNvbj0iY2FsbDpuby1zaW0iPjwvbWQtaWNvbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bWQtbWVudT4KICAgICAgICAgIDxtZC1idXR0b24gYXJpYS1sYWJlbD0iU2Vjb25kYXJ5IGFjdGlvbnMiCiAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJtZC1pY29uLWJ1dHRvbiI+JiN4MjJlZTsKICAgICAgICAgIDwvbWQtYnV0dG9uPgogICAgICAgICAgPG1kLW1lbnUtY29udGVudD4KICAgICAgICAgICAgPGRpdiBkYXRhLW5nLXJlcGVhdD0iYWN0aXZpdHkgaW4gc2Vjb25kYXJ5QWN0aXZpdGllcyI+CiAgICAgICAgICAgICAgPG1kLW1lbnUtaXRlbSBuZy1jbGljaz0iaW52b2tlKGFjdGl2aXR5KSI+CiAgICAgICAgICAgICAgICB7eyBhY3Rpdml0eS5MYWJlbCB9fQogICAgICAgICAgICAgIDwvbWQtbWVudS1pdGVtPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPCEtLTxtZC1tZW51LWl0ZW0gZGF0YS1uZy1yZXBlYXQ9ImFjdGl2aXR5IGluIHNlY29uZGFyeUFjdGl2aXRpZXMiPi0tPgogICAgICAgICAgICA8IS0tPG1kLWJ1dHRvbiBkYXRhLW5nLWNsaWNrPSJpbnZva2UoYWN0aXZpdHkpIj4tLT4KICAgICAgICAgICAgPCEtLXt7IGFjdGl2aXR5LkxhYmVsIH19LS0+CiAgICAgICAgICAgIDwhLS08L21kLWJ1dHRvbj4tLT4KICAgICAgICAgICAgPCEtLTwvbWQtbWVudS1pdGVtPi0tPgogICAgICAgICAgPC9tZC1tZW51LWNvbnRlbnQ+CiAgICAgICAgPC9tZC1tZW51Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbiB7e2l0ZW19fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICBvcGVuTWVudTogKCRtZE9wZW5NZW51LCBldikgPT4gYW55Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0eWxlOiByZXF1aXJlKCcuL3N0eWxlLmNzcycpLAo=</text>
+        <text encoding="base64">ICAgICAgJHNjb3BlLm9wZW5NZW51ID0gKCRtZE9wZW5NZW51LCBldikgPT4gewogICAgICAgICRtZE9wZW5NZW51KGV2KTsKICAgICAgfTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiByZWQ7Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gYmluZHAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3aWR0aDogNXB4OwogIHRyYW5zZm9ybTogcm90YXRlKDkwZGVnKTsKICB0cmFuc2Zvci1vcmlnaW46IGxlZnQgdG9wIDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG1kLWljb24gbWQtbWVudS1vcmlnaW4gbWQtc3ZnLWljb249ImNhbGw6YnVzaW5lc3MiPjwvbWQtaWNvbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bWQtbWVudT4KICAgICAgICAgIDxtZC1idXR0b24gYXJpYS1sYWJlbD0iU2Vjb25kYXJ5IGFjdGlvbnMiCiAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJtZC1pY29uLWJ1dHRvbiI+JiN4MjJlZTsKICAgICAgICAgIDwvbWQtYnV0dG9uPgogICAgICAgICAgPG1kLW1lbnUtY29udGVudD4KICAgICAgICAgICAgPGRpdiBkYXRhLW5nLXJlcGVhdD0iYWN0aXZpdHkgaW4gc2Vjb25kYXJ5QWN0aXZpdGllcyI+CiAgICAgICAgICAgICAgPG1kLW1lbnUtaXRlbSBuZy1jbGljaz0iaW52b2tlKGFjdGl2aXR5KSI+CiAgICAgICAgICAgICAgICB7eyBhY3Rpdml0eS5MYWJlbCB9fQogICAgICAgICAgICAgIDwvbWQtbWVudS1pdGVtPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPCEtLTxtZC1tZW51LWl0ZW0gZGF0YS1uZy1yZXBlYXQ9ImFjdGl2aXR5IGluIHNlY29uZGFyeUFjdGl2aXRpZXMiPi0tPgogICAgICAgICAgICA8IS0tPG1kLWJ1dHRvbiBkYXRhLW5nLWNsaWNrPSJpbnZva2UoYWN0aXZpdHkpIj4tLT4KICAgICAgICAgICAgPCEtLXt7IGFjdGl2aXR5LkxhYmVsIH19LS0+CiAgICAgICAgICAgIDwhLS08L21kLWJ1dHRvbj4tLT4KICAgICAgICAgICAgPCEtLTwvbWQtbWVudS1pdGVtPi0tPgogICAgICAgICAgPC9tZC1tZW51LWNvbnRlbnQ+CiAgICAgICAgPC9tZC1tZW51Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGZpcnN0ID0gJHNjb3BlLmFjdGl2aXRpZXNbMF0gYXMgYW55OwogICAgICBpZiAoZmlyc3QpIHsKICAgICAgICBmaXJzdC5pc1ByaW1hcnkgPSB0cnVlOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIElMYWJlbGxlZEFjdGl2aXR5IGV4dGVuZHMgSUFjdGl2aXR5IHsKICBMYWJlbDogc3RyaW5nOwogIGlzUHJpbWFyeTogYm9vbGVhbjsKfQo=</text>
+        <text encoding="base64">ICAgIHN0eWxlOiByZXF1aXJlKCcuL3N0eWxlLmNzcycpLAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzovJzovZw==</text>
