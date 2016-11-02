@@ -131,11 +131,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/style.css" timestamp="1478077090438">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="32" />
-        <mark key="^" line="0" column="32" />
-        <mark key="." line="0" column="32" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/style.css" timestamp="1478093913653">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/production/api.ts" timestamp="1473843953893">
         <mark key="[" line="1" column="21" />
@@ -185,11 +185,11 @@
         <mark key="." line="26" column="38" />
         <mark key="^" line="26" column="38" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/template.html" timestamp="1478078316356">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="30" />
-        <mark key="." line="9" column="30" />
-        <mark key="^" line="9" column="30" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/template.html" timestamp="1478093908357">
+        <mark key="[" line="20" column="51" />
+        <mark key="]" line="20" column="74" />
+        <mark key="." line="20" column="74" />
+        <mark key="^" line="20" column="74" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/tslint.json" timestamp="1472715069812">
         <mark key="[" line="31" column="17" />
@@ -373,11 +373,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/directive.ts" timestamp="1478078280907">
-        <mark key="[" line="34" column="63" />
-        <mark key="]" line="34" column="62" />
-        <mark key="." line="34" column="62" />
-        <mark key="^" line="34" column="62" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/directive.ts" timestamp="1478093775414">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/auth-test-ui/template.html" timestamp="1473760273140">
         <mark key="[" line="14" column="24" />
@@ -480,6 +479,12 @@
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/utils/index.ts" timestamp="1475048349508">
         <mark key="[" line="0" column="19" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" timestamp="1478091658222">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="18" column="30" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/travel-arrangements-template.html" timestamp="1474535247648">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="20" />
@@ -535,6 +540,9 @@
         <mark key="]" line="3" column="8" />
         <mark key="." line="3" column="8" />
         <mark key="^" line="3" column="8" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/typings/globals/angular/index.d.ts" timestamp="1478091447862">
+        <mark key="'" line="1291" column="14" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/webpackRequire.ts" timestamp="1472735085424">
         <mark key="[" line="0" column="0" />
@@ -815,11 +823,11 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/start-workflows/interfaces.ts" timestamp="1478010143813">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="5" column="14" />
-        <mark key="." line="5" column="14" />
-        <mark key="^" line="5" column="14" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/start-workflows/interfaces.ts" timestamp="1478091701579">
+        <mark key="[" line="55" column="53" />
+        <mark key="]" line="55" column="55" />
+        <mark key="." line="55" column="55" />
+        <mark key="^" line="55" column="55" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/login/interfaces.ts" timestamp="1473945446239">
         <mark key="[" line="1" column="72" />
@@ -909,6 +917,12 @@
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
         <mark key="^" line="14" column="2" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/webpack.common.js" timestamp="1478092436816">
+        <mark key="[" line="65" column="14" />
+        <mark key="]" line="66" column="40" />
+        <mark key="^" line="66" column="40" />
+        <mark key="." line="66" column="40" />
       </file>
       <file name="K:/DeliberatePractice/mars_rover/spec/support/jasmine.json" timestamp="1474033384253">
         <mark key="[" line="1" column="16" />
@@ -1252,10 +1266,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/style.scss" timestamp="1478074116352">
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/style.scss" timestamp="1478092880028">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/navigationRegistrar.ts" timestamp="1473761346013">
@@ -1658,10 +1671,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="19" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
-      <jump line="156" column="25" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
-      <jump line="146" column="26" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
-      <jump line="4" column="10" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflow-metrics/directive.ts" />
       <jump line="3" column="24" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflow-metrics/directive.ts" />
       <jump line="150" column="4" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflow-metrics/directive.ts" />
       <jump line="163" column="6" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflow-metrics/directive.ts" />
@@ -1758,55 +1767,59 @@
       <jump line="78" column="24" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/interfaces.ts" />
       <jump line="68" column="25" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/interfaces.ts" />
       <jump line="23" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/start-workflows/interfaces.ts" />
+      <jump line="1291" column="14" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/typings/globals/angular/index.d.ts" />
+      <jump line="4" column="44" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/template.html" />
+      <jump line="3" column="27" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/template.html" />
+      <jump line="7" column="27" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/template.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gdmFyIHBhcmFtZXRlcnMgPSBhd2FpdCB3b3JrZmxvd3MucGFyYW1ldGVycygnCg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>nput data-ng-flatpickr</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>field.va</text>
+        <text>typeof</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">SVRyYXZlbFJlcXVlc3RJZGVudGlmaWVycyA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gdmFyIHBhcmFtZXRlcnMgPSBhd2FpdCB3b3JrZmxvd3MucGFyYW1ldGVycygnCg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8ZGl2IGxheW91dD0icm93IiBsYXlvdXQtc209ImNvbHVtbiI+CiAgICA8bWQtaW5wdXQtY29udGFpbmVyIGNsYXNzPSJtZC1ibG9jayI+CiAgICAgIAogICAgPC9tZC1pbnB1dC1jb250YWluZXI+CiAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIHN0eWxlOiByZXF1aXJlKCchc3R5bGUhY3NzIXNhc3MhLi9zdHlsZS5zY3NzJyksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8YXV0by1mb3JtIGRhdGEtZmllbGRzPSJmaWVsZHMiPjwvYXV0by1mb3JtPgo=</text>
+        <text encoding="base64">ICAgIDwvc3Bhbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdhbmd1bGFyLWZsYXRwaWNrcicK</text>
+        <text encoding="base64">ICAgIDxzcGFuIGRhdGEtbmctcmVwZWF0PSJmaWVsZCBpbiBwYWlyIj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICdhbmd1bGFyLWZsYXRwaWNrcic7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdjYW1lbENhc2VUb0h1bWFuJwo=</text>
+        <text encoding="base64">bWQtaW5wdXQtY29udGFpbmVyLCBtZC1kYXRlcGlja2VyIHsKICBtaW4td2lkdGg6IDMwMHB4Owp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gZGF0YS1uZy1zd2l0Y2gtd2hlbj0iZGF0ZXRpbWUiPgogICAgICAgICAgICA8L3NwYW4+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxtZC1kYXRlcGlja2VyIGRhdGEtbmctbW9kZWw9ImZpZWxkLlZhbHVlIi8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">bWFwIDxTLUVudGVyPiBpPEVudGVyPjxFc2M+</text>
       </register>
     </registers>
     <search>
-      <last-search>field.va</last-search>
+      <last-search>typeof</last-search>
       <last-offset />
-      <last-pattern>field.va</last-pattern>
+      <last-pattern>typeof</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1814,8 +1827,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNldFw+</entry>
-        <entry>sort</entry>
         <entry encoding="base64">XDxyZWF1dGhlbnRpY2F0ZVw+</entry>
         <entry encoding="base64">XDxnZXREZWZhdWx0RnVuY3Rpb25cPg==</entry>
         <entry>ts</entry>
@@ -1834,6 +1845,8 @@
         <entry>&quot;</entry>
         <entry>:</entry>
         <entry>field.va</entry>
+        <entry>get(</entry>
+        <entry>typeof</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
