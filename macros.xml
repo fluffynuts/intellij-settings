@@ -1,0 +1,7 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="insert newline">
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>

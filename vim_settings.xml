@@ -179,11 +179,11 @@
         <mark key="." line="26" column="38" />
         <mark key="^" line="26" column="38" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/template.html" timestamp="1478070893457">
-        <mark key="[" line="9" column="52" />
-        <mark key="]" line="9" column="53" />
-        <mark key="." line="9" column="53" />
-        <mark key="^" line="12" column="48" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/template.html" timestamp="1478071963793">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="44" />
+        <mark key="." line="3" column="44" />
+        <mark key="^" line="3" column="44" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/tslint.json" timestamp="1472715069812">
         <mark key="[" line="31" column="17" />
@@ -311,6 +311,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="32" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/capture-travel-request-details/directive.ts" timestamp="1478071987849">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/services/workflow-reassignment-dialog.service.ts" timestamp="1474549270277">
         <mark key="[" line="4" column="24" />
         <mark key="]" line="6" column="10" />
@@ -361,11 +366,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/directive.ts" timestamp="1478070970840">
-        <mark key="[" line="8" column="55" />
-        <mark key="]" line="9" column="7" />
-        <mark key="^" line="9" column="7" />
-        <mark key="." line="9" column="7" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/directive.ts" timestamp="1478072454500">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/auth-test-ui/template.html" timestamp="1473760273140">
         <mark key="[" line="14" column="24" />
@@ -1738,11 +1742,11 @@
       <jump line="23" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/start-workflows/interfaces.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>item</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>item</text>
+        <text>newValue</text>
       </register>
       <register name="/" type="4">
         <text>field.va</text>
@@ -1751,34 +1755,34 @@
         <text encoding="base64">SVRyYXZlbFJlcXVlc3RJZGVudGlmaWVycyA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBDUkVBVEU6ICJDcmVhdGUgVHJhdmVsIFJlcXVlc3QiOwogIENBUFRVUkVfREVUQUlMUzogIkNhcHR1cmUgVHJhdmVsIFJlcXVlc3QgRGV0YWlscyI7CiAgUkVBU1NJR046ICJSZWFzc2lnbiBUcmF2ZWwgUmVxdWVzdCI7CiAgQUREX1FVT1RFOiAiQWRkIFRyYXZlbCBRdW90ZSI7CiAgU0VORF9GT1JfQVBQUk9WQUw6ICJTZW5kIEZvciBBcHByb3ZhbCI7CiAgQ0FOQ0VMX1JFUVVFU1Q6ICJDYW5jZWwgVHJhdmVsIFJlcXVlc3QiOwogIEFERF9DT01NRU5UOiAiQWRkIENvbW1lbnQiOwogIEFDQ0VQVF9RVU9URTogIkFjY2VwdCBUcmF2ZWwgUXVvdGUiOwogIEFQUFJPVkVfUkVRVUVTVDogIkFwcHJvdmUgVHJhdmVsIFJlcXVlc3QiOwogIENPTkZJUk1fQ09NUExFVEU6ICJDb25maXJtIFRyYXZlbCBSZXF1ZXN0IENvbXBsZXRlZCI7CiAgUkVKRUNUX0FDQ0VQVEVEX1FVT1RFOiAiUmVqZWN0IEFjY2VwdGVkIFF1b3RlIjsKICBSRUpFQ1RfRklOQUxMWTogIlJlamVjdCBUcmF2ZWwgUmVxdWVzdCI7CiAgVFJBVkVMX1JFUVVFU1RfRkxPV19OQU1FOiAiVHJhdmVsIFJlcXVlc3QiOwo=</text>
-      </register>
-      <register name="2" type="8">
-        <text encoding="base64">cHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyA=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gewogICAgZmxvdzogJ1RyYXZlbCBSZXF1ZXN0CiAgfW8K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHBhcmFtZXRlcnMgPSBhd2FpdCAkaHR0cC4gICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJGxvZy5kZWJ1ZygnRW50ZXJpbmcgY2FwdHVyZSB0cmF2ZWwgcmVxdWVzdCBkZXRhaWxzJyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxsYWJlbD5Jbml0aWF0ZWQ8L2xhYmVsPjxtZC1kYXRlcGlja2VyIGRhdGEtbmctbW9kZWw9InJlcXVlc3QuSW5pdGlhdGVkIgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlQXV0b0Zvcm1Gcm9tKAo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBDUkVBVEU6ICJDcmVhdGUgVHJhdmVsIFJlcXVlc3QiOwogIENBUFRVUkVfREVUQUlMUzogIkNhcHR1cmUgVHJhdmVsIFJlcXVlc3QgRGV0YWlscyI7CiAgUkVBU1NJR046ICJSZWFzc2lnbiBUcmF2ZWwgUmVxdWVzdCI7CiAgQUREX1FVT1RFOiAiQWRkIFRyYXZlbCBRdW90ZSI7CiAgU0VORF9GT1JfQVBQUk9WQUw6ICJTZW5kIEZvciBBcHByb3ZhbCI7CiAgQ0FOQ0VMX1JFUVVFU1Q6ICJDYW5jZWwgVHJhdmVsIFJlcXVlc3QiOwogIEFERF9DT01NRU5UOiAiQWRkIENvbW1lbnQiOwogIEFDQ0VQVF9RVU9URTogIkFjY2VwdCBUcmF2ZWwgUXVvdGUiOwogIEFQUFJPVkVfUkVRVUVTVDogIkFwcHJvdmUgVHJhdmVsIFJlcXVlc3QiOwogIENPTkZJUk1fQ09NUExFVEU6ICJDb25maXJtIFRyYXZlbCBSZXF1ZXN0IENvbXBsZXRlZCI7CiAgUkVKRUNUX0FDQ0VQVEVEX1FVT1RFOiAiUmVqZWN0IEFjY2VwdGVkIFF1b3RlIjsKICBSRUpFQ1RfRklOQUxMWTogIlJlamVjdCBUcmF2ZWwgUmVxdWVzdCI7CiAgVFJBVkVMX1JFUVVFU1RfRkxPV19OQU1FOiAiVHJhdmVsIFJlcXVlc3QiOwo=</text>
+      </register>
+      <register name="8" type="8">
+        <text encoding="base64">cHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyAKcHVibGljIGNvbnN0IHN0cmluZyA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHNwYW4+PGxhYmVsPjwvbGFiZWw+PC9zcGFuPgo=</text>
+        <text encoding="base64">ICByZXR1cm4gewogICAgZmxvdzogJ1RyYXZlbCBSZXF1ZXN0CiAgfW8K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyIvJy9n</text>
+        <text encoding="base64">bWFwIDxTLUVudGVyPiBpPEVudGVyPjxFc2M+</text>
       </register>
     </registers>
     <search>
@@ -1823,6 +1827,11 @@
         <entry encoding="base64">JzwsJz5zLyA9LzovZw==</entry>
         <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry encoding="base64">bWFwIDxTLUVudGVyPiA8RW50ZXI+</entry>
+        <entry encoding="base64">bWFwIDxTLUVudGVyPiA8Q1I+</entry>
+        <entry encoding="base64">bWFwIDxTLUVudGVyPiA8Q3I+</entry>
+        <entry encoding="base64">bWFwIDxTLUVudGVyPiA8RW50ZXI+PEVudGVyPg==</entry>
+        <entry encoding="base64">bWFwIDxTLUVudGVyPiBpPEVudGVyPjxFc2M+</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1866,6 +1875,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift pressed ENTER</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

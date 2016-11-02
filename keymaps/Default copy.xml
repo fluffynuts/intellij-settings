@@ -24,6 +24,9 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="Console.TableResult.EditValueMaximized">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
@@ -55,6 +58,9 @@
   </action>
   <action id="Images.ShowThumbnails" />
   <action id="JumpToLastWindow" />
+  <action id="Macro.insert newline">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="Maven.CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
