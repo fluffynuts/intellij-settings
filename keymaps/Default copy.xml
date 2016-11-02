@@ -29,6 +29,7 @@
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="EditorStartNewLine" />
   <action id="ExternalSystem.CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
