@@ -38,11 +38,11 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/travel-request-overview-card/template.html" timestamp="1478163103772">
-        <mark key="[" line="19" column="29" />
-        <mark key="]" line="19" column="5" />
-        <mark key="^" line="19" column="5" />
-        <mark key="." line="19" column="5" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/travel-request-overview-card/template.html" timestamp="1478185195304">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="41" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/kickoff-workflows/interfaces.ts" timestamp="1477637877099">
         <mark key="[" line="10" column="54" />
@@ -260,8 +260,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="65" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/interfaces.ts" timestamp="1478010200899">
-        <mark key="'" line="68" column="25" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/interfaces.ts" timestamp="1478185105991">
+        <mark key="'" line="22" column="12" />
         <mark key="[" line="66" column="10" />
         <mark key="]" line="66" column="35" />
         <mark key="^" line="69" column="18" />
@@ -508,6 +508,13 @@
         <mark key="]" line="72" column="8" />
         <mark key="." line="72" column="8" />
         <mark key="^" line="72" column="8" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/travel-request-details/directive.ts" timestamp="1478185256262">
+        <mark key="'" line="17" column="8" />
+        <mark key="[" line="22" column="76" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/travel-arrangements-template.html" timestamp="1474535247648">
         <mark key="[" line="0" column="0" />
@@ -1054,8 +1061,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/payload-maker.service.ts" timestamp="1478163716106">
-        <mark key="[" line="7" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/payload-maker.service.ts" timestamp="1478185240484">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="6" column="39" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="5" column="85" />
@@ -1174,9 +1182,9 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/travel-request-overview-card/directive.ts" timestamp="1478163092807">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/travel-request-overview-card/directive.ts" timestamp="1478184962655">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="96" />
         <mark key="." line="38" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/login/login-modal.html" timestamp="1473945081633">
@@ -1409,6 +1417,12 @@
         <mark key="." line="0" column="55" />
         <mark key="^" line="5" column="32" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/travel-request-details/template.html" timestamp="1478185159975">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/home/route.config.ts" timestamp="1473778848114">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="33" column="0" />
@@ -1559,7 +1573,8 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="1" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/navigation/directive.ts" timestamp="1473947848829">
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/navigation/directive.ts" timestamp="1478185231094">
+        <mark key="'" line="2" column="14" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -1721,10 +1736,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="11" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflow-metrics/directive.ts" />
-      <jump line="112" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflow-metrics/directive.ts" />
-      <jump line="153" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/directive.ts" />
-      <jump line="22" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-list/directive.ts" />
       <jump line="22" column="30" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
       <jump line="72" column="30" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
       <jump line="76" column="20" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/index.ts" />
@@ -1821,55 +1832,59 @@
       <jump line="54" column="8" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" />
       <jump line="59" column="8" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" />
       <jump line="15" column="49" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/capture-travel-request-details/directive.ts" />
+      <jump line="22" column="12" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/interfaces.ts" />
+      <jump line="2" column="14" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/navigation/directive.ts" />
+      <jump line="20" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/payload-maker.service.ts" />
+      <jump line="17" column="8" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/travel-request-details/directive.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYWNjW2N1ci5OYW1lXSA9IGN1ci5WYWx1ZTsK</text>
+        <text encoding="base64">ICAgICAgU3RhdHVzOiB7eyByZXF1ZXN0U3RhdHVzIH19CiAgICAgIDwhLS0gVE9ETzogYWRkIHNvbWUgZGV0YWlscyBhYm91dCB0aGUgcmVxdWVzdCAtLT4K</text>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text>details</text>
       </register>
       <register name="/" type="4">
-        <text>param</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nLmRlYnVnKGBBdHRlbXB0IHRvIGdvIHRvOiAiJHthY3Rpdml0eS5SZXNwb25zZS5SZWRpcmVjdFVybH0iYCk7CiAgICAgICAgJHdpbmRvdy5sb2NhdGlvbi5hc3NpZ24oYWN0aXZpdHkuUmVzcG9uc2UuUmVkaXJlY3RVcmwpOwo=</text>
+        <text encoding="base64">ICAgICAgJHNjb3BlLnJlcXVlc3RTdGF0dXMgPSB0cmF2ZWxSZXF1ZXN0U3RhdHVzQ29udmVydGVyLm5hbWVGb3IoJHNjb3BlLnJlcXVlc3QuUmVxdWVzdFN0YXR1cyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYWNjW2N1ci5OYW1lXSA9IGN1ci5WYWx1ZTsK</text>
+        <text encoding="base64">ICAgICAgU3RhdHVzOiB7eyByZXF1ZXN0U3RhdHVzIH19CiAgICAgIDwhLS0gVE9ETzogYWRkIHNvbWUgZGV0YWlscyBhYm91dCB0aGUgcmVxdWVzdCAtLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgJHNjb3BlLiR3YXRjaCgnZGV0YWlscwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgYWNjW2N1ci5OYW1lXSA9IGN1ci5WYWx1ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGFza0lkOiAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IHsKICAgICAgdGFza0lkOiAKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLnRhc2tJZCA9IHRhc2tJZDsK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">bWFwIDxTLUVudGVyPiBpPEVudGVyPjxFc2M+</text>
+        <text encoding="base64">JzwsJz5zLyIvJy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>param</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>param</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1877,7 +1892,6 @@
     </search>
     <history>
       <history-search>
-        <entry>debugger</entry>
         <entry>debugg</entry>
         <entry encoding="base64">XDxwZGZTZXR0aW5nc1w+</entry>
         <entry encoding="base64">XDxkb2NEZWZpbml0aW9uXD4=</entry>
@@ -1886,7 +1900,6 @@
         <entry encoding="base64">XDxUZW1wbGF0ZVBhcmFtZXRlcnNcPg==</entry>
         <entry encoding="base64">ID0=</entry>
         <entry>;</entry>
-        <entry>&quot;</entry>
         <entry>:</entry>
         <entry>field.va</entry>
         <entry>get(</entry>
@@ -1897,6 +1910,8 @@
         <entry>min-</entry>
         <entry>var</entry>
         <entry>param</entry>
+        <entry>RequestStat</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
@@ -1907,12 +1922,12 @@
         <entry encoding="base64">JzwsJz5zLzovJzovZw==</entry>
         <entry encoding="base64">JzwsJz5zLyA9LzovZw==</entry>
         <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
-        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">bWFwIDxTLUVudGVyPiA8RW50ZXI+</entry>
         <entry encoding="base64">bWFwIDxTLUVudGVyPiA8Q1I+</entry>
         <entry encoding="base64">bWFwIDxTLUVudGVyPiA8Q3I+</entry>
         <entry encoding="base64">bWFwIDxTLUVudGVyPiA8RW50ZXI+PEVudGVyPg==</entry>
         <entry encoding="base64">bWFwIDxTLUVudGVyPiBpPEVudGVyPjxFc2M+</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
