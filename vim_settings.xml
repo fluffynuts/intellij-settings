@@ -20,7 +20,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1478255709696">
+      <file name="/a.dummy" timestamp="1478261953476">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="K:/OpenSource/synchronous-promise/.gitignore" timestamp="1474463183052">
@@ -502,12 +502,12 @@
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/utils/index.ts" timestamp="1475048349508">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" timestamp="1478159858771">
-        <mark key="'" line="59" column="8" />
-        <mark key="[" line="72" column="4" />
-        <mark key="]" line="72" column="8" />
-        <mark key="." line="72" column="8" />
-        <mark key="^" line="72" column="8" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" timestamp="1478261913797">
+        <mark key="'" line="58" column="8" />
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/travel-request-details/directive.ts" timestamp="1478185256262">
         <mark key="'" line="17" column="8" />
@@ -1075,6 +1075,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="5" column="85" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/travel-request-status-converter.service.ts" timestamp="1478261833420">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="32" />
       </file>
       <file name="K:/DeliberatePractice/angular2_todo/src/app/app.component.ts" timestamp="1475499445082">
         <mark key="[" line="12" column="0" />
@@ -1863,7 +1869,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IElSZXF1ZXN0Q29uZmlnID0gYW5ndWxhci5JUmVxdWVzdENvbmZpZzsKaW1wb3J0IElTY29wZSA9IGFuZ3VsYXIuSVNjb3BlOwppbXBvcnQgSVJvb3RTY29wZVNlcnZpY2UgPSBhbmd1bGFyLklSb290U2NvcGVTZXJ2aWNlOwoK</text>
+        <text encoding="base64">aW1wb3J0IElIdHRwUHJvdmlkZXIgPSBhbmd1bGFyLklIdHRwUHJvdmlkZXI7CmltcG9ydCBJSHR0cFNlcnZpY2UgPSBhbmd1bGFyLklIdHRwU2VydmljZTsKaW1wb3J0IElNb2R1bGUgPSBhbmd1bGFyLklNb2R1bGU7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Query</text>
@@ -1875,31 +1881,31 @@
         <text encoding="base64">ICAgICAgJHNjb3BlLnJlcXVlc3RTdGF0dXMgPSB0cmF2ZWxSZXF1ZXN0U3RhdHVzQ29udmVydGVyLm5hbWVGb3IoJHNjb3BlLnJlcXVlc3QuUmVxdWVzdFN0YXR1cyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IElSZXF1ZXN0Q29uZmlnID0gYW5ndWxhci5JUmVxdWVzdENvbmZpZzsKaW1wb3J0IElTY29wZSA9IGFuZ3VsYXIuSVNjb3BlOwppbXBvcnQgSVJvb3RTY29wZVNlcnZpY2UgPSBhbmd1bGFyLklSb290U2NvcGVTZXJ2aWNlOwoK</text>
+        <text encoding="base64">aW1wb3J0IElIdHRwUHJvdmlkZXIgPSBhbmd1bGFyLklIdHRwUHJvdmlkZXI7CmltcG9ydCBJSHR0cFNlcnZpY2UgPSBhbmd1bGFyLklIdHRwU2VydmljZTsKaW1wb3J0IElNb2R1bGUgPSBhbmd1bGFyLklNb2R1bGU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYW5ndWxhciB9IGZyb20gJ2FuZwo=</text>
+        <text encoding="base64">aW1wb3J0IElSZXF1ZXN0Q29uZmlnID0gYW5ndWxhci5JUmVxdWVzdENvbmZpZzsKaW1wb3J0IElTY29wZSA9IGFuZ3VsYXIuSVNjb3BlOwppbXBvcnQgSVJvb3RTY29wZVNlcnZpY2UgPSBhbmd1bGFyLklSb290U2NvcGVTZXJ2aWNlOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IElTZXJ2aWNlUHJvdmlkZXIgPSBhbmd1bGFyLklTZXJ2aWNlUHJvdmlkZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgYW5ndWxhciB9IGZyb20gJ2FuZwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IElTZXJ2aWNlUHJvdmlkZXIgPSBhbmd1bGFyLklTZXJ2aWNlUHJvdmlkZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IElNb2R1bGUgPSBhbmd1bGFyLklNb2R1bGU7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IElTZXJ2aWNlUHJvdmlkZXIgPSBhbmd1bGFyLklTZXJ2aWNlUHJvdmlkZXI7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IElNb2R1bGUgPSBhbmd1bGFyLklNb2R1bGU7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iLi4vdHlwaW5ncy9pbmRleC5kLnRzIiAvPgo=</text>
+        <text encoding="base64">aW1wb3J0IElTZXJ2aWNlUHJvdmlkZXIgPSBhbmd1bGFyLklTZXJ2aWNlUHJvdmlkZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ2FuCg==</text>
+        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iLi4vdHlwaW5ncy9pbmRleC5kLnRzIiAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
