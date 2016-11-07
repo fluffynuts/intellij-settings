@@ -20,7 +20,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1478525994621">
+      <file name="/a.dummy" timestamp="1478529253693">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="K:/OpenSource/synchronous-promise/.gitignore" timestamp="1474463183052">
@@ -126,12 +126,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/signalr-loader.service.ts" timestamp="1478525974266">
-        <mark key="'" line="0" column="27" />
-        <mark key="[" line="65" column="39" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="44" column="41" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/signalr-loader.service.ts" timestamp="1478531130238">
+        <mark key="'" line="42" column="6" />
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="32" />
       </file>
       <file name="K:/DeliberatePractice/ts-tenpin/package.json" timestamp="1472821069650">
         <mark key="[" line="7" column="5" />
@@ -982,12 +982,12 @@
         <mark key="." line="16" column="20" />
         <mark key="^" line="16" column="20" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" timestamp="1478527132785">
-        <mark key="'" line="7" column="11" />
-        <mark key="[" line="36" column="38" />
-        <mark key="]" line="38" column="7" />
-        <mark key="." line="38" column="7" />
-        <mark key="^" line="38" column="7" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" timestamp="1478531138470">
+        <mark key="'" line="42" column="2" />
+        <mark key="[" line="46" column="34" />
+        <mark key="]" line="46" column="34" />
+        <mark key="." line="46" column="34" />
+        <mark key="^" line="46" column="34" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/route.config.ts" timestamp="1478008476407">
         <mark key="[" line="14" column="27" />
@@ -1782,10 +1782,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="12" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/config/webpack.common.js" />
-      <jump line="0" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/src/index.html" />
-      <jump line="3" column="3" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/src/index.html" />
-      <jump line="4" column="3" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/src/index.html" />
       <jump line="255" column="49" filename="K:/Chillisoft/Workflow/source/Workflow.AdminApp/config/webpack.common.js" />
       <jump line="0" column="0" filename="K:/DeliberatePractice/angular2_todo/package.json" />
       <jump line="36" column="21" filename="K:/DeliberatePractice/angular2_todo/package.json" />
@@ -1882,46 +1878,50 @@
       <jump line="50" column="12" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/node_modules/@types/signalr/index.d.ts" />
       <jump line="4" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/app.ts" />
       <jump line="200" column="8" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/node_modules/@types/signalr/index.d.ts" />
+      <jump line="51" column="8" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/signalr-loader.service.ts" />
+      <jump line="30" column="23" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="42" column="6" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/signalr-loader.service.ts" />
+      <jump line="42" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>connect</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>connect</text>
       </register>
       <register name="/" type="4">
         <text>ConnectionState</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSU1vZHVsZSB9IGZyb20gJ2FuZ3VsYXInOwo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IHdpbi4kLmNvbm5lY3Rpb24uaHViLnN0b3AoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgY29ubmVjdGVkID0gdHJ1ZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5faHViID0gCg==</text>
+        <text encoding="base64">ICAgICQuY29ubmVjdGlvbiguKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2h1Yi50ZXN0KCdtb28nKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuX2Nvbm5lY3Rpb24gPSBjb25uOwogICAgdGhpcy5faHViID0gY29ubi5ub3RpZmljYXRpb25zSHViOwogICAgY29uc3QgYW55SHViID0gdGhpcy5faHViIGFzIGFueTsKICAgIGNvbnN0ICQgPSAod2luZG93IGFzIGFueSkuJDsKICAgIHdpbmRvdy5zZXRUaW1lb3V0KCgpID0+IHsKICAgICAgJC5jb25uZWN0aW9uLmh1Yi5zdG9wKCk7CiAgICAgIHdpbmRvdy5zZXRUaW1lb3V0KCgpID0+IHsKICAgICAgICAkLmNvbm5lY3Rpb24uaHViLnN0YXJ0KCkuZG9uZSgoKSA9PiB7CiAgICAgICAgICBhbnlIdWIub24oJ2hlYXJ0YmVhdCcsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgY29uc29sZS5sb2coJz0+IHNlcnZlciBoZWFydGJlYXQnKTsKICAgICAgICAgIH0pOwogICAgICAgICAgYW55SHViLnNlcnZlci50ZXN0KCdtb28nKTsKICAgICAgICB9KQogICAgICB9LCAzMDAwKTsKICAgIH0sIDUwMDApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZW51bSBDb25uZWN0aW9uU3RhdGUK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iLi4vLi4vLi4vbm9kZV9tb2R1bGVzL0B0eXBlcy9zaWduYWxyL2luZGV4LmQudHMiIC8+Cgo=</text>
+        <text encoding="base64">ICBub2RlLmF0dHJpYnV0ZXNbJ3NyYyddID0gcGF0aDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEh1YiA9IG5nU2lnbmFsci5IdWI7CmltcG9ydCBDb25uZWN0aW9uU3RhdGUgPSBTaWduYWxSLkNvbm5lY3Rpb25TdGF0ZTsK</text>
+        <text encoding="base64">ICB9IGNhdGNoIChlKSB7CiAgICAkbG9nLmVycm9yKGBVbmFibGUgdG8gc3RhcnQgdGhlIGh1YjogJHtlfWApOwogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0cnkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29ubmVjdGlvbiwgQ29ubmVjdGlvblN0YXRlLCBIdWIgfSBmcm9tICdAdHlwZXMvc2lnbmFscic7Cg==</text>
+        <text encoding="base64">ICAgICRsb2cuZGVidWcoJ1NpZ25hbFIgaW5pdGlhbGl6ZWQnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBvcnQgQ29ubmVjdGlvbgo9IFNpZ25hbFIuSHViLkNvbm5lY3Rpb247CmltcG9ydCBDb25uZWN0aW9uU3RhdGUgPSBTaWduYWxSLkNvbm5lY3Rpb25TdGF0ZTsKaW1wb3J0IEh1YiA9IG5nU2lnbmFsci5IdWI7Cg==</text>
+        <text encoding="base64">ICAkbG9nLmRlYnVnKCdsZWF2aW5nIHNpZ25hbHItbG9hZGVyJyk7CiAgcmV0dXJuIHdpbi4kLmNvbm5lY3Rpb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
