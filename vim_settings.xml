@@ -972,12 +972,12 @@
         <mark key="." line="16" column="20" />
         <mark key="^" line="16" column="20" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" timestamp="1478514481919">
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" timestamp="1478516033725">
         <mark key="'" line="2" column="30" />
-        <mark key="[" line="1" column="0" />
+        <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-        <mark key="^" line="3" column="8" />
+        <mark key="^" line="2" column="23" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/route.config.ts" timestamp="1478008476407">
         <mark key="[" line="14" column="27" />
@@ -1876,7 +1876,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgZm9vID0gcmVxdWlyZSgnc2lnbmFsci1hbWQnKTsKZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdzaWduYWwtYXJyL2Rpc3QnOwoKZGVidWdnZXI7Cgo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -1888,31 +1888,31 @@
         <text encoding="base64">aW1wb3J0IHsgSU1vZHVsZSB9IGZyb20gJ2FuZ3VsYXInOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgZm9vID0gcmVxdWlyZSgnc2lnbmFsci1hbWQnKTsKZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdzaWduYWwtYXJyL2Rpc3QnOwoKZGVidWdnZXI7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgc2lnbmFsciBmcm9tICdzaWduYWxyLWFtZCc7Cg==</text>
+        <text encoding="base64">Y29uc3QgZm9vID0gcmVxdWlyZSgnc2lnbmFsci1hbWQnKTsKZGVidWdnZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgc2lnbmFsciBmcm9tICdzaWduYWxyLWFtZCc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgY2xpZW50ID0gcmVxdWlyZSgnc2lnbmFsci1jbGllbnQvc2lnbmFsUicpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgY2xpZW50IGZyb20gJ3NpZ25hbHItY2xpZW50JzsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgY2xpZW50ID0gcmVxdWlyZSgnc2lnbmFsci1jbGllbnQnKS5jbGllbnQ7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgY2xpZW50ID0gcmVxdWlyZSgnc2lnbmFsci1jbGllbnQvc2lnbmFsUicpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0ICogYXMgY2xpZW50IGZyb20gJ3NpZ25hbHItY2xpZW50JzsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgY2xpZW50ID0gcmVxdWlyZSgnc2lnbmFsci1jbGllbnQnKS5jbGllbnQ7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIElTaWduYWxSQ2xpZW5kZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0ICogYXMgJCBmcm9tICdqcXVlcnknOwo=</text>
+        <text encoding="base64">aW50ZXJmYWNlIElTaWduYWxSQ2xpZW5kZAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
