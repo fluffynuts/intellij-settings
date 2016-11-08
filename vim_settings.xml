@@ -20,7 +20,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1478529253693">
+      <file name="/a.dummy" timestamp="1478597359908">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="K:/OpenSource/synchronous-promise/.gitignore" timestamp="1474463183052">
@@ -982,11 +982,11 @@
         <mark key="." line="16" column="20" />
         <mark key="^" line="16" column="20" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" timestamp="1478590974184">
-        <mark key="'" line="6" column="2" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" timestamp="1478597366054">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="68" column="43" />
+        <mark key="]" line="68" column="43" />
+        <mark key="." line="68" column="43" />
         <mark key="^" line="96" column="28" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/route.config.ts" timestamp="1478008476407">
@@ -1782,7 +1782,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="12" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-request-overview/travel-request-status-converter.service.ts" />
       <jump line="12" column="25" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-request-overview/template.html" />
       <jump line="6" column="28" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/sub-states/route.config.ts" />
       <jump line="7" column="11" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/sub-states/route.config.ts" />
@@ -1882,16 +1881,17 @@
       <jump line="78" column="11" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="93" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="6" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="76" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5fbG9nLmRlYnVnKCctPiBQT05HIScpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>function</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>function</text>
       </register>
       <register name="/" type="4">
-        <text>var</text>
+        <text>heart</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMuX2xvZy5kZWJ1ZygnLT4gc3RhcnQgbWFzdGVyIGh1YicpOwo=</text>
@@ -1928,9 +1928,9 @@
       </register>
     </registers>
     <search>
-      <last-search>var</last-search>
+      <last-search>heart</last-search>
       <last-offset />
-      <last-pattern>var</last-pattern>
+      <last-pattern>heart</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1938,7 +1938,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jquery</entry>
         <entry>signal</entry>
         <entry>sig</entry>
         <entry>win =</entry>
@@ -1958,6 +1957,7 @@
         <entry encoding="base64">XDxfYmluZFBpbmdIYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxfbGFzdFBvbmdcPg==</entry>
         <entry>var</entry>
+        <entry>heart</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
