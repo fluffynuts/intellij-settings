@@ -1004,12 +1004,12 @@
         <mark key="." line="16" column="20" />
         <mark key="^" line="16" column="20" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" timestamp="1478693354089">
-        <mark key="'" line="112" column="19" />
-        <mark key="[" line="155" column="14" />
-        <mark key="]" line="156" column="6" />
-        <mark key="." line="156" column="6" />
-        <mark key="^" line="156" column="6" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" timestamp="1478700759680">
+        <mark key="'" line="137" column="35" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+        <mark key="^" line="154" column="43" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/route.config.ts" timestamp="1478008476407">
         <mark key="[" line="14" column="27" />
@@ -1827,8 +1827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="28" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/travel-request-status-converter.service.ts" />
-      <jump line="20" column="48" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/app.ts" />
       <jump line="7" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/app.ts" />
       <jump line="13" column="12" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/app.ts" />
       <jump line="83" column="61" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" />
@@ -1914,7 +1912,6 @@
       <jump line="99" column="23" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="95" column="18" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="135" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
-      <jump line="137" column="27" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="138" column="41" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="162" column="35" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="86" column="20" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" />
@@ -1927,58 +1924,61 @@
       <jump line="38" column="10" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="125" column="10" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="112" column="19" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="148" column="6" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="136" column="31" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="137" column="35" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gaHViQ29ubmVjdGlvbi5zdGFydCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVxdWVzdElkLnJlcGxhY2UoLygtfDApL2csICcnKS5sZW5ndGggPT0gMCkgewogICAgICAgICAgZGVidWdnZXI7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>$.hubConnection()</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>requestC</text>
+        <text>heartbe</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBxdWVyeTogewogICAgICAgICAgcHJlc2V0czogWydlczIwMTUnLCAnc3RhZ2UtMyddLAogICAgICAgICAgcGx1Z2luczogWyd0cmFuc2Zvcm0tcnVudGltZSddCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gaHViQ29ubmVjdGlvbi5zdGFydCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVxdWVzdElkLnJlcGxhY2UoLygtfDApL2csICcnKS5sZW5ndGggPT0gMCkgewogICAgICAgICAgZGVidWdnZXI7CiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICh0aGlzLl9ub3RpZmljYXRpb25zSHViIGFzIGFueSkuaW52b2tlKCdwaW5nJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGh1YkNvbm5lY3Rpb24gPSAkLmh1YkNvbm5lY3Rpb24oKTsKICAgIHRoaXMuX25vdGlmaWNhdGlvbnNIdWIgPSBodWJDb25uZWN0aW9uLmNyZWF0ZUh1YlByb3h5KCdub3RpZmljYXRpb25zSHViJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gaHViQ29ubmVjdGlvbi5zdGFydCgpKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICh0aGlzLl9ub3RpZmljYXRpb25zSHViIGFzIGFueSkuaW52b2tlKCdwaW5nJyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGh1YkNvbm5lY3Rpb24gPSAkLmh1YkNvbm5lY3Rpb24oKTsKICAgIHRoaXMuX25vdGlmaWNhdGlvbnNIdWIgPSBodWJDb25uZWN0aW9uLmNyZWF0ZUh1YlByb3h5KCdub3RpZmljYXRpb25zSHViJyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHRoaXMuX25vdGlmaWNhdGlvbnNIdWIgPSAkLmNvbm5lY3Rpb24ubm90aWZpY2F0aW9uc0h1YjsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>{
         requestId,
         callback
       }</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5fdHIK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgd29ya2Zsb3dzLm9uY2UoJwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5fbG9nLmRlYnVnKCdyZXF1ZXN0IGNvbXBsZXRlJyk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>requestC</last-search>
+      <last-search>heartbe</last-search>
       <last-offset />
-      <last-pattern>requestC</last-pattern>
+      <last-pattern>heartbe</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1986,7 +1986,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc3RhcnRQaW5nUG9uZ1w+</entry>
         <entry>buildurl</entry>
         <entry>start</entry>
         <entry encoding="base64">XDxfcmVnaXN0ZXJIdWJQcm94aWVzXD4=</entry>
@@ -2006,6 +2005,7 @@
         <entry>masterH</entry>
         <entry encoding="base64">XDxfbWFzdGVySHViXD4=</entry>
         <entry>requestC</entry>
+        <entry>heartbe</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
