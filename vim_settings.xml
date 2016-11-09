@@ -20,7 +20,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1478675825566">
+      <file name="/a.dummy" timestamp="1478682702566">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/signal-arr.js" timestamp="1478673213652">
@@ -49,6 +49,12 @@
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications.ignore/interfaces.ts" timestamp="1478677731110">
+        <mark key="[" line="1" column="49" />
+        <mark key="]" line="1" column="45" />
+        <mark key="^" line="1" column="45" />
+        <mark key="." line="1" column="45" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/kickoff-workflows/interfaces.ts" timestamp="1477637877099">
         <mark key="[" line="10" column="54" />
@@ -132,12 +138,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/signalr-loader.service.ts" timestamp="1478531130238">
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/signalr-loader.service.ts" timestamp="1478682995094">
         <mark key="'" line="42" column="6" />
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="6" column="32" />
-        <mark key="." line="6" column="32" />
-        <mark key="^" line="6" column="32" />
+        <mark key="[" line="40" column="40" />
+        <mark key="]" line="40" column="61" />
+        <mark key="." line="40" column="61" />
+        <mark key="^" line="40" column="61" />
       </file>
       <file name="K:/DeliberatePractice/ts-tenpin/package.json" timestamp="1472821069650">
         <mark key="[" line="7" column="5" />
@@ -180,11 +186,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="28" column="71" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/current-workflows/directive.ts" timestamp="1478526007625">
-        <mark key="[" line="4" column="69" />
-        <mark key="]" line="4" column="71" />
-        <mark key="." line="4" column="71" />
-        <mark key="^" line="4" column="71" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/current-workflows/directive.ts" timestamp="1478684499249">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="21" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/node_modules/synchronous-promise/index.d.ts" timestamp="1474463407796">
         <mark key="[" line="4" column="0" />
@@ -296,6 +302,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="44" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/signal-arr/HubClient.js" timestamp="1478681829043">
+        <mark key="'" line="12" column="2" />
+        <mark key="[" line="52" column="38" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/sub-states/template.html" timestamp="1477989598003">
         <mark key="[" line="4" column="9" />
@@ -521,12 +531,12 @@
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/utils/index.ts" timestamp="1475048349508">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" timestamp="1478611673332">
-        <mark key="'" line="70" column="33" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="70" column="15" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" timestamp="1478684524251">
+        <mark key="'" line="86" column="20" />
+        <mark key="[" line="104" column="21" />
+        <mark key="]" line="104" column="26" />
+        <mark key="." line="104" column="26" />
+        <mark key="^" line="104" column="26" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/travel-request-details/directive.ts" timestamp="1478263074873">
         <mark key="'" line="18" column="8" />
@@ -970,11 +980,11 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="14" column="2" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/webpack.common.js" timestamp="1478674991057">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="25" column="13" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/webpack.common.js" timestamp="1478679438947">
+        <mark key="[" line="31" column="37" />
+        <mark key="]" line="31" column="38" />
+        <mark key="." line="31" column="38" />
+        <mark key="^" line="26" column="5" />
       </file>
       <file name="K:/DeliberatePractice/mars_rover/spec/support/jasmine.json" timestamp="1474033384253">
         <mark key="[" line="1" column="16" />
@@ -994,12 +1004,12 @@
         <mark key="." line="16" column="20" />
         <mark key="^" line="16" column="20" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" timestamp="1478675744884">
-        <mark key="'" line="147" column="4" />
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
-        <mark key="^" line="4" column="13" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" timestamp="1478684796087">
+        <mark key="'" line="52" column="42" />
+        <mark key="[" line="69" column="27" />
+        <mark key="]" line="69" column="25" />
+        <mark key="." line="69" column="25" />
+        <mark key="^" line="69" column="25" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/route.config.ts" timestamp="1478008476407">
         <mark key="[" line="14" column="27" />
@@ -1401,6 +1411,9 @@
         <mark key="]" line="200" column="0" />
         <mark key="." line="200" column="0" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/signal-arr/Client.js" timestamp="1478680030112">
+        <mark key="'" line="96" column="0" />
+      </file>
       <file name="K:/DeliberatePractice/angular2_todo/tsconfig.json" timestamp="1475498950261">
         <mark key="[" line="10" column="11" />
         <mark key="]" line="10" column="11" />
@@ -1459,6 +1472,12 @@
         <mark key="]" line="11" column="28" />
         <mark key="." line="11" column="28" />
         <mark key="^" line="11" column="28" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/foo.js" timestamp="1478678986181">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="8" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/signal-arr/transports/WebSocketTransport.ts" timestamp="1478675951898">
         <mark key="'" line="3" column="32" />
@@ -1653,11 +1672,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/interfaces.ts" timestamp="1478600101007">
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="1" column="54" />
-        <mark key="^" line="1" column="54" />
-        <mark key="." line="1" column="54" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/interfaces.ts" timestamp="1478683028882">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/login/login.service.ts" timestamp="1473772970032">
         <mark key="[" line="5" column="0" />
@@ -1705,6 +1724,13 @@
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications.ignore/notifications.service.ts" timestamp="1478677623023">
+        <mark key="'" line="126" column="10" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="^" line="126" column="2" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/route-error-logging.config.ts" timestamp="1473928735338">
         <mark key="[" line="9" column="6" />
@@ -1801,27 +1827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="25" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/interfaces.ts" />
-      <jump line="23" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/start-workflows/interfaces.ts" />
-      <jump line="1291" column="14" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/typings/globals/angular/index.d.ts" />
-      <jump line="4" column="44" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/template.html" />
-      <jump line="3" column="27" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/template.html" />
-      <jump line="7" column="27" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/template.html" />
-      <jump line="14" column="17" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/directive.ts" />
-      <jump line="18" column="12" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/directive.ts" />
-      <jump line="20" column="55" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/template.html" />
-      <jump line="24" column="29" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/directive.ts" />
-      <jump line="6" column="34" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/directive.ts" />
-      <jump line="20" column="4" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/directive.ts" />
-      <jump line="4" column="1" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/directive.ts" />
-      <jump line="21" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/secondary-action-menu/directive.ts" />
-      <jump line="57" column="54" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/start-workflows/interfaces.ts" />
-      <jump line="74" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" />
-      <jump line="45" column="8" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" />
-      <jump line="54" column="8" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" />
-      <jump line="59" column="8" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" />
-      <jump line="15" column="49" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/capture-travel-request-details/directive.ts" />
-      <jump line="22" column="12" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/interfaces.ts" />
       <jump line="2" column="14" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/navigation/directive.ts" />
       <jump line="20" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/payload-maker.service.ts" />
       <jump line="17" column="8" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/travel-request-details/directive.ts" />
@@ -1858,16 +1863,13 @@
       <jump line="30" column="23" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="42" column="6" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/signalr-loader.service.ts" />
       <jump line="42" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
-      <jump line="27" column="10" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="44" column="9" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
-      <jump line="99" column="79" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="39" column="25" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="57" column="21" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="88" column="10" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="103" column="18" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="19" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="20" column="21" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
-      <jump line="69" column="54" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="73" column="33" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="65" column="38" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="86" column="10" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
@@ -1877,7 +1879,6 @@
       <jump line="29" column="29" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="49" column="6" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="74" column="10" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
-      <jump line="78" column="11" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="93" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="6" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="76" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
@@ -1887,7 +1888,6 @@
       <jump line="105" column="58" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" />
       <jump line="14" column="21" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" />
       <jump line="71" column="12" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" />
-      <jump line="95" column="6" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="95" column="31" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" />
       <jump line="70" column="33" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" />
       <jump line="48" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
@@ -1901,55 +1901,84 @@
       <jump line="16" column="22" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/signal-arr/transports/WebSocketTransport.ts" />
       <jump line="60" column="78" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/signal-arr/transports/WebSocketTransport.ts" />
       <jump line="3" column="32" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/signal-arr/transports/WebSocketTransport.ts" />
+      <jump line="11" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications.ignore/notifications.service.ts" />
+      <jump line="126" column="10" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications.ignore/notifications.service.ts" />
+      <jump line="71" column="46" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/signal-arr/HubClient.js" />
+      <jump line="79" column="49" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/signal-arr/HubClient.js" />
+      <jump line="36" column="11" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/signal-arr/HubClient.js" />
+      <jump line="13" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/signal-arr/Client.js" />
+      <jump line="38" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/signal-arr/HubClient.js" />
+      <jump line="12" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/signal-arr/HubClient.js" />
+      <jump line="96" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/signal-arr/Client.js" />
+      <jump line="27" column="6" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="69" column="22" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="96" column="29" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" />
+      <jump line="78" column="10" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="87" column="11" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="84" column="9" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="85" column="16" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="102" column="30" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="10" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="99" column="23" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="95" column="18" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="135" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="137" column="27" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="138" column="41" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="162" column="35" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="86" column="20" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" />
+      <jump line="52" column="42" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFzeW5jIGZyb20gJ2FzeW5jJzsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>HubClient</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>send</text>
+        <text>once</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2xvZy5kZWJ1ZygnLT4gc3RhcnQgbWFzdGVyIGh1YicpOwo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFzeW5jIGZyb20gJ2FzeW5jJzsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">dmFyIGZvbyA9IFNpZ25hbEFycjsKZGVidWdnZXI7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgU2lnbmFsQXJyID0gcmVxdWlyZSgnc2lnbmFsLWFyci9kaXN0L21haW4nKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0OiAvLipzaWduYWwtYXJyXC9zcmNcLy4qXC5qcyQvLAogICAgICAgIGxvYWRlcjogJ2F3ZXNvbWUtdHlwZXNjcmlwdCcKICAgICAgfSwgewo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBxdWVyeTogewogICAgICAgICAgcHJlc2V0czogWydlczIwMTUnLCAnc3RhZ2UtMyddLAogICAgICAgICAgcGx1Z2luczogWyd0cmFuc2Zvcm0tcnVudGltZSddCiAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGNsdWRlOiAvKG5vZGVfbW9kdWxlc3xib3dlcl9jb21wb25lbnRzKS8sCg==</text>
+      <register name="1" type="4">
+        <text>{
+        requestId,
+        callback
+      }</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5fdHIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgd29ya2Zsb3dzLm9uY2UoJwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5fbG9nLmRlYnVnKCdyZXF1ZXN0IGNvbXBsZXRlJyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRoaXMuX3BpbmcoKTsK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBjb25zdCBpbnRlcnZhbCA9IDEwMDsKICAgIGxldCBtYXhBbGxvd2VkU2lsZW5jZSA9IDUwMDsKICAgIHRoaXMuX3dpbmRvdy5zZXRJbnRlcnZhbCgoKSA9PiB7CiAgICAgIGNvbnN0IGRlbHRhID0gdGhpcy5fZ2V0VGltZSgpIC0gdGhpcy5fbGFzdFBvbmc7CiAgICAgIGlmIChkZWx0YSA+IG1heEFsbG93ZWRTaWxlbmNlKSB7CiAgICAgICAgdGhpcy5fbG9nLmVycm9yKCdObyBwaW5nIHJlc3BvbnNlOyByZXN0YXJ0aW5nIG1hc3RlciBodWInKTsKICAgICAgfSBlbHNlIHsKICAgICAgICB0aGlzLl9waW5nKCk7CiAgICAgIH0KICAgIH0sIDEwMCk7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5fd2F0Y2goKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGNsdWRlOiAvKG5vZGVfbW9kdWxlc3xib3dlcl9jb21wb25lbnRzKS8sCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHRoaXMuX2hhdmVNYWRlQ29udGFjdCkgewogICAgICAgIHRoaXMuX3dhdGNoSW50ZXJ2YWwgPSAxMDAwMDsKICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>send</last-search>
+      <last-search>once</last-search>
       <last-offset />
-      <last-pattern>send</last-pattern>
+      <last-pattern>once</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1957,26 +1986,26 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJTm90aWZpY2F0aW9uc0h1Ylw+</entry>
-        <entry>pong</entry>
-        <entry encoding="base64">XDxfYmluZFBpbmdIYW5kbGVyXD4=</entry>
-        <entry encoding="base64">XDxfbGFzdFBvbmdcPg==</entry>
-        <entry>var</entry>
-        <entry>heart</entry>
-        <entry>start</entry>
-        <entry>console</entry>
-        <entry>once</entry>
-        <entry encoding="base64">XDxpbnZva2VcPg==</entry>
-        <entry>requestC</entry>
-        <entry encoding="base64">XDxfYmluZFJlcXVlc3RDb21wbGV0ZUhhbmRsZXJcPg==</entry>
-        <entry>bindPi</entry>
-        <entry>_reboo</entry>
-        <entry>rebo</entry>
-        <entry>reboo</entry>
-        <entry>super</entry>
         <entry>_socket</entry>
         <entry>stop</entry>
         <entry>send</entry>
+        <entry>INotificationsSer</entry>
+        <entry encoding="base64">XDxfc3RhcnRQaW5nUG9uZ1w+</entry>
+        <entry>buildurl</entry>
+        <entry>start</entry>
+        <entry encoding="base64">XDxfcmVnaXN0ZXJIdWJQcm94aWVzXD4=</entry>
+        <entry encoding="base64">XDxodWJDbGllbnRcPg==</entry>
+        <entry>_hubCLi</entry>
+        <entry>hubClient</entry>
+        <entry>_regi</entry>
+        <entry>message</entry>
+        <entry encoding="base64">XDxoYW5kbGVSZXF1ZXN0Q29tcGxldGVcPg==</entry>
+        <entry encoding="base64">XDxfY29ubmVjdFw+</entry>
+        <entry encoding="base64">XDxfYmluZFJlcXVlc3RDb21wbGV0ZUhhbmRsZXJcPg==</entry>
+        <entry encoding="base64">XDxfc3RhcnRNYXN0ZXJcPg==</entry>
+        <entry>ping</entry>
+        <entry>on('</entry>
+        <entry>once</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
