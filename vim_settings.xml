@@ -1004,12 +1004,12 @@
         <mark key="." line="16" column="20" />
         <mark key="^" line="16" column="20" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" timestamp="1478688374395">
-        <mark key="'" line="125" column="10" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="94" column="39" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" timestamp="1478693354089">
+        <mark key="'" line="112" column="19" />
+        <mark key="[" line="155" column="14" />
+        <mark key="]" line="156" column="6" />
+        <mark key="." line="156" column="6" />
+        <mark key="^" line="156" column="6" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/route.config.ts" timestamp="1478008476407">
         <mark key="[" line="14" column="27" />
@@ -1827,7 +1827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="4" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/capture-travel-request-details/directive.ts" />
       <jump line="28" column="28" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/travel-request-status-converter.service.ts" />
       <jump line="20" column="48" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/app.ts" />
       <jump line="7" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/app.ts" />
@@ -1927,6 +1926,7 @@
       <jump line="100" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="38" column="10" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="125" column="10" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="112" column="19" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1936,7 +1936,7 @@
         <text>$.hubConnection()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbWFzdGVySHViXD4=</text>
+        <text>requestC</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBxdWVyeTogewogICAgICAgICAgcHJlc2V0czogWydlczIwMTUnLCAnc3RhZ2UtMyddLAogICAgICAgICAgcGx1Z2luczogWyd0cmFuc2Zvcm0tcnVudGltZSddCiAgICAgICAgfQo=</text>
@@ -1976,9 +1976,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfbWFzdGVySHViXD4=</last-search>
+      <last-search>requestC</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbWFzdGVySHViXD4=</last-pattern>
+      <last-pattern>requestC</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1986,7 +1986,6 @@
     </search>
     <history>
       <history-search>
-        <entry>INotificationsSer</entry>
         <entry encoding="base64">XDxfc3RhcnRQaW5nUG9uZ1w+</entry>
         <entry>buildurl</entry>
         <entry>start</entry>
@@ -2006,6 +2005,7 @@
         <entry>\.ping</entry>
         <entry>masterH</entry>
         <entry encoding="base64">XDxfbWFzdGVySHViXD4=</entry>
+        <entry>requestC</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
