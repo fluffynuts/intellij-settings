@@ -356,6 +356,12 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="3" column="32" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/cancel-travel-request/directive.ts" timestamp="1479384928266">
+        <mark key="[" line="10" column="66" />
+        <mark key="]" line="22" column="22" />
+        <mark key="^" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/webpack.config.js" timestamp="1473949075417">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="18" />
@@ -1965,11 +1971,11 @@
       <jump line="3" column="32" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/capture-travel-request-details/directive.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICR3aW5kb3c6IElXaW5kb3dTZXJ2aWNlKSB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>cancel</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWN0aXZpdHkuUmVzcG9uc2UgJiYgYWN0aS5SZWRpcmVjdFVybA==</text>
+        <text>cancel</text>
       </register>
       <register name="/" type="4">
         <text>invokeH</text>
