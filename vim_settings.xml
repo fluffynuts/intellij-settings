@@ -336,12 +336,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/capture-travel-request-details/directive.ts" timestamp="1479388617280">
-        <mark key="'" line="6" column="32" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="39" column="14" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/capture-travel-request-details/directive.ts" timestamp="1479728605153">
+        <mark key="'" line="7" column="32" />
+        <mark key="[" line="27" column="49" />
+        <mark key="]" line="30" column="12" />
+        <mark key="." line="30" column="12" />
+        <mark key="^" line="30" column="12" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/services/workflow-reassignment-dialog.service.ts" timestamp="1474549270277">
         <mark key="[" line="4" column="24" />
@@ -488,12 +488,12 @@
         <mark key="." line="0" column="52" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" timestamp="1478769553030">
-        <mark key="'" line="99" column="8" />
-        <mark key="[" line="77" column="23" />
-        <mark key="]" line="99" column="21" />
-        <mark key="." line="99" column="21" />
-        <mark key="^" line="99" column="21" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" timestamp="1479728437554">
+        <mark key="'" line="100" column="8" />
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="40" />
+        <mark key="." line="21" column="40" />
+        <mark key="^" line="21" column="40" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/travel-request-details/directive.ts" timestamp="1478263074873">
         <mark key="'" line="18" column="8" />
@@ -1702,10 +1702,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PC9tZC1jb250ZW50Pg==</text>
+        <text>_.get(existing, 'Details.' + subName)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9tZC1jb250ZW50Pg==</text>
+        <text>_.get(existing, 'Details.' + subName)</text>
       </register>
       <register name="/" type="4">
         <text>Go</text>
@@ -1714,31 +1714,31 @@
         <text encoding="base64">aW1wb3J0IHsgSVN0YXRlU2VydmljZSB9IGZyb20gJ2FuZ3VsYXItdWktcm91dGVyJzsKaW50ZXJmYWNlIElTdGF0ZVBhcmFtc1dpdGhJZCBleHRlbmRzIElTdGF0ZVNlcnZpY2UgewogIGlkOiBzdHJpbmc7Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGEtb24tcHJvY2VlZD0iY2FuY2VsUmVxdWVzdCgpIgogICAgZGF0YS1vbi1DYW5jZWw9InJldHVyblRvTGlzdCgpIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGF5bG9hZDogJ0AnLAo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gZ2V0VmFsKHRhc2s6IElUcmF2ZWxSZXF1ZXN0LCBzdWJOYW1lOiBzdHJpbm5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBleGlzdGluZy5EZXRhaWxzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZDogc3RyaW5nOwo=</text>
+        <text encoding="base64">ICAgICAgJHNjb3BlLmZpZWxkcy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLmlkID0gJHN0YXRlUGFyYW1zLmlkOwo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLmNhbmNlbFJlcXVlc3QgPSAoKSA9PiB7CiAgICAgICAgJHN0YXRlLmdvKCdeLl4ubGlzdCcpOwogICAgICB9OwogICAgICAkc2NvcGUuY2FuY2VsUmVxdWVzdCA9ICgpID0+IHsKICAgICAgICBjb25zdCBmbG93ID0gdHJhdmVsUmVxdWVzdElkZW50aWZpZXJzLlRSQVZFTF9SRVFVRVNUX0ZMT1dfTkFNRTsKICAgICAgICBjb25zdCBhY3Rpdml0eSA9IHRyYXZlbFJlcXVlc3RJZGVudGlmaWVycy5DQU5DRUxfUkVRVUVTVDsKICAgICAgICB3b3JrZmxvd3MuaW52b2tlKGZsb3csIGFjdGl2aXR5LCB7IHRhc2tJZDogJHNjb3BlLmlkIH0pOwogICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCF3b3JrZmxvd1ZhbGlkYXRvci5leGlzdHMoJHNjb3BlLnRhc2tJZCkpCiAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjYW5jZWxSZXF1ZXN0OiBGdW5jdGlvbjsKICByZXR1cm5Ub0xpc3Q6IEZ1bmN0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhdGUuZ28oJ2FwcC53b3JrZmxvd3MubGlzdCcpOwo=</text>
+        <text encoding="base64">ICAgIGRhdGEtb24tcHJvY2VlZD0iY2FuY2VsUmVxdWVzdCgpIgogICAgZGF0YS1vbi1DYW5jZWw9InJldHVyblRvTGlzdCgpIgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
