@@ -22,7 +22,7 @@
         <mark key="." line="22" column="6" />
         <mark key="^" line="22" column="6" />
       </file>
-      <file name="/a.dummy" timestamp="1479712657828">
+      <file name="/a.dummy" timestamp="1479739724646">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="0" />
@@ -495,12 +495,12 @@
         <mark key="." line="0" column="52" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" timestamp="1479738268261">
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" timestamp="1479739732340">
         <mark key="'" line="23" column="8" />
         <mark key="[" line="24" column="46" />
-        <mark key="]" line="23" column="8" />
-        <mark key="." line="23" column="8" />
-        <mark key="^" line="23" column="8" />
+        <mark key="]" line="78" column="33" />
+        <mark key="." line="78" column="33" />
+        <mark key="^" line="78" column="33" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/travel-request-details/directive.ts" timestamp="1478263074873">
         <mark key="'" line="18" column="8" />
