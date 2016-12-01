@@ -1177,11 +1177,11 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="36" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/confirm-travel-request-completed/directive.ts" timestamp="1480582153426">
-        <mark key="[" line="2" column="54" />
-        <mark key="]" line="5" column="11" />
-        <mark key="^" line="5" column="11" />
-        <mark key="." line="5" column="11" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/confirm-travel-request-completed/directive.ts" timestamp="1480600485570">
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="9" column="41" />
+        <mark key="^" line="9" column="42" />
+        <mark key="." line="9" column="41" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/payload-maker.service.ts" timestamp="1480409154051">
         <mark key="'" line="32" column="52" />
@@ -1955,11 +1955,11 @@
       <jump line="17" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/reject-accepted-travel-quote/directive.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QuRGV0YWlscy5SZWFzb25Gb3JUcmF2ZWwgfHwgJyhObyB0cmF2ZWwgcmVhc29uIGdpdmVuKScsCg==</text>
+      <register name="&quot;" type="4">
+        <text>CANCEL_REQUEST</text>
       </register>
       <register name="-" type="4">
-        <text>cancel this request? This action cannot be undone.'</text>
+        <text>CANCEL_REQUEST</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
