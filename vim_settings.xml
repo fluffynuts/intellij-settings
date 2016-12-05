@@ -1288,6 +1288,12 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="3" column="26" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/development/api.ts" timestamp="1480944304585">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+      </file>
       <file name="K:/OpenSource/offline-sync/src/routes.config.ts" timestamp="1473430385392">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -1996,11 +2002,11 @@
       <jump line="1" column="13" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLkRlZmluZVBsdWdpbih7CiAgICAgIFRISU5HUzogewogICAgICAgIHN0dWZmOiAnYW5kIG1vcmUgdGhpbmdzJwogICAgICB9CiAgICB9KQo=</text>
+      <register name="&quot;" type="4">
+        <text>18080</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>18080</text>
       </register>
       <register name="/" type="4">
         <text>DEV_</text>
