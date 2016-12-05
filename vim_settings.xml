@@ -15,7 +15,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/capture-scope-helper.service.ts" timestamp="1480668663161">
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/capture-scope-helper.service.ts" timestamp="1480670509446">
         <mark key="'" line="57" column="6" />
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
@@ -143,7 +143,7 @@
         <mark key="^" line="3" column="64" />
         <mark key="." line="3" column="84" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/route.config.ts" timestamp="1480657698281">
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/route.config.ts" timestamp="1480671621983">
         <mark key="[" line="51" column="4" />
         <mark key="]" line="51" column="3" />
         <mark key="." line="51" column="3" />
@@ -174,7 +174,7 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/add-comment/directive.ts" timestamp="1480495153408">
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/add-comment/directive.ts" timestamp="1480670453235">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -661,10 +661,10 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/utils/env.ts" timestamp="1480668133300">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/utils/env.ts" timestamp="1480928403869">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/cancel/directive.ts" timestamp="1479375691287">
         <mark key="[" line="6" column="72" />
@@ -755,6 +755,10 @@
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/webpack.development.js" timestamp="1480928884599">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="39" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflow-validator.service.ts" timestamp="1480496563308">
         <mark key="[" line="29" column="19" />
@@ -1208,7 +1212,7 @@
         <mark key="^" line="22" column="10" />
         <mark key="." line="22" column="10" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/accept-travel-quote/template.html" timestamp="1480345050316">
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/accept-travel-quote/template.html" timestamp="1480670383409">
         <mark key="[" line="1" column="46" />
         <mark key="]" line="13" column="36" />
         <mark key="^" line="13" column="36" />
@@ -1513,6 +1517,12 @@
         <mark key="]" line="1" column="39" />
         <mark key="^" line="1" column="39" />
         <mark key="." line="1" column="39" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/webpack.squished.js" timestamp="1480928886866">
+        <mark key="[" line="79" column="39" />
+        <mark key="]" line="79" column="39" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="K:/abx/abx-vms-app/src/components/add_manifest/template.html" timestamp="1472648541857">
         <mark key="[" line="9" column="68" />
@@ -2012,7 +2022,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLmZpZWxkcy5zcGxpY2UoMSwgMCwgbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgIG5ldyBFeHRyYWN0VGV4dFBsdWdpbignW25hbWVdLmNzcycpCg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -2021,7 +2031,7 @@
         <text>node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwbHVnaW5zOiBbCiAgICBuZXcgd2VicGFjay5vcHRpbWl6ZS5Db21tb25zQ2h1bmtQbHVnaW4oewogICAgICBuYW1lOiBbJ2FwcCcsICd2ZW5kb3InXQogICAgfSksCiAgICBuZXcgSHRtbFdlYnBhY2tQbHVnaW4oewogICAgICB0ZW1wbGF0ZTogJ3NyYy9pbmRleC5odG1sJwogICAgfSksCiAgICBuZXcgd2VicGFjay5FbnZpcm9ubWVudFBsdWdpbihbCiAgICAgICdOT0RFX0VOVicKICAgIF0pCiAgXQo=</text>
+        <text encoding="base64">ICAgIG5ldyBFeHRyYWN0VGV4dFBsdWdpbignW25hbWVdLmNzcycpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgJHNjb3BlLmZpZWxkcy5zcGxpY2UoMSwgMCwgbnVsbCk7Cg==</text>
