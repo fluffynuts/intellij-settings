@@ -1460,11 +1460,11 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/bootstrap/routes.config.ts" timestamp="1481204967901">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="21" />
-        <mark key="." line="13" column="21" />
-        <mark key="^" line="13" column="21" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/bootstrap/routes.config.ts" timestamp="1481208351717">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="12" column="24" />
       </file>
       <file name="K:/OpenSource/offline-sync/src/index.ts" timestamp="1473428934899">
         <mark key="[" line="3" column="0" />
@@ -2025,11 +2025,11 @@
       <jump line="44" column="14" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/node_modules/@types/angular-ui-router/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJHdpbmRvdy5sb2NhdGlvbi5hc3NpZ24oJyMvd29ya2Zsb3dzL2xpc3QnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>home</text>
       </register>
       <register name="-" type="4">
-        <text>Provider</text>
+        <text>home</text>
       </register>
       <register name="/" type="4">
         <text>go</text>
