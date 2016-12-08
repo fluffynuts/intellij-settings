@@ -390,11 +390,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/change-password/change-password-modal.html" timestamp="1481202084331">
-        <mark key="[" line="21" column="80" />
-        <mark key="]" line="21" column="80" />
-        <mark key="." line="21" column="80" />
-        <mark key="^" line="9" column="77" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/change-password/change-password-modal.html" timestamp="1481203966072">
+        <mark key="[" line="17" column="64" />
+        <mark key="]" line="23" column="69" />
+        <mark key="." line="23" column="69" />
+        <mark key="^" line="23" column="69" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/services/workflow-reassignment-dialog.service.ts" timestamp="1474549270277">
         <mark key="[" line="4" column="24" />
@@ -540,8 +540,8 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/build-url.ts" timestamp="1481201251283">
-        <mark key="[" line="8" column="73" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/build-url.ts" timestamp="1481204108807">
+        <mark key="[" line="8" column="68" />
         <mark key="]" line="10" column="24" />
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
@@ -638,12 +638,12 @@
         <mark key="." line="3" column="38" />
         <mark key="^" line="3" column="38" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/change-password/change-password.service.ts" timestamp="1481202279097">
-        <mark key="'" line="24" column="3" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="40" />
-        <mark key="^" line="54" column="33" />
-        <mark key="." line="60" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/change-password/change-password.service.ts" timestamp="1481204125916">
+        <mark key="'" line="30" column="3" />
+        <mark key="[" line="74" column="9" />
+        <mark key="]" line="74" column="7" />
+        <mark key="." line="74" column="7" />
+        <mark key="^" line="74" column="7" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/request-counter/directive.ts" timestamp="1480602353571">
         <mark key="[" line="22" column="62" />
@@ -2004,11 +2004,11 @@
       <jump line="21" column="3" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/change-password/change-password.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5fbG9nLmRlYnVnKCdyZXN1bHQ6ICcsIHJlc3VsdCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>login</text>
       </register>
       <register name="-" type="4">
-        <text>password</text>
+        <text>login</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3N0XD4=</text>
@@ -2017,31 +2017,31 @@
         <text encoding="base64">ICAgIDxtZC1tZW51LWl0ZW0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5fbG9nLmRlYnVnKCdyZXN1bHQ6ICcsIHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLnB1YmxpYyB3aXRoKCg6ICk6ICB7CiAgICAgICAgICB0aGlzLl8gPSA7CiAgICAgICAgICByZXR1cm4gdGhpczsKICAgICAgfQogICAgICBwcml2YXRlIF86IDsKICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2xvZy5kZWJ1ZygncmVzdWx0OiAnLCByZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnbW9vJzsK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQgYXMgSUFwaVJlc3VsdDxhbnk+Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gWwogICAgcHJvdG9jb2wsCiAgICAnOi8vJywKICAgIGhvc3QsCiAgICAnOicsCiAgICAKICAgIF0uam9pbignJyk7Cg==</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgCiAgICAgIGRlYnVnZ2VyOwogICAgICByZXR1cm4gZTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlVgogICAgICAgIHNlcnZpY2UuaGlkZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBzdGFydCA9IHByb3RvY29sID8gYCR7cHJvdG9jb2x9Oi8vYDogJyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBzbGFzaCA9IAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5fbG9nLmRlYnVnKCdyZXN1bHQ6ICcsIHJlc3VsdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBwYXRoUGFydCA9IHBhdGggPyBgJHtwYXRofWAgOiAnJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09rL1RpdGxlL2c=</text>
