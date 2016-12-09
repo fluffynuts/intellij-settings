@@ -477,6 +477,12 @@
         <mark key="." line="11" column="27" />
         <mark key="^" line="11" column="27" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/auto-form/directive.ts" timestamp="1481279866201">
+        <mark key="[" line="69" column="23" />
+        <mark key="]" line="69" column="35" />
+        <mark key="^" line="69" column="35" />
+        <mark key="." line="69" column="35" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/auth-test-ui/template.html" timestamp="1473760273140">
         <mark key="[" line="14" column="24" />
         <mark key="]" line="9" column="32" />
@@ -973,12 +979,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" timestamp="1481274927831">
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" timestamp="1481280128480">
         <mark key="'" line="7" column="14" />
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="27" column="59" />
-        <mark key="." line="27" column="59" />
-        <mark key="^" line="27" column="59" />
+        <mark key="[" line="24" column="116" />
+        <mark key="]" line="25" column="32" />
+        <mark key="." line="25" column="32" />
+        <mark key="^" line="25" column="32" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows-dashboard/directive.ts" timestamp="1475159983474">
         <mark key="[" line="3" column="0" />
@@ -1381,11 +1387,11 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/production/auth.ts" timestamp="1481274809771">
-        <mark key="[" line="3" column="46" />
-        <mark key="]" line="8" column="1" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="3" column="45" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/production/auth.ts" timestamp="1481279676594">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="44" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data/travel-details-template.html" timestamp="1474534962469">
         <mark key="[" line="0" column="0" />
@@ -1744,9 +1750,9 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/development/auth.ts" timestamp="1481274799819">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="10" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/development/auth.ts" timestamp="1481279673914">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="43" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
@@ -2037,26 +2043,26 @@
       <jump line="7" column="14" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJxdWlja2J1aWxkIjogIndlYnBhY2siLAo=</text>
+      <register name="&quot;" type="4">
+        <text>postbuild</text>
       </register>
       <register name="-" type="4">
-        <text>webpack</text>
+        <text>postbuild</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3ZWJwYWNrXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYnVpbGRVcmwgYXMgX2J1aWxkVXJsIH0gZnJvbSAnLi4vYnVpbGQtdXJsJzsKZXhwb3J0IGZ1bmN0aW9uIGJ1aWxkVXJsKCkgewogIHJldHVybiBfYnVpbGRVcmwocHJvdG9jb2wsIGhvc3QsIHBvcnQsIHRva2VuUGF0aCk7Cn0K</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNsaWVudElkID0gJ2NoaWxsaXNvZnQtd29ya2Zsb3dzJzsKZXhwb3J0IGNvbnN0IGNsaWVudFNlY3JldCA9ICdTMDBwM3ItUzNrcjN0JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJxdWlja2J1aWxkIjogIndlYnBhY2siLAo=</text>
+        <text encoding="base64">ICAgICJyZWxlYXNlIjogIm5jcCBkaXN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gWwogICAgcHJvdG9jb2wsCiAgICAnOi8vJywKICAgIGhvc3QsCiAgICAnOicsCiAgICBwb3J0LAogICAgJy8nLAogICAgdG9rZW5QYXRoCiAgXS5qb2luKCcnKTsKfQo=</text>
+        <text encoding="base64">ICAgICJxdWlja2J1aWxkIjogIndlYnBhY2siLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gWwogICAgcHJvdG9jb2wsCiAgICAnOi8vJywKICAgIGhvc3QsCiAgICAnOicsCiAgICBwb3J0LAogICAgJy8nLAogICAgdG9rZW5QYXRoCiAgXS5qb2luKCcnKTsKfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -2065,16 +2071,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uZmlnLmVudiA9IE5PREVfRU5WOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbmZpZzsK</text>
+        <text encoding="base64">Y29uZmlnLmVudiA9IE5PREVfRU5WOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbCiAgICAgIGFwaS5wcm90b2NvbCwKICAgICAgJzovLycsCiAgICAgIGFwaS5ob3N0LAogICAgICAnOicsCiAgICAgIGFwaS5wb3J0LAogICAgICAnLycsCiAgICAgIHN1YlBhdGgKICAgIF0uam9pbignJyk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbmZpZzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBbCiAgICAgIGFwaS5wcm90b2NvbCwKICAgICAgJzovLycsCiAgICAgIGFwaS5ob3N0LAogICAgICAnOicsCiAgICAgIGFwaS5wb3J0LAogICAgICAnLycsCiAgICAgIHN1YlBhdGgKICAgIF0uam9pbignJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09rL1RpdGxlL2c=</text>
