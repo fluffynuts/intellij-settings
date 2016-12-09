@@ -28,7 +28,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1481272564760">
+      <file name="/a.dummy" timestamp="1481273934692">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="0" />
@@ -381,6 +381,12 @@
         <mark key="]" line="10" column="4" />
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/dist/app.js" timestamp="1481273832426">
+        <mark key="[" line="1143" column="32" />
+        <mark key="]" line="1142" column="35" />
+        <mark key="^" line="1142" column="35" />
+        <mark key="." line="1142" column="35" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/webpack.config.js" timestamp="1480930406299">
         <mark key="[" line="11" column="0" />
@@ -967,9 +973,9 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" timestamp="1481271710722">
-        <mark key="'" line="90" column="5" />
-        <mark key="[" line="24" column="115" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" timestamp="1481273987896">
+        <mark key="'" line="91" column="5" />
+        <mark key="[" line="25" column="78" />
         <mark key="]" line="15" column="6" />
         <mark key="." line="15" column="6" />
         <mark key="^" line="15" column="6" />
@@ -1466,11 +1472,11 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/bootstrap/routes.config.ts" timestamp="1481208351717">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="17" />
-        <mark key="^" line="12" column="24" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/bootstrap/routes.config.ts" timestamp="1481273931227">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="12" column="29" />
+        <mark key="." line="12" column="29" />
+        <mark key="^" line="12" column="29" />
       </file>
       <file name="K:/OpenSource/offline-sync/src/index.ts" timestamp="1473428934899">
         <mark key="[" line="3" column="0" />
