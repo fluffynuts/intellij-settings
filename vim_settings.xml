@@ -585,6 +585,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="14" column="36" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/production/account.ts" timestamp="1481292927586">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/services/workflow-actions.service.ts" timestamp="1474550848658">
         <mark key="[" line="0" column="52" />
         <mark key="]" line="0" column="52" />
@@ -1125,12 +1131,12 @@
         <mark key="." line="16" column="20" />
         <mark key="^" line="16" column="20" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" timestamp="1480602403227">
-        <mark key="'" line="170" column="40" />
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
-        <mark key="^" line="183" column="16" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" timestamp="1481293485517">
+        <mark key="'" line="91" column="27" />
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="^" line="8" column="20" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/env.js" timestamp="1480665569511">
         <mark key="[" line="0" column="0" />
@@ -1938,9 +1944,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="32" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/capture-travel-request-details/directive.ts" />
-      <jump line="12" column="44" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/cancel-travel-request/directive.ts" />
-      <jump line="13" column="44" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/cancel-travel-request/directive.ts" />
       <jump line="15" column="12" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/node_modules/@types/angular-ui-router/index.d.ts" />
       <jump line="12" column="66" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/confirm-action/directive.ts" />
       <jump line="1" column="49" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/confirm-action/directive.ts" />
@@ -2038,16 +2041,19 @@
       <jump line="18" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
       <jump line="25" column="22" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
       <jump line="10" column="16" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
+      <jump line="114" column="8" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="134" column="48" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="91" column="27" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJwcmVhdXRvbGludCI6ICJydW4tcyBzZXQtZW52IiwK</text>
+      <register name="&quot;" type="4">
+        <text>44355</text>
       </register>
       <register name="-" type="4">
-        <text>login-success'</text>
+        <text>44355</text>
       </register>
       <register name="/" type="4">
-        <text>preau</text>
+        <text>start()</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJHJvb3RTY29wZS4kZW1pdCgndXNlci10b2tlbi1jbGVhcmVkJyk7Cg==</text>
@@ -2084,9 +2090,9 @@
       </register>
     </registers>
     <search>
-      <last-search>preau</last-search>
+      <last-search>start()</last-search>
       <last-offset />
-      <last-pattern>preau</last-pattern>
+      <last-pattern>start()</last-pattern>
       <last-replace>Title</last-replace>
       <last-substitute>Ok</last-substitute>
       <last-dir>1</last-dir>
@@ -2094,8 +2100,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJSHR0cFNlcnZpY2VcPg==</entry>
-        <entry>notifi</entry>
         <entry encoding="base64">XDxfcnVuUmVxdWVzdENvbXBsZXRlXD4=</entry>
         <entry encoding="base64">XDxJUm91dGVJdGVtXD4=</entry>
         <entry encoding="base64">XDxhY3Rpdml0eURpcmVjdG9yXD4=</entry>
@@ -2114,6 +2118,8 @@
         <entry encoding="base64">XDxyZWF1dGhlbnRpY2F0ZVw+</entry>
         <entry encoding="base64">XDx0b2tlblJlcG9zaXRvcnlcPg==</entry>
         <entry>preau</entry>
+        <entry>start</entry>
+        <entry>start()</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
