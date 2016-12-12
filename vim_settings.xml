@@ -208,11 +208,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="28" column="71" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/current-workflows/directive.ts" timestamp="1481295963253">
-        <mark key="[" line="23" column="84" />
-        <mark key="]" line="23" column="77" />
-        <mark key="." line="23" column="77" />
-        <mark key="^" line="23" column="77" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/current-workflows/directive.ts" timestamp="1481537634612">
+        <mark key="'" line="27" column="30" />
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="48" column="31" />
+        <mark key="." line="48" column="31" />
+        <mark key="^" line="48" column="31" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/node_modules/synchronous-promise/index.d.ts" timestamp="1474463407796">
         <mark key="[" line="4" column="0" />
@@ -492,10 +493,10 @@
         <mark key="." line="9" column="32" />
         <mark key="^" line="9" column="32" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/upgrade-to-ssl.ts" timestamp="1481533347631">
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/upgrade-to-ssl.ts" timestamp="1481537230543">
         <mark key="'" line="14" column="11" />
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="15" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="18" column="2" />
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
       </file>
@@ -1183,10 +1184,10 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/app.ts" timestamp="1481534894960">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/app.ts" timestamp="1481537241696">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/implementations/workflow-step.ts" timestamp="1475054049333">
         <mark key="[" line="18" column="0" />
@@ -1321,6 +1322,12 @@
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/index.production.html" timestamp="1481537251974">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="16" column="5" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/token-repository/interfaces.ts" timestamp="1481286487676">
         <mark key="[" line="4" column="1" />
@@ -1961,7 +1968,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="20" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" />
       <jump line="19" column="13" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/bootstrap/material-theme.config.ts" />
       <jump line="93" column="39" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" />
       <jump line="13" column="47" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/travel-request-details/directive.ts" />
@@ -2061,55 +2067,56 @@
       <jump line="17" column="19" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
       <jump line="9" column="27" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
       <jump line="4" column="13" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
+      <jump line="26" column="30" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/current-workflows/directive.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICdhbmd1bGFyLWh0dHAtYXV0aCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICcuL3VwZ3JhZGUtdG8tc3NsJzsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>angular-aria</text>
+        <text>reduce</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nLmRlYnVnKGAke3BhdGh9IGFwcGVhcnMgdG8gYmUgbG9hZGVkLi4uYCkK</text>
+        <text encoding="base64">ICBpZiAocHJvdG9jb2wucmVwbGFjZSgvOiQvLCAnJykudG9Mb3dlckNhc2UoKSA9PT0gJ2h0dHAnKSB7CiAgICBsb2coJ3VwZ3JhZGluZyB0byBzc2wuLi4nKTsKICAgIHdpbmRvdy5sb2NhdGlvbi5hc3NpZ24oCiAgICAgIFsKICAgICAgICAnaHR0cHM6Ly8nLAogICAgICAgIGhvc3RuYW1lLAogICAgICAgICcvJywKICAgICAgICB3aW5kb3cubG9jYXRpb24uaGFzaAogICAgICBdLmpvaW4oJycpCiAgICApOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICdhbmd1bGFyLWh0dHAtYXV0aCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICcuL3VwZ3JhZGUtdG8tc3NsJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICdhbmd1bGFyLWFuaW1hdGUnOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICdhbmd1bGFyLXN0b3JhZ2UnOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZlbmRvcjogWwo=</text>
+        <text encoding="base64">aW1wb3J0ICdhbmd1bGFyLWh0dHAtYXV0aCc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuJGFwcGx5KCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdhbmd1bGFyLWFuaW1hdGUnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuJGFwcGx5KCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdhbmd1bGFyLXN0b3JhZ2UnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3NldHRpbmcgdXAgZW52aXJvbm1lbnQ6ICcsIE5PREVfRU5WKTsK</text>
+        <text encoding="base64">ICAgIHZlbmRvcjogWwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJwcmVhdXRvYnVpbGQiOiAicnVuLXMgc2V0LWVudiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAkc2NvcGUuJGFwcGx5KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkc2NvcGUuJGFwcGx5KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09rL1RpdGxlL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>angular-aria</last-search>
+      <last-search>reduce</last-search>
       <last-offset />
-      <last-pattern>angular-aria</last-pattern>
+      <last-pattern>reduce</last-pattern>
       <last-replace>Title</last-replace>
       <last-substitute>Ok</last-substitute>
       <last-dir>1</last-dir>
@@ -2117,7 +2124,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b2tlblJlcG9zaXRvcnlcPg==</entry>
         <entry>preau</entry>
         <entry>start</entry>
         <entry>start()</entry>
@@ -2137,6 +2143,7 @@
         <entry>set_en</entry>
         <entry>anuglar-an</entry>
         <entry>angular-aria</entry>
+        <entry>reduce</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
