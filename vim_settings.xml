@@ -1211,6 +1211,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="K:/playground/VueTodo/src/vendor.ts" timestamp="1481547983755">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/implementations/workflow-step.ts" timestamp="1475054049333">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -1357,11 +1360,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="K:/playground/VueTodo/src/app.ts" timestamp="1481544724970">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="53" />
-        <mark key="^" line="0" column="53" />
-        <mark key="." line="0" column="53" />
+      <file name="K:/playground/VueTodo/src/app.ts" timestamp="1481547898565">
+        <mark key="[" line="1" column="74" />
+        <mark key="]" line="1" column="42" />
+        <mark key="." line="1" column="42" />
+        <mark key="^" line="1" column="42" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/user-authenticator.service.ts" timestamp="1481286044359">
         <mark key="'" line="56" column="10" />
@@ -2118,52 +2121,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzaG91bGQgZmFpbCEK</text>
+        <text encoding="base64">aW1wb3J0ICcuL3RvYXN0cy5jc3MnOwo=</text>
       </register>
       <register name="-" type="4">
         <text>CheckerPlugin</text>
       </register>
       <register name="/" type="4">
-        <text>helpers</text>
+        <text>vue</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpZiAocHJvdG9jb2wucmVwbGFjZSgvOiQvLCAnJykudG9Mb3dlckNhc2UoKSA9PT0gJ2h0dHAnKSB7CiAgICBsb2coJ3VwZ3JhZGluZyB0byBzc2wuLi4nKTsKICAgIHdpbmRvdy5sb2NhdGlvbi5hc3NpZ24oCiAgICAgIFsKICAgICAgICAnaHR0cHM6Ly8nLAogICAgICAgIGhvc3RuYW1lLAogICAgICAgICcvJywKICAgICAgICB3aW5kb3cubG9jYXRpb24uaGFzaAogICAgICBdLmpvaW4oJycpCiAgICApOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzaG91bGQgZmFpbCEK</text>
+        <text encoding="base64">aW1wb3J0ICcuL3RvYXN0cy5jc3MnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ldyBDaGVja2VyUGx1Z2luKCksICAvLyBtYXkgYmUgdW5lY2Vzc2FyeSBhdCBzb21lIHBvaW50Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgYW5ndWxhciBmcm9tICdhbmd1bGFyJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7CiAgLy8gQ3VycmVudGx5IHdlIG5lZWQgdG8gYWRkICcudHMnIHRvIHRoZSByZXNvbHZlLmV4dGVuc2lvbnMgYXJyYXkuCiAgcmVzb2x2ZTogewogICAgZXh0ZW5zaW9uczogWycudHMnLCAnLnRzeCcsICcuanMnLCAnLmpzeCddCiAgfSwKCiAgLy8gU291cmNlIG1hcHMgc3VwcG9ydCAoJ2lubGluZS1zb3VyY2UtbWFwJyBhbHNvIHdvcmtzKQogIGRldnRvb2w6ICdzb3VyY2UtbWFwJywKCiAgLy8gQWRkIHRoZSBsb2FkZXIgZm9yIC50cyBmaWxlcy4KICBtb2R1bGU6IHsKICAgIGxvYWRlcnM6IFsKICAgICAgewogICAgICAgIHRlc3Q6IC9cLnRzJC8sCiAgICAgICAgbG9hZGVyOiAnYXdlc29tZS10eXBlc2NyaXB0LWxvYWRlcicKICAgICAgfQogICAgXQogIH0sCiAgcGx1Z2luczogWwogICAgbmV3IENoZWNrZXJQbHVnaW4oKQogIF0KfQo=</text>
+        <text encoding="base64">Y29uc3QgZm9vID0gJ2Jhcic7CmNvbnNvbGUubG9nKGB0aGlzIGlzIGFuIGludGVycG9sYXRlZCBzdHJpbmc6ICR7Zm9vfWApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGNsdWRlOiAvKG5vZGVfbW9kdWxlc3xib3dlcl9jb21wb25lbnRzfHNwZWNzKS8sCg==</text>
+        <text encoding="base64">ICBzaG91bGQgZmFpbCEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJhd2Vzb21lVHlwZXNjcmlwdExvYWRlck9wdGlvbnMiOiB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIG5ldyBDaGVja2VyUGx1Z2luKCksICAvLyBtYXkgYmUgdW5lY2Vzc2FyeSBhdCBzb21lIHBvaW50Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgInVzZUNhY2hlIjogdHJ1ZQo=</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7CiAgLy8gQ3VycmVudGx5IHdlIG5lZWQgdG8gYWRkICcudHMnIHRvIHRoZSByZXNvbHZlLmV4dGVuc2lvbnMgYXJyYXkuCiAgcmVzb2x2ZTogewogICAgZXh0ZW5zaW9uczogWycudHMnLCAnLnRzeCcsICcuanMnLCAnLmpzeCddCiAgfSwKCiAgLy8gU291cmNlIG1hcHMgc3VwcG9ydCAoJ2lubGluZS1zb3VyY2UtbWFwJyBhbHNvIHdvcmtzKQogIGRldnRvb2w6ICdzb3VyY2UtbWFwJywKCiAgLy8gQWRkIHRoZSBsb2FkZXIgZm9yIC50cyBmaWxlcy4KICBtb2R1bGU6IHsKICAgIGxvYWRlcnM6IFsKICAgICAgewogICAgICAgIHRlc3Q6IC9cLnRzJC8sCiAgICAgICAgbG9hZGVyOiAnYXdlc29tZS10eXBlc2NyaXB0LWxvYWRlcicKICAgICAgfQogICAgXQogIH0sCiAgcGx1Z2luczogWwogICAgbmV3IENoZWNrZXJQbHVnaW4oKQogIF0KfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgInVzZUJhYmVsIjogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICBleGNsdWRlOiAvKG5vZGVfbW9kdWxlc3xib3dlcl9jb21wb25lbnRzfHNwZWNzKS8sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBoZWxwZXJzID0gcmVxdWlyZSgnLi9oZWxwZXJzJyksCg==</text>
+        <text encoding="base64">ICAgICJhd2Vzb21lVHlwZXNjcmlwdExvYWRlck9wdGlvbnMiOiB7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
+        <text encoding="base64">ICAgICAgInVzZUNhY2hlIjogdHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09rL1RpdGxlL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>helpers</last-search>
+      <last-search>vue</last-search>
       <last-offset />
-      <last-pattern>helpers</last-pattern>
+      <last-pattern>vue</last-pattern>
       <last-replace>Title</last-replace>
       <last-substitute>Ok</last-substitute>
       <last-dir>1</last-dir>
@@ -2171,8 +2174,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfYmluZFJlcXVlc3RFcnJvckhhbmRsZXJcPg==</entry>
-        <entry>ping</entry>
         <entry>connect</entry>
         <entry encoding="base64">XDxfc3RhcnRNYXN0ZXJcPg==</entry>
         <entry encoding="base64">XDxfY29ubmVjdFw+</entry>
@@ -2191,6 +2192,8 @@
         <entry encoding="base64">XDxzY3NzXD4=</entry>
         <entry encoding="base64">XDxoZWxwZXJzXD4=</entry>
         <entry>helpers</entry>
+        <entry>vue-resource</entry>
+        <entry>vue</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
