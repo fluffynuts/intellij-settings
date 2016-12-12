@@ -45,6 +45,11 @@
         <mark key="." line="17" column="38" />
         <mark key="^" line="17" column="38" />
       </file>
+      <file name="K:/playground/VueTodo/.babelrc" timestamp="1481546688196">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/routes.config.ts" timestamp="1473774189794">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="20" />
@@ -111,11 +116,11 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
-      <file name="K:/playground/VueTodo/webpack.config.js" timestamp="1481542573615">
+      <file name="K:/playground/VueTodo/webpack.config.js" timestamp="1481545596134">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-        <mark key="^" line="1" column="0" />
+        <mark key="^" line="11" column="29" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/message-dialog/message-dialog-builder.service.ts" timestamp="1480602249579">
         <mark key="[" line="48" column="44" />
@@ -373,6 +378,12 @@
         <mark key="]" line="10" column="5" />
         <mark key="." line="8" column="5" />
         <mark key="^" line="8" column="5" />
+      </file>
+      <file name="K:/playground/VueTodo/tooling/helpers.js" timestamp="1481544253870">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="2" />
+        <mark key="^" line="10" column="2" />
+        <mark key="." line="10" column="2" />
       </file>
       <file name="K:/DeliberatePractice/angular2_todo/config/webpack.common.js" timestamp="1475504084785">
         <mark key="[" line="30" column="40" />
@@ -1346,6 +1357,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="K:/playground/VueTodo/src/app.ts" timestamp="1481544724970">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="53" />
+        <mark key="^" line="0" column="53" />
+        <mark key="." line="0" column="53" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/user-authenticator.service.ts" timestamp="1481286044359">
         <mark key="'" line="56" column="10" />
         <mark key="[" line="45" column="9" />
@@ -1571,7 +1588,7 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="K:/playground/VueTodo/tooling/webpack.development.js" timestamp="1481542635882">
+      <file name="K:/playground/VueTodo/tooling/webpack.development.js" timestamp="1481545481779">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="10" />
@@ -1818,6 +1835,12 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="K:/playground/VueTodo/tsconfig.json" timestamp="1481546506102">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/interfaces.ts" timestamp="1481295828642">
         <mark key="[" line="19" column="2" />
         <mark key="]" line="19" column="2" />
@@ -1971,12 +1994,12 @@
         <mark key="." line="11" column="28" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="K:/playground/VueTodo/tooling/webpack.common.js" timestamp="1481542695747">
-        <mark key="'" line="54" column="17" />
-        <mark key="[" line="25" column="6" />
-        <mark key="]" line="25" column="6" />
-        <mark key="^" line="25" column="5" />
-        <mark key="." line="25" column="6" />
+      <file name="K:/playground/VueTodo/tooling/webpack.common.js" timestamp="1481546465006">
+        <mark key="'" line="18" column="3" />
+        <mark key="[" line="60" column="12" />
+        <mark key="]" line="8" column="4" />
+        <mark key="^" line="8" column="4" />
+        <mark key="." line="8" column="4" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/task-overview-card/template.html" timestamp="1478006212020">
         <mark key="[" line="4" column="22" />
@@ -1992,8 +2015,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="39" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" />
-      <jump line="13" column="47" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/travel-request-details/directive.ts" />
       <jump line="46" column="6" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/capture-scope-helper.service.ts" />
       <jump line="7" column="9" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/capture-scope-helper.service.ts" />
       <jump line="52" column="18" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
@@ -2092,64 +2113,64 @@
       <jump line="4" column="13" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
       <jump line="26" column="30" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/current-workflows/directive.ts" />
       <jump line="57" column="17" filename="K:/playground/VueTodo/tooling/webpack.common.js" />
+      <jump line="6" column="23" filename="K:/playground/VueTodo/tooling/webpack.common.js" />
+      <jump line="17" column="3" filename="K:/playground/VueTodo/tooling/webpack.common.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
+        <text encoding="base64">ICBzaG91bGQgZmFpbCEK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>CheckerPlugin</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY3NzXD4=</text>
+        <text>helpers</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpZiAocHJvdG9jb2wucmVwbGFjZSgvOiQvLCAnJykudG9Mb3dlckNhc2UoKSA9PT0gJ2h0dHAnKSB7CiAgICBsb2coJ3VwZ3JhZGluZyB0byBzc2wuLi4nKTsKICAgIHdpbmRvdy5sb2NhdGlvbi5hc3NpZ24oCiAgICAgIFsKICAgICAgICAnaHR0cHM6Ly8nLAogICAgICAgIGhvc3RuYW1lLAogICAgICAgICcvJywKICAgICAgICB3aW5kb3cubG9jYXRpb24uaGFzaAogICAgICBdLmpvaW4oJycpCiAgICApOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
+        <text encoding="base64">ICBzaG91bGQgZmFpbCEK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ewogICAgICAgIHRlc3Q6IC9cLnNjc3MkLywKICAgICAgICBsb2FkZXI6IEV4dHJhY3RUZXh0UGx1Z2luLmV4dHJhY3QoWydjc3MnLCAncG9zdGNzcycsICdzYXNzJ10pCiAgICAgIH0sIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIG5ldyBDaGVja2VyUGx1Z2luKCksICAvLyBtYXkgYmUgdW5lY2Vzc2FyeSBhdCBzb21lIHBvaW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC9cLmpzJC8sCiAgICAgICAgZXhjbHVkZTogLyhub2RlX21vZHVsZXN8Ym93ZXJfY29tcG9uZW50cykvLAogICAgICAgIGxvYWRlcjogJ2JhYmVsJywKICAgICAgICBxdWVyeTogewogICAgICAgICAgcHJlc2V0czogWydlczIwMTUnLCAnc3RhZ2UtMCddLAogICAgICAgICAgcGx1Z2luczogWyd0cmFuc2Zvcm0tcnVudGltZSddCiAgICAgICAgfQo=</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7CiAgLy8gQ3VycmVudGx5IHdlIG5lZWQgdG8gYWRkICcudHMnIHRvIHRoZSByZXNvbHZlLmV4dGVuc2lvbnMgYXJyYXkuCiAgcmVzb2x2ZTogewogICAgZXh0ZW5zaW9uczogWycudHMnLCAnLnRzeCcsICcuanMnLCAnLmpzeCddCiAgfSwKCiAgLy8gU291cmNlIG1hcHMgc3VwcG9ydCAoJ2lubGluZS1zb3VyY2UtbWFwJyBhbHNvIHdvcmtzKQogIGRldnRvb2w6ICdzb3VyY2UtbWFwJywKCiAgLy8gQWRkIHRoZSBsb2FkZXIgZm9yIC50cyBmaWxlcy4KICBtb2R1bGU6IHsKICAgIGxvYWRlcnM6IFsKICAgICAgewogICAgICAgIHRlc3Q6IC9cLnRzJC8sCiAgICAgICAgbG9hZGVyOiAnYXdlc29tZS10eXBlc2NyaXB0LWxvYWRlcicKICAgICAgfQogICAgXQogIH0sCiAgcGx1Z2luczogWwogICAgbmV3IENoZWNrZXJQbHVnaW4oKQogIF0KfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyIAogIHdlYnBhY2thZwo=</text>
+        <text encoding="base64">ICAgICAgICBleGNsdWRlOiAvKG5vZGVfbW9kdWxlc3xib3dlcl9jb21wb25lbnRzfHNwZWNzKS8sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7CiAgCn07Cg==</text>
+        <text encoding="base64">ICAgICJhd2Vzb21lVHlwZXNjcmlwdExvYWRlck9wdGlvbnMiOiB7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsb2FkZXJzOgo=</text>
+        <text encoding="base64">ICAgICAgInVzZUNhY2hlIjogdHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL3VwZ3JhZGUtdG8tc3NsJzsK</text>
+        <text encoding="base64">ICAgICAgInVzZUJhYmVsIjogdHJ1ZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBoZWxwZXJzID0gcmVxdWlyZSgnLi9oZWxwZXJzJyksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cK</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09rL1RpdGxlL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzY3NzXD4=</last-search>
+      <last-search>helpers</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY3NzXD4=</last-pattern>
+      <last-pattern>helpers</last-pattern>
       <last-replace>Title</last-replace>
       <last-substitute>Ok</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>start</entry>
-        <entry>start()</entry>
         <entry encoding="base64">XDxfYmluZFJlcXVlc3RFcnJvckhhbmRsZXJcPg==</entry>
         <entry>ping</entry>
         <entry>connect</entry>
@@ -2168,6 +2189,8 @@
         <entry>angular-aria</entry>
         <entry>reduce</entry>
         <entry encoding="base64">XDxzY3NzXD4=</entry>
+        <entry encoding="base64">XDxoZWxwZXJzXD4=</entry>
+        <entry>helpers</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
