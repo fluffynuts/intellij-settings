@@ -153,12 +153,12 @@
         <mark key="." line="15" column="15" />
         <mark key="^" line="15" column="15" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/signalr-loader.service.ts" timestamp="1481522968227">
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/signalr-loader.service.ts" timestamp="1481526388629">
         <mark key="'" line="44" column="6" />
         <mark key="[" line="79" column="43" />
-        <mark key="]" line="81" column="4" />
-        <mark key="." line="81" column="4" />
-        <mark key="^" line="81" column="4" />
+        <mark key="]" line="53" column="8" />
+        <mark key="." line="53" column="8" />
+        <mark key="^" line="53" column="8" />
       </file>
       <file name="K:/DeliberatePractice/ts-tenpin/package.json" timestamp="1472821069650">
         <mark key="[" line="7" column="5" />
@@ -1134,8 +1134,8 @@
         <mark key="." line="16" column="20" />
         <mark key="^" line="16" column="20" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" timestamp="1481526012223">
-        <mark key="'" line="14" column="0" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" timestamp="1481526397125">
+        <mark key="'" line="63" column="38" />
         <mark key="[" line="16" column="34" />
         <mark key="]" line="17" column="17" />
         <mark key="." line="17" column="17" />
@@ -1947,7 +1947,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="13" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="157" column="13" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="186" column="11" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="70" column="13" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
@@ -2047,6 +2046,7 @@
       <jump line="114" column="13" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="94" column="30" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="14" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
+      <jump line="63" column="38" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2056,7 +2056,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>5000</text>
+        <text>_notificationsHub =</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkbG9nLmRlYnVnKGAke3BhdGh9IGFwcGVhcnMgdG8gYmUgbG9hZGVkLi4uYCkK</text>
@@ -2093,9 +2093,9 @@
       </register>
     </registers>
     <search>
-      <last-search>5000</last-search>
+      <last-search>_notificationsHub =</last-search>
       <last-offset />
-      <last-pattern>5000</last-pattern>
+      <last-pattern>_notificationsHub =</last-pattern>
       <last-replace>Title</last-replace>
       <last-substitute>Ok</last-substitute>
       <last-dir>1</last-dir>
@@ -2103,7 +2103,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logindialogco</entry>
         <entry>contr</entry>
         <entry encoding="base64">XDxwb3N0XD4=</entry>
         <entry>route</entry>
@@ -2123,6 +2122,7 @@
         <entry encoding="base64">XDxfd2F0Y2hcPg==</entry>
         <entry>long</entry>
         <entry>5000</entry>
+        <entry>_notificationsHub =</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
