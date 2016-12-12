@@ -492,6 +492,13 @@
         <mark key="." line="9" column="32" />
         <mark key="^" line="9" column="32" />
       </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/upgrade-to-ssl.ts" timestamp="1481533347631">
+        <mark key="'" line="14" column="11" />
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+        <mark key="^" line="13" column="15" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/abstract-state-route.config.ts" timestamp="1473775879728">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="7" column="7" />
@@ -693,11 +700,11 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/set_env.js" timestamp="1480930010521">
-        <mark key="[" line="13" column="61" />
-        <mark key="]" line="11" column="32" />
-        <mark key="." line="11" column="32" />
-        <mark key="^" line="11" column="32" />
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/set_env.js" timestamp="1481532723926">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="12" />
+        <mark key="." line="25" column="12" />
+        <mark key="^" line="25" column="12" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/cancel/directive.ts" timestamp="1479375691287">
         <mark key="[" line="6" column="72" />
@@ -764,12 +771,6 @@
         <mark key="]" line="1" column="85" />
         <mark key="^" line="1" column="85" />
         <mark key="." line="1" column="85" />
-      </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/index.html" timestamp="1481530682029">
-        <mark key="[" line="14" column="33" />
-        <mark key="]" line="8" column="36" />
-        <mark key="." line="8" column="36" />
-        <mark key="^" line="8" column="36" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/approve-travel-request/directive.ts" timestamp="1480493189252">
         <mark key="[" line="2" column="10" />
@@ -1176,6 +1177,11 @@
         <mark key="]" line="9" column="11" />
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
+      </file>
+      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/app.ts" timestamp="1481533128820">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/implementations/workflow-step.ts" timestamp="1475054049333">
         <mark key="[" line="18" column="0" />
@@ -1947,7 +1953,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="13" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="200" column="10" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="115" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="104" column="13" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
@@ -2047,10 +2052,11 @@
       <jump line="63" column="38" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="25" column="5" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
       <jump line="24" column="17" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
+      <jump line="14" column="11" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/upgrade-to-ssl.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhciBsb2cgPSBjb25zb2xlICYmIGNvbnNvbGUubG9nID8gY29uc29sZS5sb2cgOiBmdW5jdGlvbiAoKSB7fTsKICAgIGxvZygnQXR0ZW1wdGluZyB0byBsb2FkIEpRdWVyeS9TaWduYWxSIGZyb20gY3VycmVudCBob3N0LiBUaGlzIG1heSBmYWlsIGluIGRldmVsb3BtZW50IHdoZW4gcnVubmluZyB0aGUgd2Via2l0LWRldmVsb3BtZW50LXNlcnZlcicpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -2062,31 +2068,31 @@
         <text encoding="base64">ICAgICAgICAkbG9nLmRlYnVnKGAke3BhdGh9IGFwcGVhcnMgdG8gYmUgbG9hZGVkLi4uYCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBsb2cgPSBjb25zb2xlICYmIGNvbnNvbGUubG9nID8gY29uc29sZS5sb2cgOiBmdW5jdGlvbiAoKSB7fTsKICAgIGxvZygnQXR0ZW1wdGluZyB0byBsb2FkIEpRdWVyeS9TaWduYWxSIGZyb20gY3VycmVudCBob3N0LiBUaGlzIG1heSBmYWlsIGluIGRldmVsb3BtZW50IHdoZW4gcnVubmluZyB0aGUgd2Via2l0LWRldmVsb3BtZW50LXNlcnZlcicpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZygnQ29tcGxldGVkIGF0dGVtcHRzIHRvIGxvYWQgSlF1ZXJ5L1NpZ25hbFIgZnJvbSBjdXJyZW50IGhvc3QuIERvblwndCB3b3JyeSBhYm91dCBlcnJvcnMgLSB0aGVyZSBpcyBhIGxhdGUgbG9hZGVyIHdoaWNoIHdpbGwgCg==</text>
+        <text encoding="base64">ICAgIGlmIChjb25zb2xlICYmIGNvbnNvbGUubG9nKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGxvZyhtZXNzYWdlKSB7CiAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBsb2cobWVzc2FnZSkgewogICAgaWYgKCFjb25zb2xlIHx8ICFjb25zb2xlLmxvZwogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJwcmVyZWxlYXN0IjogIgo=</text>
+        <text encoding="base64">ICAgIGNvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY3VycmVudEtleXMgPSBfLmtleXMod2luLiQuY29ubmVjdGlvbik7CiAgICAgIGNvbnN0IG5ld0tleXMgPSBjdXJyZW50S2V5cy5yZWR1Y2UoKGFjYywgY3VyKSA9PiB7CiAgICAgICAgaWYgKGNvbm5lY3Rpb25LZXlzLmluZGV4T2YoY3VyKSA9PT0gLTEpIHsKICAgICAgICAgIGFjYy5wdXNoKGN1cik7CiAgICAgICAgfQogICAgICAgIHJldHVybiBhY2M7CiAgICAgIH0sIFtdKTsKICAgICAgcmV0dXJuICEhKG5ld0tleXMubGVuZ3RoKTsK</text>
+        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIF9maXJzdFBpbmcgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICBpZiAod2luZG93LmxvY2F0aW9uLnByb3RvY29sCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE86IGRlYm91bmNlIHJlcXVlc3QgLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBleGlzdHMgPSB3b3IK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09rL1RpdGxlL2c=</text>
