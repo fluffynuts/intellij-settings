@@ -111,6 +111,12 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
+      <file name="K:/playground/VueTodo/webpack.config.js" timestamp="1481542573615">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/message-dialog/message-dialog-builder.service.ts" timestamp="1480602249579">
         <mark key="[" line="48" column="44" />
         <mark key="]" line="56" column="39" />
@@ -700,6 +706,11 @@
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
+      </file>
+      <file name="K:/playground/VueTodo/package.json" timestamp="1481542877719">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/set_env.js" timestamp="1481532723926">
         <mark key="[" line="25" column="13" />
@@ -1560,6 +1571,12 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="K:/playground/VueTodo/tooling/webpack.development.js" timestamp="1481542635882">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="K:/DeliberatePractice/angular2_todo/tsconfig.json" timestamp="1475498950261">
         <mark key="[" line="10" column="11" />
         <mark key="]" line="10" column="11" />
@@ -1954,6 +1971,13 @@
         <mark key="." line="11" column="28" />
         <mark key="^" line="11" column="28" />
       </file>
+      <file name="K:/playground/VueTodo/tooling/webpack.common.js" timestamp="1481542695747">
+        <mark key="'" line="54" column="17" />
+        <mark key="[" line="25" column="6" />
+        <mark key="]" line="25" column="6" />
+        <mark key="^" line="25" column="5" />
+        <mark key="." line="25" column="6" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/task-overview-card/template.html" timestamp="1478006212020">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="26" />
@@ -1968,7 +1992,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="13" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/bootstrap/material-theme.config.ts" />
       <jump line="93" column="39" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/workflows.service.ts" />
       <jump line="13" column="47" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/travel-request-details/directive.ts" />
       <jump line="46" column="6" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/capture-scope-helper.service.ts" />
@@ -2068,63 +2091,63 @@
       <jump line="9" column="27" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
       <jump line="4" column="13" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
       <jump line="26" column="30" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/current-workflows/directive.ts" />
+      <jump line="57" column="17" filename="K:/playground/VueTodo/tooling/webpack.common.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL3VwZ3JhZGUtdG8tc3NsJzsK</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>reduce</text>
+        <text encoding="base64">XDxzY3NzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpZiAocHJvdG9jb2wucmVwbGFjZSgvOiQvLCAnJykudG9Mb3dlckNhc2UoKSA9PT0gJ2h0dHAnKSB7CiAgICBsb2coJ3VwZ3JhZGluZyB0byBzc2wuLi4nKTsKICAgIHdpbmRvdy5sb2NhdGlvbi5hc3NpZ24oCiAgICAgIFsKICAgICAgICAnaHR0cHM6Ly8nLAogICAgICAgIGhvc3RuYW1lLAogICAgICAgICcvJywKICAgICAgICB3aW5kb3cubG9jYXRpb24uaGFzaAogICAgICBdLmpvaW4oJycpCiAgICApOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL3VwZ3JhZGUtdG8tc3NsJzsK</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ewogICAgICAgIHRlc3Q6IC9cLnNjc3MkLywKICAgICAgICBsb2FkZXI6IEV4dHJhY3RUZXh0UGx1Z2luLmV4dHJhY3QoWydjc3MnLCAncG9zdGNzcycsICdzYXNzJ10pCiAgICAgIH0sIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cK</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC9cLmpzJC8sCiAgICAgICAgZXhjbHVkZTogLyhub2RlX21vZHVsZXN8Ym93ZXJfY29tcG9uZW50cykvLAogICAgICAgIGxvYWRlcjogJ2JhYmVsJywKICAgICAgICBxdWVyeTogewogICAgICAgICAgcHJlc2V0czogWydlczIwMTUnLCAnc3RhZ2UtMCddLAogICAgICAgICAgcGx1Z2luczogWyd0cmFuc2Zvcm0tcnVudGltZSddCiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICdhbmd1bGFyLWh0dHAtYXV0aCc7Cg==</text>
+        <text encoding="base64">dmFyIAogIHdlYnBhY2thZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICdhbmd1bGFyLWFuaW1hdGUnOwo=</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7CiAgCn07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICdhbmd1bGFyLXN0b3JhZ2UnOwo=</text>
+        <text encoding="base64">ICBsb2FkZXJzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZlbmRvcjogWwo=</text>
+        <text encoding="base64">aW1wb3J0ICcuL3VwZ3JhZGUtdG8tc3NsJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuJGFwcGx5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuJGFwcGx5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09rL1RpdGxlL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>reduce</last-search>
+      <last-search encoding="base64">XDxzY3NzXD4=</last-search>
       <last-offset />
-      <last-pattern>reduce</last-pattern>
+      <last-pattern encoding="base64">XDxzY3NzXD4=</last-pattern>
       <last-replace>Title</last-replace>
       <last-substitute>Ok</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>preau</entry>
         <entry>start</entry>
         <entry>start()</entry>
         <entry encoding="base64">XDxfYmluZFJlcXVlc3RFcnJvckhhbmRsZXJcPg==</entry>
@@ -2144,6 +2167,7 @@
         <entry>anuglar-an</entry>
         <entry>angular-aria</entry>
         <entry>reduce</entry>
+        <entry encoding="base64">XDxzY3NzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
