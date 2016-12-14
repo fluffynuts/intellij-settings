@@ -718,10 +718,11 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="K:/playground/VueTodo/package.json" timestamp="1481542877719">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="K:/playground/VueTodo/package.json" timestamp="1481708711361">
+        <mark key="[" line="9" column="84" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="3" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/set_env.js" timestamp="1481532723926">
         <mark key="[" line="25" column="13" />
@@ -746,6 +747,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="K:/playground/VueTodo/src/utils/env.ts" timestamp="1481708617729">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="44" />
+        <mark key="^" line="1" column="44" />
+        <mark key="." line="1" column="44" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/factories/auth-interceptor.factory.ts" timestamp="1473778491023">
         <mark key="[" line="33" column="30" />
@@ -824,6 +831,11 @@
         <mark key="]" line="17" column="61" />
         <mark key="." line="17" column="61" />
         <mark key="^" line="17" column="61" />
+      </file>
+      <file name="K:/playground/VueTodo/src/utils/index.ts" timestamp="1481708381957">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/config/webpack.common.js" timestamp="1473756107365">
         <mark key="[" line="40" column="17" />
@@ -938,6 +950,12 @@
         <mark key="]" line="1" column="35" />
         <mark key="^" line="1" column="35" />
         <mark key="." line="1" column="35" />
+      </file>
+      <file name="K:/playground/VueTodo/src/utils/log.ts" timestamp="1481708425922">
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="22" column="23" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="22" column="23" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflow-instances/route.config.ts" timestamp="1474891103546">
         <mark key="[" line="14" column="39" />
@@ -1132,12 +1150,6 @@
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
         <mark key="^" line="14" column="2" />
-      </file>
-      <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/webpack.common.js" timestamp="1481534764448">
-        <mark key="'" line="52" column="19" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/accept-quote/directive.ts" timestamp="1480329942285">
         <mark key="[" line="3" column="10" />
@@ -1705,6 +1717,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="5" />
       </file>
+      <file name="K:/playground/VueTodo/src/utils/context.ts" timestamp="1481548034981">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/auth-test/directive.ts" timestamp="1473751408403">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="24" />
@@ -1984,6 +1999,12 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
+      <file name="K:/playground/VueTodo/tooling/set-env.ts" timestamp="1481708602948">
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="29" column="25" />
+        <mark key="." line="29" column="25" />
+        <mark key="^" line="29" column="25" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" timestamp="1481286303016">
         <mark key="'" line="25" column="22" />
         <mark key="[" line="3" column="0" />
@@ -1997,12 +2018,12 @@
         <mark key="." line="11" column="28" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="K:/playground/VueTodo/tooling/webpack.common.js" timestamp="1481546465006">
+      <file name="K:/playground/VueTodo/tooling/webpack.common.js" timestamp="1481708690057">
         <mark key="'" line="18" column="3" />
-        <mark key="[" line="60" column="12" />
-        <mark key="]" line="8" column="4" />
-        <mark key="^" line="8" column="4" />
-        <mark key="." line="8" column="4" />
+        <mark key="[" line="62" column="35" />
+        <mark key="]" line="64" column="4" />
+        <mark key="^" line="64" column="4" />
+        <mark key="." line="64" column="4" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/task-overview-card/template.html" timestamp="1478006212020">
         <mark key="[" line="4" column="22" />
@@ -2018,7 +2039,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="6" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/capture-scope-helper.service.ts" />
       <jump line="7" column="9" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/capture-scope-helper.service.ts" />
       <jump line="52" column="18" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
       <jump line="3" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/message-dialog/message-dialog-builder.interfaces.ts" />
@@ -2118,55 +2138,56 @@
       <jump line="57" column="17" filename="K:/playground/VueTodo/tooling/webpack.common.js" />
       <jump line="6" column="23" filename="K:/playground/VueTodo/tooling/webpack.common.js" />
       <jump line="17" column="3" filename="K:/playground/VueTodo/tooling/webpack.common.js" />
+      <jump line="0" column="0" filename="K:/playground/VueTodo/src/utils/context.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL3RvYXN0cy5jc3MnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>CheckerPlugin</text>
       </register>
       <register name="/" type="4">
-        <text>vue</text>
+        <text>require</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpZiAocHJvdG9jb2wucmVwbGFjZSgvOiQvLCAnJykudG9Mb3dlckNhc2UoKSA9PT0gJ2h0dHAnKSB7CiAgICBsb2coJ3VwZ3JhZGluZyB0byBzc2wuLi4nKTsKICAgIHdpbmRvdy5sb2NhdGlvbi5hc3NpZ24oCiAgICAgIFsKICAgICAgICAnaHR0cHM6Ly8nLAogICAgICAgIGhvc3RuYW1lLAogICAgICAgICcvJywKICAgICAgICB3aW5kb3cubG9jYXRpb24uaGFzaAogICAgICBdLmpvaW4oJycpCiAgICApOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL3RvYXN0cy5jc3MnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgYW5ndWxhciBmcm9tICdhbmd1bGFyJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZm9vID0gJ2Jhcic7CmNvbnNvbGUubG9nKGB0aGlzIGlzIGFuIGludGVycG9sYXRlZCBzdHJpbmc6ICR7Zm9vfWApOwo=</text>
+        <text encoding="base64">ICAgICIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzaG91bGQgZmFpbCEK</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9uYXZpZ2F0aW9uLXJlZ2lzdHJhcic7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5ldyBDaGVja2VyUGx1Z2luKCksICAvLyBtYXkgYmUgdW5lY2Vzc2FyeSBhdCBzb21lIHBvaW50Cg==</text>
+        <text encoding="base64">aW1wb3J0ICcuL3RvYXN0cy5jc3MnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7CiAgLy8gQ3VycmVudGx5IHdlIG5lZWQgdG8gYWRkICcudHMnIHRvIHRoZSByZXNvbHZlLmV4dGVuc2lvbnMgYXJyYXkuCiAgcmVzb2x2ZTogewogICAgZXh0ZW5zaW9uczogWycudHMnLCAnLnRzeCcsICcuanMnLCAnLmpzeCddCiAgfSwKCiAgLy8gU291cmNlIG1hcHMgc3VwcG9ydCAoJ2lubGluZS1zb3VyY2UtbWFwJyBhbHNvIHdvcmtzKQogIGRldnRvb2w6ICdzb3VyY2UtbWFwJywKCiAgLy8gQWRkIHRoZSBsb2FkZXIgZm9yIC50cyBmaWxlcy4KICBtb2R1bGU6IHsKICAgIGxvYWRlcnM6IFsKICAgICAgewogICAgICAgIHRlc3Q6IC9cLnRzJC8sCiAgICAgICAgbG9hZGVyOiAnYXdlc29tZS10eXBlc2NyaXB0LWxvYWRlcicKICAgICAgfQogICAgXQogIH0sCiAgcGx1Z2luczogWwogICAgbmV3IENoZWNrZXJQbHVnaW4oKQogIF0KfQo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgYW5ndWxhciBmcm9tICdhbmd1bGFyJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGNsdWRlOiAvKG5vZGVfbW9kdWxlc3xib3dlcl9jb21wb25lbnRzfHNwZWNzKS8sCg==</text>
+        <text encoding="base64">Y29uc3QgZm9vID0gJ2Jhcic7CmNvbnNvbGUubG9nKGB0aGlzIGlzIGFuIGludGVycG9sYXRlZCBzdHJpbmc6ICR7Zm9vfWApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJhd2Vzb21lVHlwZXNjcmlwdExvYWRlck9wdGlvbnMiOiB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICBzaG91bGQgZmFpbCEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgInVzZUNhY2hlIjogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIG5ldyBDaGVja2VyUGx1Z2luKCksICAvLyBtYXkgYmUgdW5lY2Vzc2FyeSBhdCBzb21lIHBvaW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09rL1RpdGxlL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>vue</last-search>
+      <last-search>require</last-search>
       <last-offset />
-      <last-pattern>vue</last-pattern>
+      <last-pattern>require</last-pattern>
       <last-replace>Title</last-replace>
       <last-substitute>Ok</last-substitute>
       <last-dir>1</last-dir>
@@ -2174,7 +2195,6 @@
     </search>
     <history>
       <history-search>
-        <entry>connect</entry>
         <entry encoding="base64">XDxfc3RhcnRNYXN0ZXJcPg==</entry>
         <entry encoding="base64">XDxfY29ubmVjdFw+</entry>
         <entry>no rep</entry>
@@ -2194,6 +2214,7 @@
         <entry>helpers</entry>
         <entry>vue-resource</entry>
         <entry>vue</entry>
+        <entry>require</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
