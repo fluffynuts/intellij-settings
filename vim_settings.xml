@@ -1215,12 +1215,12 @@
         <mark key="^" line="9" column="42" />
         <mark key="." line="9" column="41" />
       </file>
-      <file name="K:/DeliberatePractice/electron/weather/src/index.ts" timestamp="1484318575622">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="14" />
-        <mark key="^" line="5" column="14" />
-        <mark key="." line="5" column="14" />
+      <file name="K:/DeliberatePractice/electron/weather/src/index.ts" timestamp="1484561398502">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data.ts" timestamp="1474533375160">
         <mark key="[" line="29" column="0" />
@@ -1725,6 +1725,12 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="43" />
       </file>
+      <file name="K:/DeliberatePractice/electron/weather/src/app.ts" timestamp="1484561433036">
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="28" />
+        <mark key="^" line="17" column="28" />
+      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/auth-test-ui/route.config.ts" timestamp="1478263195240">
         <mark key="[" line="0" column="51" />
         <mark key="]" line="0" column="0" />
@@ -2040,11 +2046,11 @@
       <jump line="23" column="0" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>commonjs</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlTWFpbldpbmRvdygpIHsKICBtYWluV2luZG93ID0gbmV3IE1haW5XaW5kb3coKTsKCn0K</text>
       </register>
       <register name="-" type="4">
-        <text>commonjs</text>
+        <text>createMainWindow</text>
       </register>
       <register name="/" type="4">
         <text>import</text>
@@ -2053,31 +2059,31 @@
         <text encoding="base64">ICAgICAgICAgIHsgdGV4dDogJ2NhdGNoIGZpc2gnIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLm9wdGltaXplLkNvbW1vbnNDaHVua1BsdWdpbih7CiAgICAgIG5hbWU6IFsnaW5kZXgnXQogICAgfSksCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlTWFpbldpbmRvdygpIHsKICBtYWluV2luZG93ID0gbmV3IE1haW5XaW5kb3coKTsKCn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJhdXRvc3RhcnQiOiAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJwcmVzdGFydCI6ICJydW4tcyBidW5kbGUiLAo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2VudGVyaW5nIGluZGV4Li4uJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtYWluV2luZG93ID0gbmV3IEJyb3dzZXJXaW5kb3coewogICAgd2lkdGg6IDgwMCwKICAgIGhlaWdodDogNjAwCiAgfSk7CgogIG1haW5XaW5kb3cubG9hZFVSTCh1cmwuZm9ybWF0KHsKICAgIHBhdGhuYW1lOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnaW5kZXguaHRtbCcpLAogICAgcHJvdG9jb2w6ICdmaWxlOicsCiAgICBzbGFzaGVzOiB0cnVlCiAgfSkpOwoKICBtYWluV2luZG93Lm9uKCdjbG9zZWQnLCAoKSA9PiB7CiAgICBtYWluV2luZG93ID0gbnVsbDsKICB9KTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuX3dpbmRvdyA9IG5ldyBCcm93c2VyV2luZG93KHsKICAgICAgd2lkdGg6IDgwMCwKICAgICAgaGVpZ2h0OiA2MDAKICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhdGhuYW1lOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnc3JjCg==</text>
+        <text encoding="base64">ICBpZiAoIW1haW5XaW5kb3cpIHsKICAgIGNyZWF0ZU1haW5XaW5kb3coKTsKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lOiAnLi9hcHAvaW5kZXguanMnCg==</text>
+        <text encoding="base64">ICBtYWluV2luZG93Lm9uKCdjbG9zZWQnLCAoKSA9PiB7CiAgICBtYWluV2luZG93ID0gbnVsbDsKICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnaXRlbVRleHQnLAogICAgICAgICdzdG9yZScK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgcGF0aCBmcm9tICdwYXRoJzsKaW1wb3J0ICogYXMgdXJsIGZyb20gJ3VybCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRJdGVtOiAnJywKICAgIGl0ZW1zOiBbCiAgICAgIHsgdGV4dDogJ2NhdGNoIGZpc2gnIH0sCiAgICAgIHsgdGV4dDogJ2VhdCBmaXNoJyB9LAogICAgICB7IHRleHQ6ICdoYXZlIGZpc2h5IGJ1cnBzJyB9CiAgICBdLAo=</text>
+        <text encoding="base64">ICBtYWluV2luZG93LmxvYWRVUkwodXJsLmZvcm1hdCh7CiAgICBwYXRobmFtZTogcGF0aC5qb2luKF9fZGlybmFtZSwgJ2luZGV4Lmh0bWwnKSwKICAgIHByb3RvY29sOiAnZmlsZTonLAogICAgc2xhc2hlczogdHJ1ZQogIH0pKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09rL1RpdGxlL2c=</text>
