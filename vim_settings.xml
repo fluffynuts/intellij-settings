@@ -21,7 +21,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1484563440766">
+      <file name="/a.dummy" timestamp="1484567464632">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="0" />
@@ -758,11 +758,11 @@
         <mark key="." line="17" column="2" />
         <mark key="^" line="17" column="2" />
       </file>
-      <file name="K:/DeliberatePractice/electron/weather/src/webpack-angular-autobootstrap.ts" timestamp="1484563439328">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="5" column="34" />
+      <file name="K:/DeliberatePractice/electron/weather/src/webpack-angular-autobootstrap.ts" timestamp="1484569617272">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+        <mark key="^" line="5" column="6" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/implementations/WorkflowFetcher.ts" timestamp="1474547810429">
         <mark key="[" line="2" column="0" />
@@ -1138,9 +1138,6 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="K:/DeliberatePractice/electron/weather/app/index.js" timestamp="1484563417232">
-        <mark key="'" line="99" column="13" />
-      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/route.config.ts" timestamp="1478770529448">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="15" column="54" />
@@ -1242,11 +1239,18 @@
         <mark key="^" line="9" column="42" />
         <mark key="." line="9" column="41" />
       </file>
-      <file name="K:/DeliberatePractice/electron/weather/src/index.ts" timestamp="1484562867275">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="K:/DeliberatePractice/electron/weather/src/index.ts" timestamp="1484570050125">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="K:/DeliberatePractice/electron/weather/index.html" timestamp="1484569942877">
+        <mark key="[" line="4" column="58" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/services/workflows/fake-data.ts" timestamp="1474533375160">
         <mark key="[" line="29" column="0" />
@@ -1308,12 +1312,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="K:/DeliberatePractice/electron/weather/package.json" timestamp="1484317576397">
-        <mark key="'" line="26" column="13" />
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="8" column="28" />
-        <mark key="." line="8" column="28" />
-        <mark key="^" line="8" column="28" />
+      <file name="K:/DeliberatePractice/electron/weather/package.json" timestamp="1484567929265">
+        <mark key="'" line="9" column="9" />
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="32" />
+        <mark key="." line="11" column="32" />
+        <mark key="^" line="11" column="32" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/index.production.html" timestamp="1481537251974">
         <mark key="[" line="5" column="33" />
@@ -1525,10 +1529,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="K:/DeliberatePractice/electron/weather/src/main-window.ts" timestamp="1484562355264">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="K:/DeliberatePractice/electron/weather/src/main-window.ts" timestamp="1484570708249">
+        <mark key="[" line="37" column="40" />
+        <mark key="]" line="37" column="29" />
+        <mark key="." line="37" column="29" />
+        <mark key="^" line="37" column="29" />
       </file>
       <file name="K:/playground/VueTodo/src/components/todo-list/template.html" timestamp="1481722921812">
         <mark key="[" line="0" column="3" />
@@ -1548,10 +1553,11 @@
         <mark key="." line="32" column="51" />
         <mark key="^" line="32" column="51" />
       </file>
-      <file name="K:/DeliberatePractice/electron/weather/src/index.html" timestamp="1484562325559">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="K:/DeliberatePractice/electron/weather/src/index.html" timestamp="1484570168699">
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="18" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/add-comment/directive.ts" timestamp="1480403933972">
         <mark key="[" line="4" column="57" />
@@ -1565,11 +1571,11 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="K:/DeliberatePractice/electron/weather/webpack.config.js" timestamp="1484563152410">
-        <mark key="[" line="13" column="6" />
-        <mark key="]" line="13" column="4" />
-        <mark key="." line="13" column="4" />
-        <mark key="^" line="13" column="4" />
+      <file name="K:/DeliberatePractice/electron/weather/webpack.config.js" timestamp="1484569271976">
+        <mark key="[" line="63" column="12" />
+        <mark key="]" line="65" column="14" />
+        <mark key="." line="65" column="14" />
+        <mark key="^" line="65" column="14" />
       </file>
       <file name="K:/playground/VueTodo/tooling/webpack.development.js" timestamp="1481545481779">
         <mark key="[" line="1" column="0" />
@@ -1977,32 +1983,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="40" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
-      <jump line="29" column="44" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/create-confirmation-directive.service.ts" />
-      <jump line="17" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/travel-requests/reject-accepted-travel-quote/directive.ts" />
-      <jump line="9" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/secondary-action-menu/directive.ts" />
-      <jump line="72" column="8" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/webpack.common.js" />
-      <jump line="4" column="34" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/webpack.common.js" />
-      <jump line="28" column="19" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/webpack.common.js" />
-      <jump line="52" column="19" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/webpack.common.js" />
-      <jump line="1" column="13" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/conf/index.ts" />
-      <jump line="27" column="23" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
-      <jump line="33" column="34" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
-      <jump line="41" column="9" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
-      <jump line="1" column="18" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
-      <jump line="47" column="6" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/change-password/change-password.service.ts" />
-      <jump line="50" column="15" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/change-password/change-password.service.ts" />
-      <jump line="14" column="27" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/change-password/change-password.service.ts" />
-      <jump line="21" column="3" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/change-password/change-password.service.ts" />
-      <jump line="6" column="0" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/app.ts" />
-      <jump line="31" column="8" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/app.ts" />
-      <jump line="44" column="14" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/node_modules/@types/angular-ui-router/index.d.ts" />
-      <jump line="15" column="14" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
-      <jump line="7" column="14" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
-      <jump line="54" column="10" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/user-authenticator.service.ts" />
-      <jump line="18" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
-      <jump line="25" column="22" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/login/login.service.ts" />
-      <jump line="10" column="16" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/package.json" />
       <jump line="134" column="48" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="91" column="27" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="54" column="45" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
@@ -2077,55 +2057,85 @@
       <jump line="94" column="13" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
       <jump line="96" column="21" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
       <jump line="99" column="13" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="283" column="25" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="6948" column="38" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="6955" column="33" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="6961" column="36" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="7043" column="69" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="7046" column="68" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="8184" column="39" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="8860" column="29" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="8899" column="18" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="8901" column="100" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="10202" column="34" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="11840" column="73" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="11866" column="35" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="18630" column="11" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="25748" column="34" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="27467" column="95" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="27501" column="57" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="27502" column="57" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="27555" column="34" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="27559" column="34" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="31889" column="38" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="6" column="25" filename="K:/DeliberatePractice/electron/weather/package.json" />
+      <jump line="8" column="12" filename="K:/DeliberatePractice/electron/weather/package.json" />
+      <jump line="9" column="9" filename="K:/DeliberatePractice/electron/weather/package.json" />
+      <jump line="1835" column="35" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
+      <jump line="186" column="34" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGluZGV4OiBbCiAgICAgICcuL3NyYy9pbmRleC50cycKICAgIF0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>webpackRequire</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>app</text>
+        <text>bundle</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHsgdGV4dDogJ2NhdGNoIGZpc2gnIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGluZGV4OiBbCiAgICAgICcuL3NyYy9pbmRleC50cycKICAgIF0sCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2FkaW5nOiAnICsgaW5kZXhQYXRoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3ZWJwYWNrUmVxdWlyZTogYW55ID0gcmVxdWlyZSwK</text>
+        <text encoding="base64">ICAgIGNvbnNsCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW0K</text>
+      <register name="3" type="4">
+        <text>url.format({
+      pathname: indexPath,
+      protocol: 'file:',
+      slashes: true
+    })</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2luaXQgY29tcGxldGU7IHdhaXRpbmcgZm9yIGFwcCBldmVudHMnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgCg==</text>
+        <text encoding="base64">ICAgIDwhLS0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8cD5IZWxsbyB0aGFyITwvcD4K</text>
+        <text encoding="base64">ICAgIC0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIuL2FwcC9pbmRleC5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJy4vc3JjL3ZlbmRvci50cycK</text>
+        <text encoding="base64">ICByZXF1aXJlKCcuL3dlYnBhY2stYW5ndWxhci1hdXRvYm9vdHN0cmFwJykuZGVmYXVsdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlTWFpbldpbmRvdygpIHsKICBtYWluV2luZG93ID0gbmV3IE1haW5XaW5kb3coKTsKCn0K</text>
+        <text encoding="base64">ICByZXF1aXJlKCcuL3dlYnBhY2stYW5ndWxhci1hdXRvYm9vdHN0cmFwJykuZGVmYXVsdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09rL1RpdGxlL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>app</last-search>
+      <last-search>bundle</last-search>
       <last-offset />
-      <last-pattern>app</last-pattern>
+      <last-pattern>bundle</last-pattern>
       <last-replace>Title</last-replace>
       <last-substitute>Ok</last-substitute>
       <last-dir>1</last-dir>
@@ -2133,8 +2143,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWxlYXNlXD4=</entry>
-        <entry>build-and</entry>
         <entry>quick</entry>
         <entry>set_en</entry>
         <entry>anuglar-an</entry>
@@ -2153,6 +2161,8 @@
         <entry encoding="base64">XDx3ZWJwYWNrUmVxdWlyZVw+</entry>
         <entry>requireG</entry>
         <entry>app</entry>
+        <entry>html'</entry>
+        <entry>bundle</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
