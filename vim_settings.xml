@@ -1239,12 +1239,11 @@
         <mark key="^" line="9" column="42" />
         <mark key="." line="9" column="41" />
       </file>
-      <file name="K:/DeliberatePractice/electron/weather/src/index.ts" timestamp="1484573255599">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="10" />
-        <mark key="^" line="6" column="10" />
+      <file name="K:/DeliberatePractice/electron/weather/src/index.ts" timestamp="1484573449310">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="K:/DeliberatePractice/electron/weather/index.html" timestamp="1484569942877">
         <mark key="[" line="4" column="58" />
@@ -1529,11 +1528,10 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="K:/DeliberatePractice/electron/weather/src/main-window.ts" timestamp="1484572394220">
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="31" column="57" />
-        <mark key="." line="31" column="57" />
-        <mark key="^" line="31" column="57" />
+      <file name="K:/DeliberatePractice/electron/weather/src/main-window.ts" timestamp="1484573604534">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="K:/playground/VueTodo/src/components/todo-list/template.html" timestamp="1481722921812">
         <mark key="[" line="0" column="3" />
@@ -1570,11 +1568,11 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="K:/DeliberatePractice/electron/weather/webpack.config.js" timestamp="1484569271976">
-        <mark key="[" line="63" column="12" />
-        <mark key="]" line="65" column="14" />
-        <mark key="." line="65" column="14" />
-        <mark key="^" line="65" column="14" />
+      <file name="K:/DeliberatePractice/electron/weather/webpack.config.js" timestamp="1484573730668">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+        <mark key="^" line="13" column="22" />
       </file>
       <file name="K:/playground/VueTodo/tooling/webpack.development.js" timestamp="1481545481779">
         <mark key="[" line="1" column="0" />
@@ -1763,11 +1761,11 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="K:/DeliberatePractice/electron/weather/src/app.ts" timestamp="1484561478881">
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="17" column="28" />
-        <mark key="^" line="17" column="28" />
+      <file name="K:/DeliberatePractice/electron/weather/src/app.ts" timestamp="1484573679773">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="28" />
+        <mark key="." line="18" column="28" />
+        <mark key="^" line="18" column="28" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/auth-test-ui/route.config.ts" timestamp="1478263195240">
         <mark key="[" line="0" column="51" />
@@ -2085,43 +2083,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KGUud2hpY2gpOwo=</text>
+        <text encoding="base64">ICAgIC8vIGRlYnVnZ2VyOwogICAgLy8gcmVxdWlyZSgnLi93ZWJwYWNrLWFuZ3VsYXItYXV0b2Jvb3RzdHJhcCcpLmRlZmF1bHQoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>bundle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFwcFBhdGggPSBhcHAuZ2V0QXBwUGF0aCgpOwogICAgY29uc29sZS5sb2coYXBwUGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIHJlcXVpcmUoJy4vd2VicGFjay1hbmd1bGFyLWF1dG9ib290c3RyYXAnKS5kZWZhdWx0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KGUud2hpY2gpOwo=</text>
+        <text encoding="base64">ICAgIC8vIGRlYnVnZ2VyOwogICAgLy8gcmVxdWlyZSgnLi93ZWJwYWNrLWFuZ3VsYXItYXV0b2Jvb3RzdHJhcCcpLmRlZmF1bHQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBkZWJ1ZyA9IHJlcXVpcmUoJ2VsZWN0cm9uLWRlYnVnJyk7Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVpcmUoJy4vd2VicGFjay1hbmd1bGFyLWF1dG9ib290c3RyYXAnKS5kZWZhdWx0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWlyZSgnZWxlY3Ryb24tZGVidWcnKSh7IHNob3dEZXZUb29sczogdHJ1ZSB9KTsK</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsKICByZXF1aXJlKCcuL3dlYnBhY2stYW5ndWxhci1hdXRvYm9vdHN0cmFwJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KCdrZXlkb3duOiAnICsgZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KGUud2hpY2gpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciBkZWJ1ZyA9IHJlcXVpcmUoJ2VsZWN0cm9uLWRlYnVnJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGJ1dHRvbiBvbmNsaWNrPSJ0b2dnbGVEZXZUb29scygpIj5Ub2dnbGUgWWUgT2xkZSBEZXZlIFRvb2xlczwvYnV0dG9uPgo=</text>
+        <text encoding="base64">cmVxdWlyZSgnZWxlY3Ryb24tZGVidWcnKSh7IHNob3dEZXZUb29sczogdHJ1ZSB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KICAgICAgICBmdW5jdGlvbiB0b2dnbGVEZXZUb29scygpIHsKICAgICAgICAgIHJlcXVpcmUoJ3JlbW90ZScpLmdldEN1cnJlbnRXaW5kb3coKS50b2dnbGVEZXZUb29scygpOwogICAgICAgIH0KICAgICAgICBjb25zb2xlLmxvZygnbW9vJyk7CiAgICAgICAgZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcigna2V5ZG93bicsIGZ1bmN0aW9uKGUpIHsKICAgICAgICAgIGNvbnNvbGUubG9nKGUpOwogICAgICAgICAgc3dpdGNoIChlLndoaWNoKSB7CiAgICAgICAgICAgIGNhc2UgMTIzOiAgIC8vIEYxMgogICAgICAgICAgICAgIHJlcXVpcmUoJ3JlbW90ZScpLmdldEN1cnJlbnRXaW5kb3coKS50b2dnbGVEZXZUb29scygpOwogICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIDExNjoKICAgICAgICAgICAgICBsb2NhdGlvbi5yZWxvYWQoKTsKICAgICAgICAgIH0KICAgICAgICB9KTsKICAgIDwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KCdrZXlkb3duOiAnICsgZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFwcFBhdGggPSBhcHAuZ2V0QXBwUGF0aCgpOwogICAgY29uc29sZS5sb2coYXBwUGF0aCk7CiAgICB0aGlzLl93aW5kb3cubG9hZFVSTCgnZmlsZTovLy4vaW5kZXguaHRtbCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2FkaW5nOiAnICsgaW5kZXhQYXRoKTsK</text>
+        <text encoding="base64">PGJ1dHRvbiBvbmNsaWNrPSJ0b2dnbGVEZXZUb29scygpIj5Ub2dnbGUgWWUgT2xkZSBEZXZlIFRvb2xlczwvYnV0dG9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09rL1RpdGxlL2c=</text>
