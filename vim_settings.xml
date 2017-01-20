@@ -188,9 +188,6 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="K:/DeliberatePractice/electron/weather/node_modules/@types/electron/index.d.ts" timestamp="1484316623363">
-        <mark key="'" line="2283" column="22" />
-      </file>
       <file name="K:/DeliberatePractice/angular2_todo/src/app/app.component.html" timestamp="1475499092255">
         <mark key="[" line="11" column="48" />
         <mark key="]" line="11" column="48" />
@@ -1150,9 +1147,6 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="K:/DeliberatePractice/electron/weather/app/index.js" timestamp="1484574059258">
-        <mark key="'" line="19" column="38" />
-      </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/workflows/route.config.ts" timestamp="1478770529448">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="15" column="54" />
@@ -1229,6 +1223,12 @@
         <mark key="]" line="14" column="8" />
         <mark key="." line="14" column="8" />
         <mark key="^" line="14" column="8" />
+      </file>
+      <file name="K:/DeliberatePractice/electron/weather/src/components/shared/app-menu/directive.ts" timestamp="1484915864659">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="4" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/app.ts" timestamp="1473778776530">
         <mark key="[" line="36" column="0" />
@@ -1325,9 +1325,9 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="K:/DeliberatePractice/electron/weather/package.json" timestamp="1484644134816">
+      <file name="K:/DeliberatePractice/electron/weather/package.json" timestamp="1484915941314">
         <mark key="'" line="9" column="9" />
-        <mark key="[" line="14" column="35" />
+        <mark key="[" line="14" column="80" />
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
@@ -1476,9 +1476,6 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="K:/DeliberatePractice/electron/weather/app/app.js" timestamp="1484574069546">
-        <mark key="'" line="11" column="43" />
-      </file>
       <file name="K:/abx/abx-vms-app/src/routes.config.ts" timestamp="1473755420512">
         <mark key="[" line="40" column="132" />
         <mark key="]" line="40" column="102" />
@@ -1574,10 +1571,10 @@
         <mark key="." line="32" column="51" />
         <mark key="^" line="32" column="51" />
       </file>
-      <file name="K:/DeliberatePractice/electron/weather/src/index.html" timestamp="1484575817304">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="K:/DeliberatePractice/electron/weather/src/index.html" timestamp="1484915305490">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="1" />
+        <mark key="." line="5" column="1" />
       </file>
       <file name="K:/DeliberatePractice/electron/weather/src/webpack-angular-autobootstrap.js" timestamp="1484641450320">
         <mark key="[" line="27" column="47" />
@@ -1597,12 +1594,11 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="K:/DeliberatePractice/electron/weather/webpack.config.js" timestamp="1484642638815">
-        <mark key="'" line="53" column="7" />
-        <mark key="[" line="70" column="38" />
-        <mark key="]" line="70" column="26" />
-        <mark key="." line="70" column="26" />
-        <mark key="^" line="70" column="26" />
+      <file name="K:/DeliberatePractice/electron/weather/webpack.config.js" timestamp="1484916463023">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="27" column="16" />
+        <mark key="." line="27" column="16" />
+        <mark key="^" line="27" column="16" />
       </file>
       <file name="K:/playground/VueTodo/tooling/webpack.development.js" timestamp="1481545481779">
         <mark key="[" line="1" column="0" />
@@ -1711,9 +1707,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="5" />
       </file>
-      <file name="K:/playground/VueTodo/src/utils/context.ts" timestamp="1481548034981">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="K:/Chillisoft/Workflow/source/workflow-webapp/src/components/auth-test/directive.ts" timestamp="1473751408403">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="24" />
@@ -1737,6 +1730,11 @@
         <mark key="]" line="4" column="66" />
         <mark key="^" line="4" column="66" />
         <mark key="." line="4" column="66" />
+      </file>
+      <file name="K:/DeliberatePractice/electron/weather/src/components/app-shell/directive.ts" timestamp="1484915329126">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
       </file>
       <file name="K:/Chillisoft/Workflow/source/Workflow.WebApp/tooling/hook-html-requires.js" timestamp="1474360132721">
         <mark key="[" line="1" column="0" />
@@ -1797,8 +1795,8 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="K:/DeliberatePractice/electron/weather/src/app.ts" timestamp="1484643626802">
-        <mark key="[" line="3" column="0" />
+      <file name="K:/DeliberatePractice/electron/weather/src/app.ts" timestamp="1484916138700">
+        <mark key="[" line="0" column="56" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
@@ -2021,7 +2019,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="10" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="195" column="2" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="112" column="47" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
       <jump line="130" column="33" filename="K:/Chillisoft/Workflow/source/Workflow.WebApp/src/components/notifications/notifications.service.ts" />
@@ -2121,55 +2118,56 @@
       <jump line="19" column="38" filename="K:/DeliberatePractice/electron/weather/app/index.js" />
       <jump line="11" column="43" filename="K:/DeliberatePractice/electron/weather/app/app.js" />
       <jump line="53" column="7" filename="K:/DeliberatePractice/electron/weather/webpack.config.js" />
+      <jump line="8" column="2" filename="K:/DeliberatePractice/electron/weather/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiCg==</text>
+      <register name="&quot;" type="4">
+        <text>process.env.TARGET || 'electron',</text>
       </register>
       <register name="-" type="4">
-        <text>egister</text>
+        <text>process.env.TARGET || 'electron',</text>
       </register>
       <register name="/" type="4">
-        <text>index</text>
+        <text encoding="base64">XDx3ZWJwYWNrVGFyZ2V0RWxlY3Ryb25SZW5kZXJlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT5PbmU8L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiCg==</text>
+        <text encoding="base64">ICB3ZWJwYWNrVGFyZ2V0RWxlY3Ryb25SZW5kZXJlciA9IHJlcXVpcmUoJ3dlYnBhY2stdGFyZ2V0LWVsZWN0cm9uLXJlbmRlcmVyJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IElSZXF1ZXN0Q29uZmlnID0gYW5ndWxhci5JUmVxdWVzdENvbmZpZzsK</text>
+        <text encoding="base64">Ly8gb3B0aW9ucy50YXJnZXQgPSB3ZWJwYWNrVGFyZ2V0RWxlY3Ryb25SZW5kZXJlcihvcHRpb25zKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qCiAgICBuZXcgd2VicGFjay5vcHRpbWl6ZS5Db21tb25zQ2h1bmtQbHVnaW4oewogICAgICBuYW1lOiBbJ21haW4nLCAnYXBwJywgJ3ZlbmRvciddCiAgICB9KSwKICAgICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3luY2hyb25vdXNQcm9taXNlIH0gZnJvbSAnc3luY2hyb25vdXMtcHJvbWlzZSc7CnZhciBwID0gbmV3IFN5bmNocm9ub3VzUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7Cn0pOwpwLgo=</text>
+        <text encoding="base64">ICAgICAgICAiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFwcE5hbWUgPSAnd2VhdGhlci5hcHAnLAo=</text>
+        <text encoding="base64">aW1wb3J0IElSZXF1ZXN0Q29uZmlnID0gYW5ndWxhci5JUmVxdWVzdENvbmZpZzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyA9IFsKICAgICAgJ3VpLnJvdXRlcicsCiAgICAgICduZ0FuaW1hdGUnCiAgICBdLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgYXV0b0xvYWRlciA9IHJlcXVpcmUoJy4vd2VicGFjay1hbmd1bGFyLWF1dG9ib290c3RyYXAnKS5kZWZhdWx0Owo=</text>
+        <text encoding="base64">aW1wb3J0IHsgU3luY2hyb25vdXNQcm9taXNlIH0gZnJvbSAnc3luY2hyb25vdXMtcHJvbWlzZSc7CnZhciBwID0gbmV3IFN5bmNocm9ub3VzUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7Cn0pOwpwLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXV0bwo=</text>
+        <text encoding="base64">ICAgIGFwcE5hbWUgPSAnd2VhdGhlci5hcHAnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyA9IFsKICAgICAgJ3VpLnJvdXRlcicsCiAgICAgICduZ0FuaW1hdGUnCiAgICBdLAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09rL1RpdGxlL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>index</last-search>
+      <last-search encoding="base64">XDx3ZWJwYWNrVGFyZ2V0RWxlY3Ryb25SZW5kZXJlclw+</last-search>
       <last-offset />
-      <last-pattern>index</last-pattern>
+      <last-pattern encoding="base64">XDx3ZWJwYWNrVGFyZ2V0RWxlY3Ryb25SZW5kZXJlclw+</last-pattern>
       <last-replace>Title</last-replace>
       <last-substitute>Ok</last-substitute>
       <last-dir>1</last-dir>
@@ -2177,7 +2175,6 @@
     </search>
     <history>
       <history-search>
-        <entry>set_en</entry>
         <entry>anuglar-an</entry>
         <entry>angular-aria</entry>
         <entry>reduce</entry>
@@ -2197,6 +2194,7 @@
         <entry>html'</entry>
         <entry>bundle</entry>
         <entry>index</entry>
+        <entry encoding="base64">XDx3ZWJwYWNrVGFyZ2V0RWxlY3Ryb25SZW5kZXJlclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy4qL1UvZw==</entry>
