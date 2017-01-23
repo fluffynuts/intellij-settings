@@ -229,6 +229,11 @@
         <mark key="." line="31" column="15" />
         <mark key="^" line="31" column="15" />
       </file>
+      <file name="K:/scratch/polymer/polymer-first-elements/icon-toggle.html" timestamp="1485154846168">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="K:/DeliberatePractice/angular2_todo/src/app/components/todo/component.spec.ts" timestamp="1475504302529">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="25" />
@@ -2129,7 +2134,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmICgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>process.env.TARGET || 'electron',</text>
@@ -2141,31 +2146,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT5PbmU8L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB3ZWJwYWNrVGFyZ2V0RWxlY3Ryb25SZW5kZXJlciA9IHJlcXVpcmUoJ3dlYnBhY2stdGFyZ2V0LWVsZWN0cm9uLXJlbmRlcmVyJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gb3B0aW9ucy50YXJnZXQgPSB3ZWJwYWNrVGFyZ2V0RWxlY3Ryb25SZW5kZXJlcihvcHRpb25zKTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICBuZXcgd2VicGFjay5vcHRpbWl6ZS5Db21tb25zQ2h1bmtQbHVnaW4oewogICAgICBuYW1lOiBbJ21haW4nLCAnYXBwJywgJ3ZlbmRvciddCiAgICB9KSwKICAgICovCg==</text>
+        <text encoding="base64">ICAgIGlmICgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiCg==</text>
+        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IElSZXF1ZXN0Q29uZmlnID0gYW5ndWxhci5JUmVxdWVzdENvbmZpZzsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2cK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB3ZWJwYWNrVGFyZ2V0RWxlY3Ryb25SZW5kZXJlciA9IHJlcXVpcmUoJ3dlYnBhY2stdGFyZ2V0LWVsZWN0cm9uLXJlbmRlcmVyJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09rL1RpdGxlL2c=</text>
